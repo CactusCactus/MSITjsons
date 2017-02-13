@@ -2,11 +2,11 @@
   "events": [
     {
       "id": 0,
-      "title": "Inne wydarzenie",
+      "title": "Zespół Mazowsze - koncert galowy",
       "eventCategoriesList": [
         {
           "id": 0,
-          "name": "Nazwa kategori 1",
+          "name": "muzyka",
           "image": {
             "id": 0,
             "uri": "http://www.drodd.com/images15/c5.png",
@@ -23,20 +23,20 @@
           }
         }
       ],
-      "shortDescription": "krótki opis",
-      "content": "Zawartość wydarzenia",
+      "shortDescription": "Centrum Kongresowe ICE Kraków",
+      "content": "Państwowy Zespół Ludowy Pieśni i Tańca MAZOWSZE powraca do Krakowa z wielkim koncertem galowym! Wspaniałą atmosferę i niezapomniane wrażenia zapewni 120 tancerzy, śpiewaków i muzyków, ponad 1500 przepięknych kostiumów z 20 etnograficznych regionów Polski. W programie koncertu najpiękniejsze tańce: polonez, krakowiak, oberek, kujawiak i mazur oraz najpopularniejsze piosenki. Zespół Mazowsze noszący miano Ambasadora Kultury Polskiej – jest jednym z najbardziej znanych na świecie, polskich zespołów artystycznych, ściśle powiązanych z tradycją i kulturą ludową, narodowymi tańcami i piosenkami",
       "date": {
         "dateFrom": "2017-01-01T12:00:00.001Z",
         "dateTo": "2017-02-01T12:00:00.001Z"
       },
       "thumbnail": {
         "id": 3,
-        "uri": "http://affinityallianceco.com.au/wp-content/uploads/2015/06/events-icon-orange-.jpg",
+        "uri": "https://cojestgrane.pl/l/3zhu.jpeg",
         "path": ""
       },
       "image": [{
         "id": 1,
-        "uri": "http://affinityallianceco.com.au/wp-content/uploads/2015/06/events-icon-orange-.jpg",
+        "uri": "https://cojestgrane.pl/l/3zhu.jpeg",
         "path": ""
       }],
       "disabledFacilities": true,
@@ -93,5 +93,194 @@
           "name": "Zamek królewski na Wawelu"
         }
       ]
-    }]
+    },
+   {
+      "id": 1,
+      "title": "Justyna Steczkowska akustycznie",
+      "eventCategoriesList": [
+        {
+          "id": 0,
+          "name": "muzyka",
+          "image": {
+            "id": 0,
+            "uri": "http://www.drodd.com/images15/c5.png",
+            "path": ""
+          }
+        },
+        {
+          "id": 1,
+          "name": "Nazwa kategori 2",
+          "image": {
+            "id": 0,
+            "uri": "http://www.drodd.com/images15/c5.png",
+            "path": ""
+          }
+        }
+      ],
+      "shortDescription": "Teatr im. Juliusza Słowackiego",
+      "content": "Szamanka polskiej sceny muzycznej. Artystka nietuzinkowa, wszechstronnie uzdolniona, która do tej pory dała się poznać jako wokalistka, skrzypaczka, kompozytorka i autorka tekstów, aktorka oraz fotograf. Jest jedną z niewielu polskich wokalistek, która może pochwalić się 4-oktawową skalą głosu. Dzięki niesamowitemu talentowi zdobyła ogromne uznanie w branży muzycznej, a miliony Polaków pokochały ją za twórczość, charyzmę i niepowtarzalny styl.",
+      "date": {
+        "dateFrom": "2017-01-01T12:00:00.001Z",
+        "dateTo": "2017-02-01T12:00:00.001Z"
+      },
+      "thumbnail": {
+        "id": 3,
+        "uri": "http://allaboutmusic.pl/wp-content/uploads/2015/10/justyna-steczkowska-fot-michal-panszczyk.jpg",
+        "path": ""
+      },
+      "image": [{
+        "id": 1,
+        "uri": "http://allaboutmusic.pl/wp-content/uploads/2015/10/justyna-steczkowska-fot-michal-panszczyk.jpg",
+        "path": ""
+      }],
+      "disabledFacilities": true,
+      "www": "example.com",
+      "placeId": "0",
+      "address": {
+        "id": 0,
+        "country": "Polska"
+      },
+      "contact": {
+        "mailsList": [
+          {
+            "value": "mail@mail.com"
+          }
+        ],
+        "wwwList": [
+          {
+            "value": "example.com"
+          }
+        ],
+        "phonesList": [
+          {
+            "value": "123456789"
+          }
+        ],
+        "faxList": [
+          {
+            "value": "mail@mail.com"
+          }
+        ]
+      },
+      "localization": {
+        "description": "Lokalizacja",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krak%C3%B3w_-_Sukiennice_01.jpg/250px-Krak%C3%B3w_-_Sukiennice_01.jpg",
+        "coordinatesList": [
+          {
+            "id": 0,
+            "lat": 10,
+            "lon": 10,
+            "elv": 5
+          }
+        ],
+		"mainCoordinates": {
+			"id": "0",
+			"lat": "50.0667",
+			"lon": "19.94226",
+			"elv": "1"
+		}
+      },
+      "connectedContentList": [
+        {
+          "id": 1011023,
+          "category": "AC_POI_OPEN",
+          "name": "Zamek królewski na Wawelu"
+        }
+      ]
+    },
+	{
+      "id": 3,
+      "title": "Skunk Anansie w Łaźni Nowej",
+      "eventCategoriesList": [
+        {
+          "id": 0,
+          "name": "muzyka",
+          "image": {
+            "id": 0,
+            "uri": "http://www.drodd.com/images15/c5.png",
+            "path": ""
+          }
+        },
+        {
+          "id": 1,
+          "name": "Nazwa kategori 2",
+          "image": {
+            "id": 0,
+            "uri": "http://www.drodd.com/images15/c5.png",
+            "path": ""
+          }
+        }
+      ],
+      "shortDescription": "Teatr Łaźnia Nowa",
+      "content": "Ponad dwadzieścia niezwykłych lat, pełnych podróży po całym świecie i multiplatynowych wydawnictw. Jak mówi ikoniczna frontwomanka brytyjskiego Skunk Anansie, po takim czasie wciąż są outsiderami, ale dobrze się z tym czują: “To, co na początku twojej drogi świadczy o twojej inności, staje się tym, za co ludzie cię kochają.” – opowiada o historii zespołu.",
+      "date": {
+        "dateFrom": "2017-01-01T12:00:00.001Z",
+        "dateTo": "2017-02-01T12:00:00.001Z"
+      },
+      "thumbnail": {
+        "id": 3,
+        "uri": "http://images.popmatters.com/news_art/s/skunk-anansie-2012-500x250.jpg",
+        "path": ""
+      },
+      "image": [{
+        "id": 1,
+        "uri": "http://images.popmatters.com/news_art/s/skunk-anansie-2012-500x250.jpg",
+        "path": ""
+      }],
+      "disabledFacilities": true,
+      "www": "example.com",
+      "placeId": "0",
+      "address": {
+        "id": 0,
+        "country": "Polska"
+      },
+      "contact": {
+        "mailsList": [
+          {
+            "value": "mail@mail.com"
+          }
+        ],
+        "wwwList": [
+          {
+            "value": "example.com"
+          }
+        ],
+        "phonesList": [
+          {
+            "value": "123456789"
+          }
+        ],
+        "faxList": [
+          {
+            "value": "mail@mail.com"
+          }
+        ]
+      },
+      "localization": {
+        "description": "Lokalizacja",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krak%C3%B3w_-_Sukiennice_01.jpg/250px-Krak%C3%B3w_-_Sukiennice_01.jpg",
+        "coordinatesList": [
+          {
+            "id": 0,
+            "lat": 10,
+            "lon": 10,
+            "elv": 5
+          }
+        ],
+		"mainCoordinates": {
+			"id": "0",
+			"lat": "50.0667",
+			"lon": "19.94226",
+			"elv": "1"
+		}
+      },
+      "connectedContentList": [
+        {
+          "id": 1011023,
+          "category": "AC_POI_OPEN",
+          "name": "Zamek królewski na Wawelu"
+        }
+      ]
+    }
+  ]
 }
