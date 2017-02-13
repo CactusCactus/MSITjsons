@@ -1,5 +1,7 @@
 {
-	"places": [{
+	"places": [
+
+    {
 		"id": 101,
 		"name": "Kościół w Połomii",
 		"shortDescription": "Parafia w Połomi powstała na przełomie XIII i XIV wieku.",
@@ -70,5 +72,69 @@
 			"category": "Ważne",
 			"name": "Powiązane wydarzenie"
 		}]
-	}]
+	}
+  ,
+  {
+  "id": 102,
+  "name": "Oberża Swojskie Jadło",
+  "shortDescription": "Pizzeria Oberża w Krynicy Zdroju zaprasza na pizzę oraz dania kuchni regionalnej.",
+  "content": "Pizzeria Oberża jest położona w centrum Krynicy Zdroju. Wystrój lokalu i muzyka w stylu góralskim. Oberża to miejsce, w którym można spotkać się ze znajomymi i rodziną przy dobrym jedzeniu, ale również dobrze zabawić. Poza pizzą restauracja oferuje jedzenie kuchni regionalnej.\n Pizze można zamówić na telefon. Na terenie Krynicy Zdroju dowóz gratis.\n Przykładowe pozycje menu:\n - Antrykot z Woła z grilla\n - Baranina na kij nabita \n - Bacy kotlet u ceprów\n - Staropolski stek z wieprza z cebulą i pieczarkami/n/nSzef kuchni poleca pizze Michała.",
+  "placeCategoriesList": [{
+    "id": 0,
+    "name": "RESTAURANT",
+    "image": {
+      "id": 0,
+      "uri": "https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-15-512.png",
+      "path": ""
+    }
+  }],
+  "openHours": "12:00 - 22:00",
+  "thumbnail": {
+    "id": 3,
+    "uri": "http://i.nocimg.pl/s4/143/131-krynica-zdroj-krynica-gorska-oberza-swojskie.jpg",
+    "path": ""
+  },
+  "images": [{
+    "id": 1,
+    "uri": "https://lh3.googleusercontent.com/-fgzr66BH6IU/VkN9sCigseI/AAAAAAAAABg/RZVxMx1Wqm8_676Uk4huJBvtqaAQuOUBgCJkC/w600-k/",
+    "path": ""
+  }],
+  "disabledFacilities": true,
+  "address": {
+    "id": 0,
+    "country": "Polska"
+  },
+  "contact": {
+    "mailsList": [
+
+    ],
+    "wwwList": [{
+      "value": "http://www.oberza-krynica.info/"
+    }],
+    "phonesList": [{
+      "value": "18 471 60 84"
+    }],
+    "faxList": []
+  },
+  "localization": {
+    "description": "Marszałka Józefa Piłsudskiego 19, 33-380 Krynica-Zdrój",
+    "image": "",
+    "coordinatesList": [{
+      "id": 0,
+      "lat": 49.4243309,
+      "lon": 20.956461,
+      "elv": 5
+    }],
+    "mainCoordinates": {
+      "id": "1230",
+      "lat": 49.4243309,
+      "lon": 20.956461,
+      "elv": 5
+    }
+  },
+  "connectedContentList": []
+}
+
+
+]
 }
