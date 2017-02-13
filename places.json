@@ -133,6 +133,66 @@
     }
   },
   "connectedContentList": []
+},
+ {
+  "id": 1011023,
+  "name": "Zamek Królewski na Wawelu",
+  "shortDescription": "Zamek Królewski na Wawelu wraz ze wzgórzem wawelskim to jedno z najbardziej znaczących historycznie i kulturalnie miejsc w Polsce",
+  "content": "Zamek Królewski na Wawelu wraz ze wzgórzem wawelskim to jedno z najbardziej znaczących historycznie i kulturalnie miejsc w Polsce. Będący przez wieki siedzibą królów polskich i symbolem państwo­wości, w r. 1930 Zamek stał się także jednym z najważniejszych muzeów w Polsce. Gromadzi ono kolekcje obrazów, grafik, rzeźb, tkanin, wyrobów złotniczych, militariów, porcelany i mebli. W komnatach eksponowane są słynne arrasy Zygmunta Augusta i wspaniałe renesansowe malowidła włoskie z kolekcji Lanc­korońskich, a wawelskie zbiory sztuki wschodniej zawierają najważniejszą i największą kolekcję na­miotów w Europie. Zamek Królewski jest też ważnym ośrodkiem konserwacji dzieł sztuki. Stałe wystawy odtwarzają wygląd sal z okresu renesansu i baroku. Co roku ponad milion turystów zwiedza stałe i czasowe wystawy prezentowane na zamku. Szacuje się, że drugie tyle odwiedza wzgórze. Prawie 20 tysięcy uczniów bierze udział w lekcjach muze­alnych. Ponadto młodzież i dzieci uczestniczą w specjalnych zajęciach oraz konkursach nauko­wych i plastycznych. Chodzą pogłoski, że niejaki Mateusz z Mogiły ma przodków na Wawelu",
+  "placeCategoriesList": [{
+    "id": 5,
+    "name": "MONUMENT",
+    "image": {
+      "id": 0,
+      "uri": "https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-15-512.png",
+      "path": ""
+    }
+  }],
+  "openHours": "09:00 - 20:00",
+  "thumbnail": {
+    "id": 3,
+    "uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg",
+    "path": ""
+  },
+  "images": [{
+    "id": 1,
+    "uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg",
+    "path": ""
+  }],
+  "disabledFacilities": true,
+  "address": {
+    "id": 0,
+    "country": "Polska"
+  },
+  "contact": {
+    "mailsList": [
+
+    ],
+    "wwwList": [{
+      "value": "http://wawel.krakow.pl"
+    }],
+    "phonesList": [{
+      "value": "18 471 60 84"
+    }],
+    "faxList": []
+  },
+  "localization": {
+    "description": "Wawel, Kraków",
+    "image": "",
+    "coordinatesList": [{
+      "id": 0,
+      "lat": 49.4243309,
+      "lon": 20.956461,
+      "elv": 5
+    }],
+    "mainCoordinates": {
+      "id": "1230",
+      "lat": 49.4243309,
+      "lon": 20.956461,
+      "elv": 5
+    }
+  },
+  "connectedContentList": []
 }
 
 
