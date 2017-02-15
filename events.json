@@ -34,7 +34,7 @@
         "uri": "https://cojestgrane.pl/l/3zhu.jpeg",
         "path": ""
       },
-      "image": [{
+      "images": [{
         "id": 1,
         "uri": "https://cojestgrane.pl/l/3zhu.jpeg",
         "path": ""
@@ -128,7 +128,7 @@
         "uri": "http://allaboutmusic.pl/wp-content/uploads/2015/10/justyna-steczkowska-fot-michal-panszczyk.jpg",
         "path": ""
       },
-      "image": [{
+      "images": [{
         "id": 1,
         "uri": "http://allaboutmusic.pl/wp-content/uploads/2015/10/justyna-steczkowska-fot-michal-panszczyk.jpg",
         "path": ""
@@ -222,7 +222,7 @@
         "uri": "http://images.popmatters.com/news_art/s/skunk-anansie-2012-500x250.jpg",
         "path": ""
       },
-      "image": [{
+      "images": [{
         "id": 1,
         "uri": "http://images.popmatters.com/news_art/s/skunk-anansie-2012-500x250.jpg",
         "path": ""
