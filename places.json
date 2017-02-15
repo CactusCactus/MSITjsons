@@ -99,7 +99,7 @@
     "uri": "https://lh3.googleusercontent.com/-fgzr66BH6IU/VkN9sCigseI/AAAAAAAAABg/RZVxMx1Wqm8_676Uk4huJBvtqaAQuOUBgCJkC/w600-k/",
     "path": ""
   }],
-  "disabledFacilities": true,
+  "disabledFacilities": false,
   "address": {
     "id": 0,
     "country": "Polska"
@@ -159,6 +159,11 @@
     "uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg",
     "path": ""
   }],
+	"audio": [{
+		"id": 13227638,
+		"uri": "http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04swsl9.mp3",
+		"path": ""
+	}],
   "disabledFacilities": true,
   "address": {
     "id": 0,
@@ -174,6 +179,7 @@
     "phonesList": [{
       "value": "18 471 60 84"
     }],
+
     "faxList": []
   },
   "localization": {
@@ -181,18 +187,25 @@
     "image": "",
     "coordinatesList": [{
       "id": 0,
-      "lat": 49.4243309,
-      "lon": 20.956461,
+      "lat": 50.0544295,
+      "lon": 19.9355152,
       "elv": 5
     }],
     "mainCoordinates": {
       "id": "1230",
-      "lat": 49.4243309,
-      "lon": 20.956461,
+      "lat": 50.0544295,
+      "lon": 19.9355152,
       "elv": 5
     }
   },
-  "connectedContentList": []
+  "connectedContentList": [
+		{
+			"id": 1011023,
+			"category": "AC_POI_OPEN",
+			"name": "Zamek królewski na Wawelu"
+		}
+
+	]
 }
 
 
