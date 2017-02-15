@@ -203,6 +203,11 @@
 			"id": 1011023,
 			"category": "AC_POI_OPEN",
 			"name": "Zamek królewski na Wawelu"
+		},
+		{
+			"id": 13227638,
+			"category": "AC_AUDIO_OPEN",
+			"name": "Dywagacje na temat Brexitu"
 		}
 
 	]
