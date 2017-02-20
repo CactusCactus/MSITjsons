@@ -301,6 +301,7 @@
 },
 "connectedContentList": []
 },
+
 {
 "id": 1011024,
 "name": "Rynek Główny",
@@ -329,7 +330,6 @@
 
 "disabledFacilities": true,
 
-
 "localization": {
 	"description": "Rynek główny w Krakowie",
 	"image": "",
@@ -343,6 +343,53 @@
 		"id": "1231",
 		"lat": 50.0616285,
 		"lon": 19.9362169,
+		"elv": 5
+	}
+}
+},
+
+
+{
+"id": 1011025,
+"name": "Sukiennice",
+"shortDescription": "Jest to jedno z najbardziej charakterystycznych miejsc na mapie zabytków Krakowa. Nie każdy wie, że można uznać je za najstarszy w Polsce dom handlowy! Kiedyś było to bowiem miejsce z zadaszonymi rzędami kramów, w których sprzedawano sukno. Dzisiaj można znaleźć tutaj stragany z rękodziełem i pamiątkami; dziewczęta mogą zaopatrzyć się w bursztynową biżuterię, a chłopcy w miecze i elementy rycerskiej zbroi. Część Sukiennic zajmuje Muzeum Narodowe z Galerią Malarstwa i Rzeźby XIX wieku prezentującą dzieła wybitnych polskich twórców. Spacerując pośród arkad pod okiem maszkaronów wieńczących wspaniałą attykę, warto sobie uświadomić, że pierwsze Sukiennice, wówczas kamienne, powstały w XIII wieku. Dopiero wiek później wzniesiony został murowany budynek, który spłonął w wielkim pożarze miasta w 1555 roku. Odbudowa, zakończona cztery lata później, nadała Sukiennicom renesansową formę. I jeszcze ciekawostka dla spostrzegawczych! Przechodząc przez usytuowane na krótszej osi budynku przejście można zauważyć wiszący na łańcuchu duży żelazny nóż, z którym związana jest legenda o dwóch braciach, budowniczych wież Kościoła Mariackiego. Gdy jeden z nich zorientował się, że jego wieża jest niższa, z zazdrości zabił brata nożem. Gnębiony wyrzutami sumienia skoczył ze zbudowanej przez siebie wieży.",
+"content": "Jest to jedno z najbardziej charakterystycznych miejsc na mapie zabytków Krakowa. Nie każdy wie, że można uznać je za najstarszy w Polsce dom handlowy! Kiedyś było to bowiem miejsce z zadaszonymi rzędami kramów, w których sprzedawano sukno. Dzisiaj można znaleźć tutaj stragany z rękodziełem i pamiątkami; dziewczęta mogą zaopatrzyć się w bursztynową biżuterię, a chłopcy w miecze i elementy rycerskiej zbroi. Część Sukiennic zajmuje Muzeum Narodowe z Galerią Malarstwa i Rzeźby XIX wieku prezentującą dzieła wybitnych polskich twórców. Spacerując pośród arkad pod okiem maszkaronów wieńczących wspaniałą attykę, warto sobie uświadomić, że pierwsze Sukiennice, wówczas kamienne, powstały w XIII wieku. Dopiero wiek później wzniesiony został murowany budynek, który spłonął w wielkim pożarze miasta w 1555 roku. Odbudowa, zakończona cztery lata później, nadała Sukiennicom renesansową formę. I jeszcze ciekawostka dla spostrzegawczych! Przechodząc przez usytuowane na krótszej osi budynku przejście można zauważyć wiszący na łańcuchu duży żelazny nóż, z którym związana jest legenda o dwóch braciach, budowniczych wież Kościoła Mariackiego. Gdy jeden z nich zorientował się, że jego wieża jest niższa, z zazdrości zabił brata nożem. Gnębiony wyrzutami sumienia skoczył ze zbudowanej przez siebie wieży.",
+"placeCategoriesList": [{
+	"id": 5,
+	"name": "MONUMENT",
+	"image": {
+		"id": 0,
+		"uri": "https://cdn0.iconfinder.com/data/icons/business-finance-glyph/32/bank-building-128.png",
+		"path": ""
+	}
+}],
+"openHours": "08:00 - 20:00",
+"thumbnail": {
+	"id": 3,
+	"uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/A-10_Sukiennice_w_Krakowie_Krak%C3%B3w,_Rynek_G%C5%82%C3%B3wny_MM.jpg/240px-A-10_Sukiennice_w_Krakowie_Krak%C3%B3w,_Rynek_G%C5%82%C3%B3wny_MM.jpg",
+	"path": ""
+},
+"images": [{
+	"id": 1,
+	"uri": "http://www.krakow2016.com/media/cache/filemanager/rc/KZZW4Wgo/images/lp_baners/KRAKOW/SUKIENNICE2.jpg",
+	"path": ""
+}],
+
+"disabledFacilities": true,
+
+"localization": {
+	"description": "Rynek Główny 1",
+	"image": "",
+	"coordinatesList": [{
+		"id": 0,
+		"lat": 50.0616063,
+		"lon": 19.9373512,
+		"elv": 5
+	}],
+	"mainCoordinates": {
+		"id": "1232",
+		"lat": 50.0616063,
+		"lon": 19.9373512,
 		"elv": 5
 	}
 }
