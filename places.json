@@ -303,9 +303,12 @@
 },
 {
 "id": 1011024,
-"name": "Zamek Królewski na Wawelu",
-"shortDescription": "Zamek Królewski na Wawelu wraz ze wzgórzem wawelskim to jedno z najbardziej znaczących historycznie i kulturalnie miejsc w Polsce",
-"content": "Zamek Królewski na Wawelu wraz ze wzgórzem wawelskim to jedno z najbardziej znaczących historycznie i kulturalnie miejsc w Polsce. Będący przez wieki siedzibą królów polskich i symbolem państwo­wości, w r. 1930 Zamek stał się także jednym z najważniejszych muzeów w Polsce. Gromadzi ono kolekcje obrazów, grafik, rzeźb, tkanin, wyrobów złotniczych, militariów, porcelany i mebli. W komnatach eksponowane są słynne arrasy Zygmunta Augusta i wspaniałe renesansowe malowidła włoskie z kolekcji Lanc­korońskich, a wawelskie zbiory sztuki wschodniej zawierają najważniejszą i największą kolekcję na­miotów w Europie. Zamek Królewski jest też ważnym ośrodkiem konserwacji dzieł sztuki. Stałe wystawy odtwarzają wygląd sal z okresu renesansu i baroku. Co roku ponad milion turystów zwiedza stałe i czasowe wystawy prezentowane na zamku. Szacuje się, że drugie tyle odwiedza wzgórze. Prawie 20 tysięcy uczniów bierze udział w lekcjach muze­alnych. Ponadto młodzież i dzieci uczestniczą w specjalnych zajęciach oraz konkursach nauko­wych i plastycznych. Chodzą pogłoski, że niejaki Mateusz z Mogiły ma przodków na Wawelu",
+"name": "Rynek Główny",
+"shortDescription": "Rynek Główny to serce królewskiego miasta Krakowa. Dzień i noc toczy się tutaj pełne radości i inspiracji życie, a nad wszystkim czuwa duch przeszłości tego ważnego dla Europy miejsca. Plac o wymiarach 200 na 200 m był jednym z największych w średniowiecznej Europie. Rynek Główny ze względu na wielkość i zachowany układ architektoniczno-urbanistyczny z 1257 roku został wpisany na pierwszą listę Światowego Dziedzictwa UNESCO.
+
+Niemal każda kamieniczka i pałac wokół Rynku w obrębie Plant mają kilkaset lat. Tajemnice sprzed lat kryją również podziemia Rynku, które można zwiedzać poruszając się specjalnie wyznaczoną trasą. Najbardziej znane są jednak Sukiennice, które w średniowieczu, podobnie jak dzisiaj, tętniły życiem hali targowej. Gotycki kościół o dwóch wieżach to Kościół Mariacki, z którego co godzinę rozlega się charakterystyczny dla Krakowa hejnał, wygrywany przez trębacza na trąbce, i w którym znajduje się wspaniały ołtarz Wita Stwosza. Na Rynku, wśród kolorowych parasoli i kwiatów sprzedawanych przez krakowskie kwiaciarki, stoi pomnik Adama Mickiewicza. W pobliżu Rynku znajduje się Plac Szczepański, a za Kościołem Mariackim leży Mały Rynek, który tętni życiem świątecznych i ludowych kiermaszów. A może będziemy mieli szczęście zobaczyć na Rynku Lajkonika? Nawet jeśli nie, to towarzystwa dotrzymają na gołębie, które turyści karmią ziarnem i okruchami obwarzanka - krakowskiego specjału. Krakowski Rynek jest miejscem spotkań, letnich festiwali, salą koncertową dla ulicznych grajków, uroczych kawiarni i restauracji. To tutaj, jak nigdzie indziej, spotyka się przeszłość i teraźniejszość, która zachwyciła już niejednego.",
+"content": "<p>Rynek Gł&oacute;wny to serce kr&oacute;lewskiego miasta Krakowa. Dzień i noc toczy się tutaj pełne radości i inspiracji życie, a nad wszystkim czuwa duch przeszłości tego ważnego dla Europy miejsca. Plac o wymiarach 200 na 200 m&nbsp; był jednym z największych w średniowiecznej Europie. Rynek Gł&oacute;wny ze względu na wielkość i zachowany układ architektoniczno-urbanistyczny z 1257 roku został wpisany na pierwszą listę Światowego Dziedzictwa UNESCO. Niemal każda kamieniczka i pałac wok&oacute;ł Rynku w obrębie Plant mają kilkaset lat. Tajemnice sprzed lat kryją r&oacute;wnież podziemia Rynku, kt&oacute;re można zwiedzać poruszając się specjalnie wyznaczoną trasą. Najbardziej znane są jednak Sukiennice, kt&oacute;re w średniowieczu, podobnie jak dzisiaj, tętniły życiem hali targowej. Gotycki kości&oacute;ł o dw&oacute;ch wieżach to Kości&oacute;ł Mariacki, z kt&oacute;rego co godzinę rozlega się charakterystyczny dla Krakowa hejnał, wygrywany przez trębacza na trąbce, i w kt&oacute;rym znajduje się wspaniały ołtarz Wita Stwosza. Na Rynku, wśr&oacute;d kolorowych parasoli i kwiat&oacute;w sprzedawanych przez krakowskie kwiaciarki, stoi pomnik Adama Mickiewicza. W pobliżu Rynku znajduje się Plac Szczepański, a za Kościołem Mariackim leży Mały Rynek, kt&oacute;ry tętni życiem świątecznych i ludowych kiermasz&oacute;w. A może będziemy mieli szczęście zobaczyć na Rynku Lajkonika? Nawet jeśli nie, to towarzystwa dotrzymają na gołębie, kt&oacute;re turyści karmią ziarnem i okruchami obwarzanka - krakowskiego specjału. Krakowski Rynek jest miejscem spotkań, letnich festiwali, salą koncertową dla ulicznych grajk&oacute;w, uroczych kawiarni i restauracji. To tutaj, jak nigdzie indziej, spotyka się przeszłość i teraźniejszość, kt&oacute;ra zachwyciła już niejednego.</p>
+",
 "placeCategoriesList": [{
 	"id": 5,
 	"name": "MONUMENT",
@@ -318,12 +321,12 @@
 "openHours": "08:00 - 20:00",
 "thumbnail": {
 	"id": 3,
-	"uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg",
+	"uri": "http://www.ceresit.pl/img/huge/284.jpg",
 	"path": ""
 },
 "images": [{
 	"id": 1,
-	"uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg",
+	"uri": "http://www.krakow2016.com/media/cache/filemanager/rc/EXYufFl5/lp_baners/KRAKOW/RYNEK.jpg",
 	"path": ""
 }],
 
@@ -331,18 +334,18 @@
 
 
 "localization": {
-	"description": "Wawel, Kraków",
+	"description": "Rynek główny w Krakowie",
 	"image": "",
 	"coordinatesList": [{
 		"id": 0,
-		"lat": 50.0544295,
-		"lon": 19.9355152,
+		"lat": 50.0616285,
+		"lon": 19.9362169,
 		"elv": 5
 	}],
 	"mainCoordinates": {
-		"id": "1230",
-		"lat": 50.0544295,
-		"lon": 19.9355152,
+		"id": "1231",
+		"lat": 50.0616285,
+		"lon": 19.9362169,
 		"elv": 5
 	}
 }
