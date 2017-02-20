@@ -132,6 +132,11 @@
         "id": 1,
         "uri": "http://allaboutmusic.pl/wp-content/uploads/2015/10/justyna-steczkowska-fot-michal-panszczyk.jpg",
         "path": ""
+      },
+      {
+        "id": 2,
+        "uri": "http://cityfun24.pl/file/gig/217/516/dff2aeb4-9e0b-459a-b8e5-e4d2a1b1fe19.jpg",
+        "path": ""
       }],
       "disabledFacilities": true,
       "www": "example.com",
