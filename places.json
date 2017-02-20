@@ -212,7 +212,141 @@
 
 	]
 }
+,
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"id": 102,
+"name": "Oberża Swojskie Jadło",
+"shortDescription": "Pizzeria Oberża w Krynicy Zdroju zaprasza na pizzę oraz dania kuchni regionalnej.",
+"content": "Pizzeria Oberża jest położona w centrum Krynicy Zdroju. Wystrój lokalu i muzyka w stylu góralskim. Oberża to miejsce, w którym można spotkać się ze znajomymi i rodziną przy dobrym jedzeniu, ale również dobrze zabawić. Poza pizzą restauracja oferuje jedzenie kuchni regionalnej.\n Pizze można zamówić na telefon. Na terenie Krynicy Zdroju dowóz gratis.\n Przykładowe pozycje menu:\n - Antrykot z Woła z grilla\n - Baranina na kij nabita \n - Bacy kotlet u ceprów\n - Staropolski stek z wieprza z cebulą i pieczarkami/n/nSzef kuchni poleca pizze Michała.",
+"placeCategoriesList": [{
+	"id": 0,
+	"name": "RESTAURANT",
+	"image": {
+		"id": 0,
+		"uri": "https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-15-512.png",
+		"path": ""
+	}
+}],
+"openHours": "12:00 - 22:00",
+"thumbnail": {
+	"id": 3,
+	"uri": "http://i.nocimg.pl/s4/143/131-krynica-zdroj-krynica-gorska-oberza-swojskie.jpg",
+	"path": ""
+},
+"images": [{
+	"id": 1,
+	"uri": "https://lh3.googleusercontent.com/-fgzr66BH6IU/VkN9sCigseI/AAAAAAAAABg/RZVxMx1Wqm8_676Uk4huJBvtqaAQuOUBgCJkC/w600-k/",
+	"path": ""
+}],
+"disabledFacilities": false,
+"address": {
+	"id": 0,
+	"country": "Polska"
+},
+"contact": {
+	"mailsList": [
+
+	],
+	"wwwList": [{
+		"value": "http://www.oberza-krynica.info/"
+	}],
+	"phonesList": [{
+		"value": "18 471 60 84"
+	}],
+	"faxList": []
+},
+"localization": {
+	"description": "Marszałka Józefa Piłsudskiego 19, 33-380 Krynica-Zdrój",
+	"image": "",
+	"coordinatesList": [{
+		"id": 0,
+		"lat": 49.4243309,
+		"lon": 20.956461,
+		"elv": 5
+	}],
+	"mainCoordinates": {
+		"id": "1230",
+		"lat": 49.4243309,
+		"lon": 20.956461,
+		"elv": 5
+	}
+},
+"connectedContentList": []
+},
+{
+"id": 1011024,
+"name": "Zamek Królewski na Wawelu",
+"shortDescription": "Zamek Królewski na Wawelu wraz ze wzgórzem wawelskim to jedno z najbardziej znaczących historycznie i kulturalnie miejsc w Polsce",
+"content": "Zamek Królewski na Wawelu wraz ze wzgórzem wawelskim to jedno z najbardziej znaczących historycznie i kulturalnie miejsc w Polsce. Będący przez wieki siedzibą królów polskich i symbolem państwo­wości, w r. 1930 Zamek stał się także jednym z najważniejszych muzeów w Polsce. Gromadzi ono kolekcje obrazów, grafik, rzeźb, tkanin, wyrobów złotniczych, militariów, porcelany i mebli. W komnatach eksponowane są słynne arrasy Zygmunta Augusta i wspaniałe renesansowe malowidła włoskie z kolekcji Lanc­korońskich, a wawelskie zbiory sztuki wschodniej zawierają najważniejszą i największą kolekcję na­miotów w Europie. Zamek Królewski jest też ważnym ośrodkiem konserwacji dzieł sztuki. Stałe wystawy odtwarzają wygląd sal z okresu renesansu i baroku. Co roku ponad milion turystów zwiedza stałe i czasowe wystawy prezentowane na zamku. Szacuje się, że drugie tyle odwiedza wzgórze. Prawie 20 tysięcy uczniów bierze udział w lekcjach muze­alnych. Ponadto młodzież i dzieci uczestniczą w specjalnych zajęciach oraz konkursach nauko­wych i plastycznych. Chodzą pogłoski, że niejaki Mateusz z Mogiły ma przodków na Wawelu",
+"placeCategoriesList": [{
+	"id": 5,
+	"name": "MONUMENT",
+	"image": {
+		"id": 0,
+		"uri": "https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-15-512.png",
+		"path": ""
+	}
+}],
+"openHours": "08:00 - 20:00",
+"thumbnail": {
+	"id": 3,
+	"uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg",
+	"path": ""
+},
+"images": [{
+	"id": 1,
+	"uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg",
+	"path": ""
+}],
+
+"disabledFacilities": true,
+
+
+"localization": {
+	"description": "Wawel, Kraków",
+	"image": "",
+	"coordinatesList": [{
+		"id": 0,
+		"lat": 50.0544295,
+		"lon": 19.9355152,
+		"elv": 5
+	}],
+	"mainCoordinates": {
+		"id": "1230",
+		"lat": 50.0544295,
+		"lon": 19.9355152,
+		"elv": 5
+	}
+}
+}
 
 ]
 }
