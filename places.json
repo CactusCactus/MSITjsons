@@ -215,93 +215,6 @@
 ,
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{
-"id": 102,
-"name": "Oberża Swojskie Jadło",
-"shortDescription": "Pizzeria Oberża w Krynicy Zdroju zaprasza na pizzę oraz dania kuchni regionalnej.",
-"content": "Pizzeria Oberża jest położona w centrum Krynicy Zdroju. Wystrój lokalu i muzyka w stylu góralskim. Oberża to miejsce, w którym można spotkać się ze znajomymi i rodziną przy dobrym jedzeniu, ale również dobrze zabawić. Poza pizzą restauracja oferuje jedzenie kuchni regionalnej.\n Pizze można zamówić na telefon. Na terenie Krynicy Zdroju dowóz gratis.\n Przykładowe pozycje menu:\n - Antrykot z Woła z grilla\n - Baranina na kij nabita \n - Bacy kotlet u ceprów\n - Staropolski stek z wieprza z cebulą i pieczarkami/n/nSzef kuchni poleca pizze Michała.",
-"placeCategoriesList": [{
-	"id": 0,
-	"name": "RESTAURANT",
-	"image": {
-		"id": 0,
-		"uri": "https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-15-512.png",
-		"path": ""
-	}
-}],
-"openHours": "12:00 - 22:00",
-"thumbnail": {
-	"id": 3,
-	"uri": "http://i.nocimg.pl/s4/143/131-krynica-zdroj-krynica-gorska-oberza-swojskie.jpg",
-	"path": ""
-},
-"images": [{
-	"id": 1,
-	"uri": "https://lh3.googleusercontent.com/-fgzr66BH6IU/VkN9sCigseI/AAAAAAAAABg/RZVxMx1Wqm8_676Uk4huJBvtqaAQuOUBgCJkC/w600-k/",
-	"path": ""
-}],
-"disabledFacilities": false,
-"address": {
-	"id": 0,
-	"country": "Polska"
-},
-"contact": {
-	"mailsList": [
-
-	],
-	"wwwList": [{
-		"value": "http://www.oberza-krynica.info/"
-	}],
-	"phonesList": [{
-		"value": "18 471 60 84"
-	}],
-	"faxList": []
-},
-"localization": {
-	"description": "Marszałka Józefa Piłsudskiego 19, 33-380 Krynica-Zdrój",
-	"image": "",
-	"coordinatesList": [{
-		"id": 0,
-		"lat": 49.4243309,
-		"lon": 20.956461,
-		"elv": 5
-	}],
-	"mainCoordinates": {
-		"id": "1230",
-		"lat": 49.4243309,
-		"lon": 20.956461,
-		"elv": 5
-	}
-},
-"connectedContentList": []
-},
-
 {
 "id": 1011024,
 "name": "Rynek Główny",
@@ -393,7 +306,55 @@
 		"elv": 5
 	}
 }
+},
+
+
+{
+"id": 1011026,
+"name": "Kościół i klasztor oo. Cystersów w Mogile",
+"shortDescription": "Mogiła",
+"content": "Mogilski kościół Najświętszej Marii Panny i św. Wacława (ul. Klasztorna 11) oraz towarzyszący mu zespół klasztorny są jednymi z najcenniejszych zabytków sakralnych Małopolski. Cystersi, do których należy, przybyli tu w 1222 roku. Świątynię charakteryzują cechy typowe dla cysterskiego budownictwa w całej Europie: krótkie prezbiterium zamknięte prostą ścianą, do którego przylegają dwie pary bocznych kaplic, służące niegdyś mnichom do nocnych modlitw nakazanych surową zakonną regułą. W XVI wieku kaplice po stronie północnej przekształcono w jedną - świętego Krzyża, gdzie znajduje się słynący łaskami mogilski krucyfiks. Jest niezwykła rzeźba, którą według tradycji w XII wieku wyłowiono z Wisły. Jako jedyny element wyposażenia ocalała z pożaru kościoła w XV wieku. Spłonęły tylko włosy Chrystusa i przepaska na biodra. Dlatego od tamtej pory nakłada się figurze Zbawiciela perukę z prawdziwych włosów, a biodra przepasuje prawdziwą tkaniną. Z klasztorem cystersów w XVI wieku związany był Stanisław Samostrzelnik, niezwykle utalentowany mnich, który pełnił służbę Bogu iluminując księgi oraz malując obrazy i polichromie. Najlepszym przykładem jego zdolności są malowidła zdobiące prezbiterium i transept mogilskiego kościoła. Warto pamiętać, że podobne przykłady renesansowego malarstwa są niezmiernie rzadkie.",
+"placeCategoriesList": [{
+	"id": 7,
+	"name": "CHURCH",
+	"image": {
+		"id": 0,
+		"uri": "https://cdn0.iconfinder.com/data/icons/building-icons-rounded/110/Church-128.png",
+		"path": ""
+	}
+}],
+"openHours": "06:00 - 20:00",
+"thumbnail": {
+	"id": 3,
+	"uri": "http://www.wachock.cystersi.pl/files/image/cystersi/cystersi_w_polsce/cystersi%20w%20polsce-mogi%C5%82a.jpg",
+	"path": ""
+},
+"images": [{
+	"id": 1,
+	"uri": "http://www.krakow2016.com/media/cache/filemanager/rc/24HAbvtO/images/LP/archidiecezja_krakowska/Cystersi.jpg",
+	"path": ""
+}],
+
+"disabledFacilities": true,
+
+"localization": {
+	"description": "ul. Klasztorna 11, Kraków",
+	"image": "",
+	"coordinatesList": [{
+		"id": 0,
+		"lat": 50.0645359,
+		"lon": 20.052991,
+		"elv": 5
+	}],
+	"mainCoordinates": {
+		"id": "1233",
+		"lat": 50.0645359,
+		"lon": 20.052991,
+		"elv": 5
+	}
 }
+}
+
 
 ]
 }
