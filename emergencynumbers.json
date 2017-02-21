@@ -16,5 +16,37 @@
         "uri": "http://affinityallianceco.com.au/wp-content/uploads/2015/06/events-icon-orange-.jpg",
         "path": ""
       }]
-    }]
+    },
+
+    {
+      "name": "Telefon Dyżurny Komendy Straży Miejskiej",
+      "description": "",
+      "numberCategoriesList": [],
+      "phoneNumber": "303-256-723",
+      "areaIdentifier": 0
+    },
+    {
+      "name": "Straż pożarna",
+      "description": "",
+      "numberCategoriesList": [],
+      "phoneNumber": "303-256-723",
+      "areaIdentifier": 0
+    },
+
+    {
+      "name": "TOPR",
+      "description": "",
+      "numberCategoriesList": [],
+      "phoneNumber": "303-256-723",
+      "areaIdentifier": 0
+    },
+    {
+      "name": "GOPR",
+      "description": "",
+      "numberCategoriesList": [],
+      "phoneNumber": "303-256-723",
+      "areaIdentifier": 0
+    }
+
+  ]
 }
