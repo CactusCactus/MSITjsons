@@ -1,0 +1,44 @@
+{
+	"categories": [{
+		"id": 1,
+		"code": "MONUMENT",
+		"lang": "pl",
+		"translation": "Zabytek"
+	}, {
+		"id": 2,
+		"code": "MONUMENT",
+		"lang": "en",
+		"translation": "Monument"
+	}, {
+		"id": 3,
+		"code": "MUSEUM",
+		"lang": "pl",
+		"translation": "Muzeum"
+	}, {
+		"id": 4,
+		"code": "MUSEUM",
+		"lang": "en",
+		"translation": "Museum"
+	}, {
+		"id": 5,
+		"code": "CHURCH",
+		"lang": "pl",
+		"translation": "Kościół"
+	}, {
+		"id": 6,
+		"code": "CHURCH",
+		"lang": "en",
+		"translation": "Church"
+	}, {
+		"id": 7,
+		"code": "RESTAURANT",
+		"lang": "pl",
+		"translation": "Restauracja"
+	}, {
+		"id": 8,
+		"code": "RESTAURANT",
+		"lang": "pl",
+		"translation": "Restaurant"
+	}]
+
+}
