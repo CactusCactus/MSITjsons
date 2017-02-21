@@ -355,6 +355,125 @@
 }
 }
 
+,
+
+
+{
+"id": 1011027,
+"name": "Auschwitz-Birkenau",
+"shortDescription": "",
+"content": "Obóz Auschwitz stał się dla świata symbolem terroru, ludobójstwa i Szoa. Utworzony został przez Niemców w połowie 1940 r. na przedmieściach Oświęcimia, włączonego przez nazistów do Trzeciej Rzeszy. Bezpośrednim powodem utworzenia obozu była powiększająca się liczba aresztowanych masowo Polaków i przepełnienie istniejących więzień. Pierwszy transport Polaków dotarł do KL Auschwitz 14 czerwca 1940 r. z więzienia w Tarnowie. Początkowo miał to być kolejny z obozów koncentracyjnych, tworzonych przez nazistów już od początku lat trzydziestych. Funkcję tę Auschwitz spełniał przez cały okres swego istnienia, także gdy - od 1942 r. - stał się równocześnie jednym z ośrodków „Endlösung der Judenfrage” (ostatecznego rozwiązania kwestii żydowskiej) - nazistowskiego planu wymordowania Żydów zamieszkujących okupowane przez III Rzeszę tereny.",
+"placeCategoriesList": [{
+	"id": 7,
+	"name": "MUSEUM",
+	"image": {
+		"id": 0,
+		"uri": "https://camo.githubusercontent.com/6a6eb0055b744a26d4ae39ab356124f6fc7d5938/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313036373930372f313530363736302f35356131376163302d343934352d313165332d383337392d6133366264326261346436352e706e67",
+		"path": ""
+	}
+}],
+"openHours": "10:00 - 17:00",
+"thumbnail": {
+	"id": 3,
+	"uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Birkenau_gate.JPG/220px-Birkenau_gate.JPG",
+	"path": ""
+},
+"images": [{
+	"id": 1,
+	"uri": "https://www.google.pl/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjvoaqu86DSAhUCkiwKHUt9DtwQjRwIBw&url=http%3A%2F%2Fnewsbook.pl%2F2016%2F07%2F17%2Fmilczenie-papieza-w-auschwitz-bedzie-swiadectwem%2F&psig=AFQjCNFo9J3dGcIoju2jbgMlZRmVqeYUUw&ust=1487756591380879",
+	"path": ""
+}],
+
+"disabledFacilities": true,
+
+"localization": {
+	"description": "Więźniów Oświęcimia 20, Oświęcim, Polska",
+	"image": "",
+	"coordinatesList": [{
+		"id": 0,
+		"lat": 50.0274002812057,
+		"lon": 19.2019891217433,
+		"elv": 5
+	}],
+	"mainCoordinates": {
+		"id": "1241",
+		"lat": 50.0274002812057,
+		"lon": 19.2019891217433,
+		"elv": 5
+	}
+}
+}
+
+
+,
+
+
+{
+"id": 1011028,
+"name": "Kopalnia soli w Wieliczce",
+"shortDescription": "",
+"content": "Wieliczka dzięki kopalni soli znana jest na całym świecie. Sól z solanek powierzchniowych warzono tu już 3500 lat p.n.e., początki eksploatacji soli kamiennej datuje się natomiast na XIII w., z tego bowiem okresu pochodzi najstarszy szyb odkryty na dziedzińcu Zamku Żupnego. Początkowo kopalnia stanowiła własność książęcą, a następnie królewską. Z pieniędzy uzyskiwanych ze sprzedaży soli opłacano profesorów Akademii Krakowskiej, budowano i odnawiano krakowskie kościoły i kamienice, łożono na renesansową rozbudowę Wawelu. Kilka wieków później, w 1978 r., kopalnię wpisano na Listę UNESCO, doceniając jej unikatowość w skali świata. To jedyny górniczy obiekt czynny bezustannie od XIII w., a jego oryginalne wyrobiska ilustrują wszystkie etapy rozwoju techniki wydobywczej. W ciągu wieków zgłębiono w Wieliczce 26 szybów. Na IX poziomach, od głębokości 57 do 327 m, wydrążono ponad 2 tys. komór i prawie 300 km chodników. Dzięki dużej trwałości wyrobisk zachowały się nawet komory wybrane pod koniec średniowiecza. Zabytkowa strefa obejmuje poziomy I–V (218 komór i 190 chodników), a na przemierzających podziemne labirynty czekają prawdziwe cuda wykonane w soli: kaplice zdobione solnymi rzeźbami, słone jeziora, stare wyrobiska o oryginalnej drewnianej zabudowie, dawne narzędzia górnicze… Dwukilometrowa trasa turystyczna (poziom I–III), którą podąża się, zwiedzając kopalnię, pozwala zobaczyć  22 komory, a 16 kolejnych czeka na turystów w podziemnym oddziale Muzeum Żup Krakowskich (poziom III). Do najsłynniejszych przystanków na trasie należą barokowa kaplica św. Antoniego (XVII w., najstarsza w kopalni) i kaplica św. Kingi (wydrążona w XVIII w., funkcję podziemnego sanktuarium pełni od XIX w.), której zachwycający wystrój to zasługa górników, przede wszystkim rzeźbiarzy samouków: Józefa i Tomasza Markowskich oraz Antoniego Wyrodka. Malownicze podziemne jeziora znajdują się w komorach Weimar, Erazma Barącza i Józefa Piłsudskiego. W tej ostatniej przy dźwiękach orkiestry odbywały się niegdyś uroczyste przejazdy promem. W najwyższej na trasie (36 m) komorze Staszica podczas wojny Niemcy próbowali stworzyć halę montażową części do samolotów. W komorach Warszawa, Wisła i Budryka urządzono obecnie centrum widowiskowo-sportowo-gastronomiczne. Niezwykle ciekawie prezentuje się również podziemna ekspozycja Muzeum Żup Krakowskich (zwiedzanie po przejściu trasy turystycznej w ramach jednego biletu). Zgromadzono tu eksponaty ukazujące rozwój techniki górniczej, m.in. przyrządy i narzędzia, kołowroty ręczne, kieraty konne oraz mapy górnicze i ryciny przedstawiające wielicką kopalnię w minionych stuleciach. Prawdziwym skarbem jest Róg Bractwa Kopaczy Wielickich z 1534 r., wykonany prawdopodobnie w pracowni złotniczej Andrzeja Dürera, brata słynnego Albrechta z Norymbergi.",
+"placeCategoriesList": [{
+	"id": 7,
+	"name": "MUSEUM",
+	"image": {
+		"id": 0,
+		"uri": "https://camo.githubusercontent.com/6a6eb0055b744a26d4ae39ab356124f6fc7d5938/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313036373930372f313530363736302f35356131376163302d343934352d313165332d383337392d6133366264326261346436352e706e67",
+		"path": ""
+	}
+}],
+"openHours": "10:00 - 17:00",
+"thumbnail": {
+	"id": 3,
+	"uri": "http://www.visitmalopolska.pl/UM.MSIT.Multimedia.WebResource.axd?fileType=ProductPreview&folderId=cea24219-be2e-4ea4-b4e5-94ded410f689",
+	"path": ""
+},
+"images": [{
+	"id": 1,
+	"uri": "https://www.kopalnia.pl/files/zwiedzanie/trasa_turystyczna/galeria_strona_glowna/kopalnia_soli_wieliczka_trasa_turystyczna_galeria_strona_glowna_03.jpg",
+	"path": ""
+},
+{
+	"id": 1,
+	"uri": "https://upload.wikimedia.org/wikipedia/commons/3/38/Kopalnia_Soli_Wieliczka-Komora_Weimar.jpg",
+	"path": ""
+},
+{
+	"id": 1,
+	"uri": "http://www.maszwolne.pl/photos/objects/a4c2dee2cfbe69e4bbd09cea54b20261.jpg",
+	"path": ""
+},
+{
+	"id": 1,
+	"uri": "https://upload.wikimedia.org/wikipedia/commons/7/70/Wieliczka_salt_mine.jpg",
+	"path": ""
+},
+{
+	"id": 1,
+	"uri": "https://www.goodpoland.com/images/upload/miejsca/kopalnia-soli-w-wieliczce/GoodPoland_Kopalnia_Soli_w_Wieliczce_04.jpg",
+	"path": ""
+}],
+
+"disabledFacilities": true,
+
+"localization": {
+	"description": "Wieliczka",
+	"image": "",
+	"coordinatesList": [{
+		"id": 0,
+		"lat": 49.9870619,
+		"lon": 20.0647971,
+		"elv": 5
+	}],
+	"mainCoordinates": {
+		"id": "1242",
+		"lat": 49.9870619,
+		"lon": 20.0647971,
+		"elv": 5
+	}
+}
+}
+
 
 ]
 }
