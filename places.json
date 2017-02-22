@@ -53,7 +53,7 @@
 		},
 		"localization": {
 			"description": "Centralna 50, 44-323 Połomia",
-			"image": "",
+			"image": "http://jankowice.rybnik.pl.rsz.io/groby/images/pisula1.jpg?width=200",
 			"coordinatesList": [{
 				"id": 0,
 				"lat": 49.9895076,
@@ -118,7 +118,7 @@
   },
   "localization": {
     "description": "Marszałka Józefa Piłsudskiego 19, 33-380 Krynica-Zdrój",
-    "image": "",
+    "image": "http://i.nocimg.pl/s4/143/131-krynica-zdroj-krynica-gorska-oberza-swojskie.jpg",
     "coordinatesList": [{
       "id": 0,
       "lat": 49.4243309,
@@ -184,7 +184,7 @@
   },
   "localization": {
     "description": "Wawel, Kraków",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg",
     "coordinatesList": [{
       "id": 0,
       "lat": 50.0544295,
@@ -245,7 +245,7 @@
 
 "localization": {
 	"description": "Rynek główny w Krakowie",
-	"image": "",
+	"image": "http://www.ceresit.pl/img/huge/284.jpg",
 	"coordinatesList": [{
 		"id": 0,
 		"lat": 50.0616285,
@@ -292,7 +292,7 @@
 
 "localization": {
 	"description": "Rynek Główny 1",
-	"image": "",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/A-10_Sukiennice_w_Krakowie_Krak%C3%B3w,_Rynek_G%C5%82%C3%B3wny_MM.jpg/240px-A-10_Sukiennice_w_Krakowie_Krak%C3%B3w,_Rynek_G%C5%82%C3%B3wny_MM.jpg",
 	"coordinatesList": [{
 		"id": 0,
 		"lat": 50.0616063,
@@ -339,7 +339,7 @@
 
 "localization": {
 	"description": "ul. Klasztorna 11, Kraków",
-	"image": "",
+	"image": "http://www.wachock.cystersi.pl/files/image/cystersi/cystersi_w_polsce/cystersi%20w%20polsce-mogi%C5%82a.jpg",
 	"coordinatesList": [{
 		"id": 0,
 		"lat": 50.0645359,
