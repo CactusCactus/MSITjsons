@@ -43,7 +43,7 @@
 		"color": "#ffc20e"
 	}, {
 		"id": 16,
-		"name": "STR_THEMATIC_ROUTES”,
+		"name": "STR_THEMATIC_ROUTES",
 		"icon": "IC_THEMATIC_ROUTES",
 		"action": "AC_THEMATIC_ROUTES",
 		"color": "#ffc20e"
