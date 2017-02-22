@@ -1,0 +1,166 @@
+{
+    "phrases": [
+        {
+        "id": 1,
+        "categoryCode": "shoping",
+        "languageCode": "pl",
+        "text": "Czy mogę zapłacić kartą kredytową?"
+    },
+    {
+        "id": 1,
+        "categoryCode": "shoping",
+        "languageCode": "en",
+        "text": "Can I pay with a credit card?"
+    },
+    {
+        "id": 1,
+        "categoryCode": "shoping",
+        "languageCode": "de",
+        "text": "Kann ich mit einer Kreditkarte bezahlen?"
+    },
+    {
+        "id": 2,
+        "categoryCode": "shoping",
+        "languageCode": "pl",
+        "text": "Reszty nie trzeba"
+    },
+    {
+        "id": 2,
+        "categoryCode": "shoping",
+        "languageCode": "en",
+        "text": "Keep the change"
+    },
+    {
+        "id": 2,
+        "categoryCode": "shoping",
+        "languageCode": "de",
+        "text": "Behalte das Wechselgeld"
+    },
+    {
+        "id": 3,
+        "categoryCode": "shoping",
+        "languageCode": "pl",
+        "text": "Poproszę o reklamówkę"
+    },
+    {
+        "id": 3,
+        "categoryCode": "shoping",
+        "languageCode": "en",
+        "text": "Can I have a plastic bag, please?"
+    },
+    {
+        "id": 3,
+        "categoryCode": "shoping",
+        "languageCode": "de",
+        "text": "Kann ich bitte eine Plastiktüte haben?"
+    },
+    {
+        "id": 4,
+        "categoryCode": "publicTransport",
+        "languageCode": "pl",
+        "text": "Jakim autobusem dojechać na lotnisko?"
+    },
+    {
+        "id": 4,
+        "categoryCode": "publicTransport",
+        "languageCode": "en",
+        "text": "Which bus goes to the airport?"
+    },
+    {
+        "id": 4,
+        "categoryCode": "publicTransport",
+        "languageCode": "de",
+        "text": "Welcher Bus fährt zum Flughafen?"
+    },
+    {
+        "id": 5,
+        "categoryCode": "publicTransport",
+        "languageCode": "pl",
+        "text": "Czy wysiada pan na następnym przystanku?"
+    },
+    {
+        "id": 5,
+        "categoryCode": "publicTransport",
+        "languageCode": "en",
+        "text": "Are you getting off at the next stop?"
+    },
+    {
+        "id": 5,
+        "categoryCode": "publicTransport",
+        "languageCode": "de",
+        "text": "Steigen Sie bei der nächsten Haltestelle aus?"
+    },
+    {
+        "id": 6,
+        "categoryCode": "publicTransport",
+        "languageCode": "pl",
+        "text": "Wysiadam tutaj. Przepraszam"
+    },
+    {
+        "id": 6,
+        "categoryCode": "publicTransport",
+        "languageCode": "en",
+        "text": "Excuse me, sir. I'm getting off here"
+    },
+    {
+        "id": 6,
+        "categoryCode": "publicTransport",
+        "languageCode": "de",
+        "text": "Entschuldigen Sie bitte. Ich komme hier raus"
+    },
+    {
+        "id": 7,
+        "categoryCode": "restourant",
+        "languageCode": "pl",
+        "text": "Stolik dla trzech osób. "
+    },
+    {
+        "id": 7,
+        "categoryCode": "restourant",
+        "languageCode": "en",
+        "text": "A table for three (people)"
+    },
+    {
+        "id": 7,
+        "categoryCode": "restourant",
+        "languageCode": "de",
+        "text": "Ein Tisch für drei Personen"
+    },
+    {
+        "id": 8,
+        "categoryCode": "restourant",
+        "languageCode": "pl",
+        "text": "Poproszę o menu"
+    },
+    {
+        "id": 8,
+        "categoryCode": "restourant",
+        "languageCode": "en",
+        "text": "Can I have a menu, please?"
+    },
+    {
+        "id": 8,
+        "categoryCode": "restourant",
+        "languageCode": "de",
+        "text": "Kann ich bitte ein Menü haben?"
+    },
+    {
+        "id": 9,
+        "categoryCode": "restourant",
+        "languageCode": "pl",
+        "text": "Smacznego!"
+    },
+    {
+        "id": 9,
+        "categoryCode": "restourant",
+        "languageCode": "en",
+        "text": "Enjoy your meal!"
+    },
+    {
+        "id": 9,
+        "categoryCode": "restourant",
+        "languageCode": "de",
+        "text": "Guten Appetit!"
+    }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "languages": [
+        {
+            "languageCode": "pl",
+            "translationLanguageCode": "pl",
+            "translationLanguageName": "Polski"
+        },
+        {
+            "languageCode": "pl",
+            "translationLanguageCode": "en",
+            "translationLanguageName": "Polish"
+        },
+        {
+            "languageCode": "pl",
+            "translationLanguageCode": "de",
+            "translationLanguageName": "Polnisch"
+        },
+        {
+            "languageCode": "en",
+            "translationLanguageCode": "pl",
+            "translationLanguageName": "Angielski"
+        },
+        {
+            "languageCode": "en",
+            "translationLanguageCode": "en",
+            "translationLanguageName": "English"
+        },
+        {
+            "languageCode": "en",
+            "translationLanguageCode": "de",
+            "translationLanguageName": "Englisch"
+        },
+        {
+            "languageCode": "de",
+            "translationLanguageCode": "pl",
+            "translationLanguageName": "Niemiecki"
+        },
+        {
+            "languageCode": "de",
+            "translationLanguageCode": "en",
+            "translationLanguageName": "German"
+        },
+        {
+            "languageCode": "de",
+            "translationLanguageCode": "de",
+            "translationLanguageName": "Deutsch"
+        }
+    ]
+}

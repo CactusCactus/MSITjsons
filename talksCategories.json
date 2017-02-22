@@ -1,0 +1,49 @@
+{
+    "categories":[
+        {
+        "categoryCode": "shoping",
+        "languageCode": "pl",
+        "desc": "Zakupy"
+    },
+    {
+        "categoryCode": "shoping",
+        "languageCode": "en",
+        "desc": "Shoping"
+    },
+    {
+        "categoryCode": "shoping",
+        "languageCode": "de",
+        "desc": "Einkaufen"
+    },
+    {
+        "categoryCode": "publicTransport",
+        "languageCode": "pl",
+        "desc": "Komunikacja miejka"
+    },
+    {
+        "categoryCode": "publicTransport",
+        "languageCode": "en",
+        "desc": "Public transport"
+    },
+    {
+        "categoryCode": "publicTransport",
+        "languageCode": "de",
+        "desc": "öffentlicher Verkehr"
+    },
+    {
+        "categoryCode": "restourant",
+        "languageCode": "pl",
+        "desc": "Restauracja"
+    },
+    {
+        "categoryCode": "restourant",
+        "languageCode": "en",
+        "desc": "Restourant"
+    },
+    {
+        "categoryCode": "restourant",
+        "languageCode": "de",
+        "desc": "Restaurant"
+    }
+    ]
+}
