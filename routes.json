@@ -1,52 +1,50 @@
 {
-"routes": [
-{
-"name": "Trasa nowohucka",
-"id": 101,
-"shortDescription": "Żyjąca legenda komunizmu. Sztandarowa budowa z czasów, gdy na Kremlu czuwał towarzysz Stalin. A jednak warto spojrzeć na Nową Hutę inaczej – jak na dobrze zaprojektowane, funkcjonalne miasto, z długą, niekiedy dramatyczną historią, która sięga dużo dalej niż tylko do lat 40. XX wieku. Właśnie tu znaleziono najstarszy w Polsce wyrób ze złota – kolczyk z ok. 2 000 r. p.n.e.). Tu zobaczymy jeden z najstarszych krakowskich kościołów i tajemniczy kopiec grobowy córki legendarnego założyciela miasta. Choć socjalistyczna w formie, Nowa Huta fascynuje bogatą treścią.",
-"content": "Żyjąca legenda komunizmu. Sztandarowa budowa z czasów, gdy na Kremlu czuwał towarzysz Stalin. A jednak warto spojrzeć na Nową Hutę inaczej – jak na dobrze zaprojektowane, funkcjonalne miasto, z długą, niekiedy dramatyczną historią, która sięga dużo dalej niż tylko do lat 40. XX wieku. Właśnie tu znaleziono najstarszy w Polsce wyrób ze złota – kolczyk z ok. 2 000 r. p.n.e.). Tu zobaczymy jeden z najstarszych krakowskich kościołów i tajemniczy kopiec grobowy córki legendarnego założyciela miasta. Choć socjalistyczna w formie, Nowa Huta fascynuje bogatą treścią.",
-"images": [{
-	"id": 1,
-	"uri": "http://www.krakow.pl/zalacznik/23422/4.jpg",
-	"path": ""
-},
-{
-	"id": 1,
-	"uri": "http://4.bp.blogspot.com/-VGJssluwY6o/UKVl2Xg7q1I/AAAAAAAAAaA/fq7_o7AwCL8/s1600/nowa-huta-lenin-statue-02.jpg",
-	"path": ""
-},
-{
-	"id": 1,
-	"uri": "http://www.galeriaplakatu.com.pl/media/products/aa9948394dd75305e171b865e3ddd7a6/images/thumbnail/big_5026.jpg?lm=1471029160",
-	"path": ""
-},
-{
-	"id": 1,
-	"uri": "http://krakowzwiedzanie.pl/wp-content/uploads/2015/07/nowa-huta-main.jpg",
-	"path": ""
-},
-{
-	"id": 1,
-	"uri": "https://www.bip.krakow.pl/zalaczniki/dokumenty/12754",
-	"path": ""
-}],
-"placesList": [
-{
-"id": 1011023,
-"name": "Zamek Królewski na Wawelu",
-"shortDescription": "A jednak warto spojrzeć na Nową Hutę inaczej"
-},
-{
-"id": 1011024,
-"name": "Rynek Główny",
-"shortDescription": "A jednak warto spojrzeć na Nową Hutę inaczej"
-},
-{
-"id": 1011026,
-"name": "Kościół i klasztor oo. Cystersów w Mogile",
-"shortDescription": "A jednak warto spojrzeć na Nową Hutę inaczej"
-}
-]
-}
-]
+    "routes": [{
+        "name": "Trasa nowohucka",
+        "id": 101,
+        "shortDescription": "Żyjąca legenda komunizmu. Sztandarowa budowa z czasów, gdy na Kremlu czuwał towarzysz Stalin. A jednak warto spojrzeć na Nową Hutę inaczej – jak na dobrze zaprojektowane, funkcjonalne miasto, z długą, niekiedy dramatyczną historią, która sięga dużo dalej niż tylko do lat 40. XX wieku. Właśnie tu znaleziono najstarszy w Polsce wyrób ze złota – kolczyk z ok. 2 000 r. p.n.e.). Tu zobaczymy jeden z najstarszych krakowskich kościołów i tajemniczy kopiec grobowy córki legendarnego założyciela miasta. Choć socjalistyczna w formie, Nowa Huta fascynuje bogatą treścią.",
+        "content": "Żyjąca legenda komunizmu. Sztandarowa budowa z czasów, gdy na Kremlu czuwał towarzysz Stalin. A jednak warto spojrzeć na Nową Hutę inaczej – jak na dobrze zaprojektowane, funkcjonalne miasto, z długą, niekiedy dramatyczną historią, która sięga dużo dalej niż tylko do lat 40. XX wieku. Właśnie tu znaleziono najstarszy w Polsce wyrób ze złota – kolczyk z ok. 2 000 r. p.n.e.). Tu zobaczymy jeden z najstarszych krakowskich kościołów i tajemniczy kopiec grobowy córki legendarnego założyciela miasta. Choć socjalistyczna w formie, Nowa Huta fascynuje bogatą treścią.",
+        "images": [{
+                "id": 1,
+                "uri": "http://www.krakow.pl/zalacznik/23422/4.jpg",
+                "path": ""
+            },
+            {
+                "id": 1,
+                "uri": "http://4.bp.blogspot.com/-VGJssluwY6o/UKVl2Xg7q1I/AAAAAAAAAaA/fq7_o7AwCL8/s1600/nowa-huta-lenin-statue-02.jpg",
+                "path": ""
+            },
+            {
+                "id": 1,
+                "uri": "http://www.galeriaplakatu.com.pl/media/products/aa9948394dd75305e171b865e3ddd7a6/images/thumbnail/big_5026.jpg?lm=1471029160",
+                "path": ""
+            },
+            {
+                "id": 1,
+                "uri": "http://krakowzwiedzanie.pl/wp-content/uploads/2015/07/nowa-huta-main.jpg",
+                "path": ""
+            },
+            {
+                "id": 1,
+                "uri": "https://www.bip.krakow.pl/zalaczniki/dokumenty/12754",
+                "path": ""
+            }
+        ],
+        "placesList": [{
+                "id": 1011023,
+                "name": "Zamek Królewski na Wawelu",
+                "shortDescription": "A jednak warto spojrzeć na Nową Hutę inaczej"
+            },
+            {
+                "id": 1011024,
+                "name": "Rynek Główny",
+                "shortDescription": "A jednak warto spojrzeć na Nową Hutę inaczej"
+            },
+            {
+                "id": 1011026,
+                "name": "Kościół i klasztor oo. Cystersów w Mogile",
+                "shortDescription": "A jednak warto spojrzeć na Nową Hutę inaczej"
+            }
+        ]
+    }]
 }
