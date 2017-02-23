@@ -1,7 +1,7 @@
-{
+	{
 	"places": [
 
-    {
+	{
 		"id": 101,
 		"name": "Kościół w Połomii",
 		"shortDescription": "Parafia w Połomi powstała na przełomie XIII i XIV wieku.",
@@ -23,7 +23,56 @@
 				"path": ""
 			}
 		}],
-		"openHours": "8:00 - 19:00",
+		"openHours": [ {
+			"day": 0,
+			"openHour": {
+				"hour": -1,
+				"minutes": 0,
+			}
+		},
+		{
+			"day": 1,
+			"openHour": {
+				"hour": 8,
+				"minutes": 0,
+			}
+		},
+		{
+			"day": 2,
+			"openHour": {
+				"hour": 8,
+				"minutes": 0,
+			}
+		},
+		{
+			"day": 3,
+			"openHour": {
+				"hour": 8,
+				"minutes": 0,
+			}
+		},
+		{
+			"day": 4,
+			"openHour": {
+				"hour": 8,
+				"minutes": 0,
+			}
+		},
+		{
+			"day": 5,
+			"openHour": {
+				"hour": 8,
+				"minutes": 0,
+			}
+		},
+		{
+			"day": 6,
+			"openHour": {
+				"hour": -1,
+				"minutes": 0,
+			}
+		}
+		],
 		"thumbnail": {
 			"id": 3,
 			"uri": "http://jankowice.rybnik.pl.rsz.io/groby/images/pisula1.jpg?width=200",
@@ -73,132 +122,230 @@
 			"name": "Powiązane wydarzenie"
 		}]
 	}
-  ,
-  {
-  "id": 102,
-  "name": "Oberża Swojskie Jadło",
-  "shortDescription": "Pizzeria Oberża w Krynicy Zdroju zaprasza na pizzę oraz dania kuchni regionalnej.",
-  "content": "Pizzeria Oberża jest położona w centrum Krynicy Zdroju. Wystrój lokalu i muzyka w stylu góralskim. Oberża to miejsce, w którym można spotkać się ze znajomymi i rodziną przy dobrym jedzeniu, ale również dobrze zabawić. Poza pizzą restauracja oferuje jedzenie kuchni regionalnej.\n Pizze można zamówić na telefon. Na terenie Krynicy Zdroju dowóz gratis.\n Przykładowe pozycje menu:\n - Antrykot z Woła z grilla\n - Baranina na kij nabita \n - Bacy kotlet u ceprów\n - Staropolski stek z wieprza z cebulą i pieczarkami/n/nSzef kuchni poleca pizze Michała.",
-  "placeCategoriesList": [{
-    "id": 0,
-    "name": "RESTAURANT",
-    "image": {
-      "id": 0,
-      "uri": "https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-15-512.png",
-      "path": ""
-    }
-  }],
-  "openHours": "12:00 - 22:00",
-  "thumbnail": {
-    "id": 3,
-    "uri": "http://i.nocimg.pl/s4/143/131-krynica-zdroj-krynica-gorska-oberza-swojskie.jpg",
-    "path": ""
-  },
-  "images": [{
-    "id": 1,
-    "uri": "https://lh3.googleusercontent.com/-fgzr66BH6IU/VkN9sCigseI/AAAAAAAAABg/RZVxMx1Wqm8_676Uk4huJBvtqaAQuOUBgCJkC/w600-k/",
-    "path": ""
-  }],
-  "disabledFacilities": false,
-  "address": {
-    "id": 0,
-    "country": "Polska"
-  },
-  "contact": {
-    "mailsList": [
+	,
+	{
+	"id": 102,
+	"name": "Oberża Swojskie Jadło",
+	"shortDescription": "Pizzeria Oberża w Krynicy Zdroju zaprasza na pizzę oraz dania kuchni regionalnej.",
+	"content": "Pizzeria Oberża jest położona w centrum Krynicy Zdroju. Wystrój lokalu i muzyka w stylu góralskim. Oberża to miejsce, w którym można spotkać się ze znajomymi i rodziną przy dobrym jedzeniu, ale również dobrze zabawić. Poza pizzą restauracja oferuje jedzenie kuchni regionalnej.\n Pizze można zamówić na telefon. Na terenie Krynicy Zdroju dowóz gratis.\n Przykładowe pozycje menu:\n - Antrykot z Woła z grilla\n - Baranina na kij nabita \n - Bacy kotlet u ceprów\n - Staropolski stek z wieprza z cebulą i pieczarkami/n/nSzef kuchni poleca pizze Michała.",
+	"placeCategoriesList": [{
+	"id": 0,
+	"name": "RESTAURANT",
+	"image": {
+	  "id": 0,
+	  "uri": "https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-15-512.png",
+	  "path": ""
+	}
+	}],
+	"openHours": [ {
+		"day": 0,
+		"openHour": {
+			"hour": -1,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 1,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 2,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 3,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 4,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 5,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 6,
+		"openHour": {
+			"hour": -1,
+			"minutes": 0,
+		}
+	}
+	],
+	"thumbnail": {
+	"id": 3,
+	"uri": "http://i.nocimg.pl/s4/143/131-krynica-zdroj-krynica-gorska-oberza-swojskie.jpg",
+	"path": ""
+	},
+	"images": [{
+	"id": 1,
+	"uri": "https://lh3.googleusercontent.com/-fgzr66BH6IU/VkN9sCigseI/AAAAAAAAABg/RZVxMx1Wqm8_676Uk4huJBvtqaAQuOUBgCJkC/w600-k/",
+	"path": ""
+	}],
+	"disabledFacilities": false,
+	"address": {
+	"id": 0,
+	"country": "Polska"
+	},
+	"contact": {
+	"mailsList": [
 
-    ],
-    "wwwList": [{
-      "value": "http://www.oberza-krynica.info/"
-    }],
-    "phonesList": [{
-      "value": "18 471 60 84"
-    }],
-    "faxList": []
-  },
-  "localization": {
-    "description": "Marszałka Józefa Piłsudskiego 19, 33-380 Krynica-Zdrój",
-    "image": "http://i.nocimg.pl/s4/143/131-krynica-zdroj-krynica-gorska-oberza-swojskie.jpg",
-    "coordinatesList": [{
-      "id": 0,
-      "lat": 49.4243309,
-      "lon": 20.956461,
-      "elv": 5
-    }],
-    "mainCoordinates": {
-      "id": "1230",
-      "lat": 49.4243309,
-      "lon": 20.956461,
-      "elv": 5
-    }
-  },
-  "connectedContentList": []
-},
- {
-  "id": 1011023,
-  "name": "Zamek Królewski na Wawelu",
-  "shortDescription": "Zamek Królewski na Wawelu wraz ze wzgórzem wawelskim to jedno z najbardziej znaczących historycznie i kulturalnie miejsc w Polsce",
-  "content": "Zamek Królewski na Wawelu wraz ze wzgórzem wawelskim to jedno z najbardziej znaczących historycznie i kulturalnie miejsc w Polsce. Będący przez wieki siedzibą królów polskich i symbolem państwo­wości, w r. 1930 Zamek stał się także jednym z najważniejszych muzeów w Polsce. Gromadzi ono kolekcje obrazów, grafik, rzeźb, tkanin, wyrobów złotniczych, militariów, porcelany i mebli. W komnatach eksponowane są słynne arrasy Zygmunta Augusta i wspaniałe renesansowe malowidła włoskie z kolekcji Lanc­korońskich, a wawelskie zbiory sztuki wschodniej zawierają najważniejszą i największą kolekcję na­miotów w Europie. Zamek Królewski jest też ważnym ośrodkiem konserwacji dzieł sztuki. Stałe wystawy odtwarzają wygląd sal z okresu renesansu i baroku. Co roku ponad milion turystów zwiedza stałe i czasowe wystawy prezentowane na zamku. Szacuje się, że drugie tyle odwiedza wzgórze. Prawie 20 tysięcy uczniów bierze udział w lekcjach muze­alnych. Ponadto młodzież i dzieci uczestniczą w specjalnych zajęciach oraz konkursach nauko­wych i plastycznych. Chodzą pogłoski, że niejaki Mateusz z Mogiły ma przodków na Wawelu",
-  "placeCategoriesList": [{
-    "id": 5,
-    "name": "MONUMENT",
-    "image": {
-      "id": 0,
-      "uri": "https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-15-512.png",
-      "path": ""
-    }
-  }],
-  "openHours": "09:00 - 20:00",
-  "thumbnail": {
-    "id": 3,
-    "uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg",
-    "path": ""
-  },
-  "images": [{
-    "id": 1,
-    "uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg",
-    "path": ""
-  }],
+	],
+	"wwwList": [{
+	  "value": "http://www.oberza-krynica.info/"
+	}],
+	"phonesList": [{
+	  "value": "18 471 60 84"
+	}],
+	"faxList": []
+	},
+	"localization": {
+	"description": "Marszałka Józefa Piłsudskiego 19, 33-380 Krynica-Zdrój",
+	"image": "http://i.nocimg.pl/s4/143/131-krynica-zdroj-krynica-gorska-oberza-swojskie.jpg",
+	"coordinatesList": [{
+	  "id": 0,
+	  "lat": 49.4243309,
+	  "lon": 20.956461,
+	  "elv": 5
+	}],
+	"mainCoordinates": {
+	  "id": "1230",
+	  "lat": 49.4243309,
+	  "lon": 20.956461,
+	  "elv": 5
+	}
+	},
+	"connectedContentList": []
+	},
+	{
+	"id": 1011023,
+	"name": "Zamek Królewski na Wawelu",
+	"shortDescription": "Zamek Królewski na Wawelu wraz ze wzgórzem wawelskim to jedno z najbardziej znaczących historycznie i kulturalnie miejsc w Polsce",
+	"content": "Zamek Królewski na Wawelu wraz ze wzgórzem wawelskim to jedno z najbardziej znaczących historycznie i kulturalnie miejsc w Polsce. Będący przez wieki siedzibą królów polskich i symbolem państwo­wości, w r. 1930 Zamek stał się także jednym z najważniejszych muzeów w Polsce. Gromadzi ono kolekcje obrazów, grafik, rzeźb, tkanin, wyrobów złotniczych, militariów, porcelany i mebli. W komnatach eksponowane są słynne arrasy Zygmunta Augusta i wspaniałe renesansowe malowidła włoskie z kolekcji Lanc­korońskich, a wawelskie zbiory sztuki wschodniej zawierają najważniejszą i największą kolekcję na­miotów w Europie. Zamek Królewski jest też ważnym ośrodkiem konserwacji dzieł sztuki. Stałe wystawy odtwarzają wygląd sal z okresu renesansu i baroku. Co roku ponad milion turystów zwiedza stałe i czasowe wystawy prezentowane na zamku. Szacuje się, że drugie tyle odwiedza wzgórze. Prawie 20 tysięcy uczniów bierze udział w lekcjach muze­alnych. Ponadto młodzież i dzieci uczestniczą w specjalnych zajęciach oraz konkursach nauko­wych i plastycznych. Chodzą pogłoski, że niejaki Mateusz z Mogiły ma przodków na Wawelu",
+	"placeCategoriesList": [{
+	"id": 5,
+	"name": "MONUMENT",
+	"image": {
+	  "id": 0,
+	  "uri": "https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-15-512.png",
+	  "path": ""
+	}
+	}],
+		"openHours": [ {
+		"day": 0,
+		"openHour": {
+			"hour": -1,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 1,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 2,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 3,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 4,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 5,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 6,
+		"openHour": {
+			"hour": -1,
+			"minutes": 0,
+		}
+	}
+	],
+	"thumbnail": {
+	"id": 3,
+	"uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg",
+	"path": ""
+	},
+	"images": [{
+	"id": 1,
+	"uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg",
+	"path": ""
+	}],
 	"audio": [{
 		"id": 13227638,
 		"uri": "http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04swsl9.mp3",
 		"path": ""
 	}],
-  "disabledFacilities": true,
-  "address": {
-    "id": 0,
-    "country": "Polska"
-  },
-  "contact": {
-    "mailsList": [
+	"disabledFacilities": true,
+	"address": {
+	"id": 0,
+	"country": "Polska"
+	},
+	"contact": {
+	"mailsList": [
 
-    ],
-    "wwwList": [{
-      "value": "http://wawel.krakow.pl"
-    }],
-    "phonesList": [{
-      "value": "18 471 60 84"
-    }],
+	],
+	"wwwList": [{
+	  "value": "http://wawel.krakow.pl"
+	}],
+	"phonesList": [{
+	  "value": "18 471 60 84"
+	}],
 
-    "faxList": []
-  },
-  "localization": {
-    "description": "Wawel, Kraków",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg",
-    "coordinatesList": [{
-      "id": 0,
-      "lat": 50.0544295,
-      "lon": 19.9355152,
-      "elv": 5
-    }],
-    "mainCoordinates": {
-      "id": "1230",
-      "lat": 50.0544295,
-      "lon": 19.9355152,
-      "elv": 5
-    }
-  },
-  "connectedContentList": [
+	"faxList": []
+	},
+	"localization": {
+	"description": "Wawel, Kraków",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg",
+	"coordinatesList": [{
+	  "id": 0,
+	  "lat": 50.0544295,
+	  "lon": 19.9355152,
+	  "elv": 5
+	}],
+	"mainCoordinates": {
+	  "id": "1230",
+	  "lat": 50.0544295,
+	  "lon": 19.9355152,
+	  "elv": 5
+	}
+	},
+	"connectedContentList": [
 		{
 			"id": 1011023,
 			"category": "AC_POI_OPEN",
@@ -211,16 +358,16 @@
 		}
 
 	]
-}
-,
+	}
+	,
 
 
-{
-"id": 1011024,
-"name": "Rynek Główny",
-"shortDescription": "Rynek Główny to serce królewskiego miasta Krakowa. Dzień i noc toczy się tutaj pełne radości i inspiracji życie, a nad wszystkim czuwa duch przeszłości tego ważnego dla Europy miejsca. Plac o wymiarach 200 na 200 m był jednym z największych w średniowiecznej Europie. Rynek Główny ze względu na wielkość i zachowany układ architektoniczno-urbanistyczny z 1257 roku został wpisany na pierwszą listę Światowego Dziedzictwa UNESCO. Niemal każda kamieniczka i pałac wokół Rynku w obrębie Plant mają kilkaset lat. Tajemnice sprzed lat kryją również podziemia Rynku, które można zwiedzać poruszając się specjalnie wyznaczoną trasą. Najbardziej znane są jednak Sukiennice, które w średniowieczu, podobnie jak dzisiaj, tętniły życiem hali targowej. Gotycki kościół o dwóch wieżach to Kościół Mariacki, z którego co godzinę rozlega się charakterystyczny dla Krakowa hejnał, wygrywany przez trębacza na trąbce, i w którym znajduje się wspaniały ołtarz Wita Stwosza. Na Rynku, wśród kolorowych parasoli i kwiatów sprzedawanych przez krakowskie kwiaciarki, stoi pomnik Adama Mickiewicza. W pobliżu Rynku znajduje się Plac Szczepański, a za Kościołem Mariackim leży Mały Rynek, który tętni życiem świątecznych i ludowych kiermaszów. A może będziemy mieli szczęście zobaczyć na Rynku Lajkonika? Nawet jeśli nie, to towarzystwa dotrzymają na gołębie, które turyści karmią ziarnem i okruchami obwarzanka - krakowskiego specjału. Krakowski Rynek jest miejscem spotkań, letnich festiwali, salą koncertową dla ulicznych grajków, uroczych kawiarni i restauracji. To tutaj, jak nigdzie indziej, spotyka się przeszłość i teraźniejszość, która zachwyciła już niejednego.",
-"content": "<p>Rynek Gł&oacute;wny to serce kr&oacute;lewskiego miasta Krakowa. Dzień i noc toczy się tutaj pełne radości i inspiracji życie, a nad wszystkim czuwa duch przeszłości tego ważnego dla Europy miejsca. Plac o wymiarach 200 na 200 m&nbsp; był jednym z największych w średniowiecznej Europie. Rynek Gł&oacute;wny ze względu na wielkość i zachowany układ architektoniczno-urbanistyczny z 1257 roku został wpisany na pierwszą listę Światowego Dziedzictwa UNESCO. Niemal każda kamieniczka i pałac wok&oacute;ł Rynku w obrębie Plant mają kilkaset lat. Tajemnice sprzed lat kryją r&oacute;wnież podziemia Rynku, kt&oacute;re można zwiedzać poruszając się specjalnie wyznaczoną trasą. Najbardziej znane są jednak Sukiennice, kt&oacute;re w średniowieczu, podobnie jak dzisiaj, tętniły życiem hali targowej. Gotycki kości&oacute;ł o dw&oacute;ch wieżach to Kości&oacute;ł Mariacki, z kt&oacute;rego co godzinę rozlega się charakterystyczny dla Krakowa hejnał, wygrywany przez trębacza na trąbce, i w kt&oacute;rym znajduje się wspaniały ołtarz Wita Stwosza. Na Rynku, wśr&oacute;d kolorowych parasoli i kwiat&oacute;w sprzedawanych przez krakowskie kwiaciarki, stoi pomnik Adama Mickiewicza. W pobliżu Rynku znajduje się Plac Szczepański, a za Kościołem Mariackim leży Mały Rynek, kt&oacute;ry tętni życiem świątecznych i ludowych kiermasz&oacute;w. A może będziemy mieli szczęście zobaczyć na Rynku Lajkonika? Nawet jeśli nie, to towarzystwa dotrzymają na gołębie, kt&oacute;re turyści karmią ziarnem i okruchami obwarzanka - krakowskiego specjału. Krakowski Rynek jest miejscem spotkań, letnich festiwali, salą koncertową dla ulicznych grajk&oacute;w, uroczych kawiarni i restauracji. To tutaj, jak nigdzie indziej, spotyka się przeszłość i teraźniejszość, kt&oacute;ra zachwyciła już niejednego.</p>",
-"placeCategoriesList": [{
+	{
+	"id": 1011024,
+	"name": "Rynek Główny",
+	"shortDescription": "Rynek Główny to serce królewskiego miasta Krakowa. Dzień i noc toczy się tutaj pełne radości i inspiracji życie, a nad wszystkim czuwa duch przeszłości tego ważnego dla Europy miejsca. Plac o wymiarach 200 na 200 m był jednym z największych w średniowiecznej Europie. Rynek Główny ze względu na wielkość i zachowany układ architektoniczno-urbanistyczny z 1257 roku został wpisany na pierwszą listę Światowego Dziedzictwa UNESCO. Niemal każda kamieniczka i pałac wokół Rynku w obrębie Plant mają kilkaset lat. Tajemnice sprzed lat kryją również podziemia Rynku, które można zwiedzać poruszając się specjalnie wyznaczoną trasą. Najbardziej znane są jednak Sukiennice, które w średniowieczu, podobnie jak dzisiaj, tętniły życiem hali targowej. Gotycki kościół o dwóch wieżach to Kościół Mariacki, z którego co godzinę rozlega się charakterystyczny dla Krakowa hejnał, wygrywany przez trębacza na trąbce, i w którym znajduje się wspaniały ołtarz Wita Stwosza. Na Rynku, wśród kolorowych parasoli i kwiatów sprzedawanych przez krakowskie kwiaciarki, stoi pomnik Adama Mickiewicza. W pobliżu Rynku znajduje się Plac Szczepański, a za Kościołem Mariackim leży Mały Rynek, który tętni życiem świątecznych i ludowych kiermaszów. A może będziemy mieli szczęście zobaczyć na Rynku Lajkonika? Nawet jeśli nie, to towarzystwa dotrzymają na gołębie, które turyści karmią ziarnem i okruchami obwarzanka - krakowskiego specjału. Krakowski Rynek jest miejscem spotkań, letnich festiwali, salą koncertową dla ulicznych grajków, uroczych kawiarni i restauracji. To tutaj, jak nigdzie indziej, spotyka się przeszłość i teraźniejszość, która zachwyciła już niejednego.",
+	"content": "<p>Rynek Gł&oacute;wny to serce kr&oacute;lewskiego miasta Krakowa. Dzień i noc toczy się tutaj pełne radości i inspiracji życie, a nad wszystkim czuwa duch przeszłości tego ważnego dla Europy miejsca. Plac o wymiarach 200 na 200 m&nbsp; był jednym z największych w średniowiecznej Europie. Rynek Gł&oacute;wny ze względu na wielkość i zachowany układ architektoniczno-urbanistyczny z 1257 roku został wpisany na pierwszą listę Światowego Dziedzictwa UNESCO. Niemal każda kamieniczka i pałac wok&oacute;ł Rynku w obrębie Plant mają kilkaset lat. Tajemnice sprzed lat kryją r&oacute;wnież podziemia Rynku, kt&oacute;re można zwiedzać poruszając się specjalnie wyznaczoną trasą. Najbardziej znane są jednak Sukiennice, kt&oacute;re w średniowieczu, podobnie jak dzisiaj, tętniły życiem hali targowej. Gotycki kości&oacute;ł o dw&oacute;ch wieżach to Kości&oacute;ł Mariacki, z kt&oacute;rego co godzinę rozlega się charakterystyczny dla Krakowa hejnał, wygrywany przez trębacza na trąbce, i w kt&oacute;rym znajduje się wspaniały ołtarz Wita Stwosza. Na Rynku, wśr&oacute;d kolorowych parasoli i kwiat&oacute;w sprzedawanych przez krakowskie kwiaciarki, stoi pomnik Adama Mickiewicza. W pobliżu Rynku znajduje się Plac Szczepański, a za Kościołem Mariackim leży Mały Rynek, kt&oacute;ry tętni życiem świątecznych i ludowych kiermasz&oacute;w. A może będziemy mieli szczęście zobaczyć na Rynku Lajkonika? Nawet jeśli nie, to towarzystwa dotrzymają na gołębie, kt&oacute;re turyści karmią ziarnem i okruchami obwarzanka - krakowskiego specjału. Krakowski Rynek jest miejscem spotkań, letnich festiwali, salą koncertową dla ulicznych grajk&oacute;w, uroczych kawiarni i restauracji. To tutaj, jak nigdzie indziej, spotyka się przeszłość i teraźniejszość, kt&oacute;ra zachwyciła już niejednego.</p>",
+	"placeCategoriesList": [{
 	"id": 5,
 	"name": "MONUMENT",
 	"image": {
@@ -228,22 +375,71 @@
 		"uri": "https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-15-512.png",
 		"path": ""
 	}
-}],
-"openHours": "08:00 - 20:00",
-"thumbnail": {
+	}],
+	"openHours": [ {
+		"day": 0,
+		"openHour": {
+			"hour": -1,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 1,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 2,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 3,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 4,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 5,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 6,
+		"openHour": {
+			"hour": -1,
+			"minutes": 0,
+		}
+	}
+	],
+	"thumbnail": {
 	"id": 3,
 	"uri": "http://www.ceresit.pl/img/huge/284.jpg",
 	"path": ""
-},
-"images": [{
+	},
+	"images": [{
 	"id": 1,
 	"uri": "http://www.krakow2016.com/media/cache/filemanager/rc/EXYufFl5/lp_baners/KRAKOW/RYNEK.jpg",
 	"path": ""
-}],
+	}],
 
-"disabledFacilities": true,
+	"disabledFacilities": true,
 
-"localization": {
+	"localization": {
 	"description": "Rynek główny w Krakowie",
 	"image": "http://www.ceresit.pl/img/huge/284.jpg",
 	"coordinatesList": [{
@@ -258,16 +454,16 @@
 		"lon": 19.9362169,
 		"elv": 5
 	}
-}
-},
+	}
+	},
 
 
-{
-"id": 1011025,
-"name": "Sukiennice",
-"shortDescription": "Jest to jedno z najbardziej charakterystycznych miejsc na mapie zabytków Krakowa. Nie każdy wie, że można uznać je za najstarszy w Polsce dom handlowy! Kiedyś było to bowiem miejsce z zadaszonymi rzędami kramów, w których sprzedawano sukno. Dzisiaj można znaleźć tutaj stragany z rękodziełem i pamiątkami; dziewczęta mogą zaopatrzyć się w bursztynową biżuterię, a chłopcy w miecze i elementy rycerskiej zbroi. Część Sukiennic zajmuje Muzeum Narodowe z Galerią Malarstwa i Rzeźby XIX wieku prezentującą dzieła wybitnych polskich twórców. Spacerując pośród arkad pod okiem maszkaronów wieńczących wspaniałą attykę, warto sobie uświadomić, że pierwsze Sukiennice, wówczas kamienne, powstały w XIII wieku. Dopiero wiek później wzniesiony został murowany budynek, który spłonął w wielkim pożarze miasta w 1555 roku. Odbudowa, zakończona cztery lata później, nadała Sukiennicom renesansową formę. I jeszcze ciekawostka dla spostrzegawczych! Przechodząc przez usytuowane na krótszej osi budynku przejście można zauważyć wiszący na łańcuchu duży żelazny nóż, z którym związana jest legenda o dwóch braciach, budowniczych wież Kościoła Mariackiego. Gdy jeden z nich zorientował się, że jego wieża jest niższa, z zazdrości zabił brata nożem. Gnębiony wyrzutami sumienia skoczył ze zbudowanej przez siebie wieży.",
-"content": "Jest to jedno z najbardziej charakterystycznych miejsc na mapie zabytków Krakowa. Nie każdy wie, że można uznać je za najstarszy w Polsce dom handlowy! Kiedyś było to bowiem miejsce z zadaszonymi rzędami kramów, w których sprzedawano sukno. Dzisiaj można znaleźć tutaj stragany z rękodziełem i pamiątkami; dziewczęta mogą zaopatrzyć się w bursztynową biżuterię, a chłopcy w miecze i elementy rycerskiej zbroi. Część Sukiennic zajmuje Muzeum Narodowe z Galerią Malarstwa i Rzeźby XIX wieku prezentującą dzieła wybitnych polskich twórców. Spacerując pośród arkad pod okiem maszkaronów wieńczących wspaniałą attykę, warto sobie uświadomić, że pierwsze Sukiennice, wówczas kamienne, powstały w XIII wieku. Dopiero wiek później wzniesiony został murowany budynek, który spłonął w wielkim pożarze miasta w 1555 roku. Odbudowa, zakończona cztery lata później, nadała Sukiennicom renesansową formę. I jeszcze ciekawostka dla spostrzegawczych! Przechodząc przez usytuowane na krótszej osi budynku przejście można zauważyć wiszący na łańcuchu duży żelazny nóż, z którym związana jest legenda o dwóch braciach, budowniczych wież Kościoła Mariackiego. Gdy jeden z nich zorientował się, że jego wieża jest niższa, z zazdrości zabił brata nożem. Gnębiony wyrzutami sumienia skoczył ze zbudowanej przez siebie wieży.",
-"placeCategoriesList": [{
+	{
+	"id": 1011025,
+	"name": "Sukiennice",
+	"shortDescription": "Jest to jedno z najbardziej charakterystycznych miejsc na mapie zabytków Krakowa. Nie każdy wie, że można uznać je za najstarszy w Polsce dom handlowy! Kiedyś było to bowiem miejsce z zadaszonymi rzędami kramów, w których sprzedawano sukno. Dzisiaj można znaleźć tutaj stragany z rękodziełem i pamiątkami; dziewczęta mogą zaopatrzyć się w bursztynową biżuterię, a chłopcy w miecze i elementy rycerskiej zbroi. Część Sukiennic zajmuje Muzeum Narodowe z Galerią Malarstwa i Rzeźby XIX wieku prezentującą dzieła wybitnych polskich twórców. Spacerując pośród arkad pod okiem maszkaronów wieńczących wspaniałą attykę, warto sobie uświadomić, że pierwsze Sukiennice, wówczas kamienne, powstały w XIII wieku. Dopiero wiek później wzniesiony został murowany budynek, który spłonął w wielkim pożarze miasta w 1555 roku. Odbudowa, zakończona cztery lata później, nadała Sukiennicom renesansową formę. I jeszcze ciekawostka dla spostrzegawczych! Przechodząc przez usytuowane na krótszej osi budynku przejście można zauważyć wiszący na łańcuchu duży żelazny nóż, z którym związana jest legenda o dwóch braciach, budowniczych wież Kościoła Mariackiego. Gdy jeden z nich zorientował się, że jego wieża jest niższa, z zazdrości zabił brata nożem. Gnębiony wyrzutami sumienia skoczył ze zbudowanej przez siebie wieży.",
+	"content": "Jest to jedno z najbardziej charakterystycznych miejsc na mapie zabytków Krakowa. Nie każdy wie, że można uznać je za najstarszy w Polsce dom handlowy! Kiedyś było to bowiem miejsce z zadaszonymi rzędami kramów, w których sprzedawano sukno. Dzisiaj można znaleźć tutaj stragany z rękodziełem i pamiątkami; dziewczęta mogą zaopatrzyć się w bursztynową biżuterię, a chłopcy w miecze i elementy rycerskiej zbroi. Część Sukiennic zajmuje Muzeum Narodowe z Galerią Malarstwa i Rzeźby XIX wieku prezentującą dzieła wybitnych polskich twórców. Spacerując pośród arkad pod okiem maszkaronów wieńczących wspaniałą attykę, warto sobie uświadomić, że pierwsze Sukiennice, wówczas kamienne, powstały w XIII wieku. Dopiero wiek później wzniesiony został murowany budynek, który spłonął w wielkim pożarze miasta w 1555 roku. Odbudowa, zakończona cztery lata później, nadała Sukiennicom renesansową formę. I jeszcze ciekawostka dla spostrzegawczych! Przechodząc przez usytuowane na krótszej osi budynku przejście można zauważyć wiszący na łańcuchu duży żelazny nóż, z którym związana jest legenda o dwóch braciach, budowniczych wież Kościoła Mariackiego. Gdy jeden z nich zorientował się, że jego wieża jest niższa, z zazdrości zabił brata nożem. Gnębiony wyrzutami sumienia skoczył ze zbudowanej przez siebie wieży.",
+	"placeCategoriesList": [{
 	"id": 5,
 	"name": "MONUMENT",
 	"image": {
@@ -275,22 +471,71 @@
 		"uri": "https://cdn0.iconfinder.com/data/icons/business-finance-glyph/32/bank-building-128.png",
 		"path": ""
 	}
-}],
-"openHours": "08:00 - 20:00",
-"thumbnail": {
+	}],
+	"openHours": [ {
+		"day": 0,
+		"openHour": {
+			"hour": -1,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 1,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 2,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 3,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 4,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 5,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 6,
+		"openHour": {
+			"hour": -1,
+			"minutes": 0,
+		}
+	}
+	],
+	"thumbnail": {
 	"id": 3,
 	"uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/A-10_Sukiennice_w_Krakowie_Krak%C3%B3w,_Rynek_G%C5%82%C3%B3wny_MM.jpg/240px-A-10_Sukiennice_w_Krakowie_Krak%C3%B3w,_Rynek_G%C5%82%C3%B3wny_MM.jpg",
 	"path": ""
-},
-"images": [{
+	},
+	"images": [{
 	"id": 1,
 	"uri": "http://www.krakow2016.com/media/cache/filemanager/rc/KZZW4Wgo/images/lp_baners/KRAKOW/SUKIENNICE2.jpg",
 	"path": ""
-}],
+	}],
 
-"disabledFacilities": true,
+	"disabledFacilities": true,
 
-"localization": {
+	"localization": {
 	"description": "Rynek Główny 1",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/A-10_Sukiennice_w_Krakowie_Krak%C3%B3w,_Rynek_G%C5%82%C3%B3wny_MM.jpg/240px-A-10_Sukiennice_w_Krakowie_Krak%C3%B3w,_Rynek_G%C5%82%C3%B3wny_MM.jpg",
 	"coordinatesList": [{
@@ -305,16 +550,16 @@
 		"lon": 19.9373512,
 		"elv": 5
 	}
-}
-},
+	}
+	},
 
 
-{
-"id": 1011026,
-"name": "Kościół i klasztor oo. Cystersów w Mogile",
-"shortDescription": "Mogiła",
-"content": "Mogilski kościół Najświętszej Marii Panny i św. Wacława (ul. Klasztorna 11) oraz towarzyszący mu zespół klasztorny są jednymi z najcenniejszych zabytków sakralnych Małopolski. Cystersi, do których należy, przybyli tu w 1222 roku. Świątynię charakteryzują cechy typowe dla cysterskiego budownictwa w całej Europie: krótkie prezbiterium zamknięte prostą ścianą, do którego przylegają dwie pary bocznych kaplic, służące niegdyś mnichom do nocnych modlitw nakazanych surową zakonną regułą. W XVI wieku kaplice po stronie północnej przekształcono w jedną - świętego Krzyża, gdzie znajduje się słynący łaskami mogilski krucyfiks. Jest niezwykła rzeźba, którą według tradycji w XII wieku wyłowiono z Wisły. Jako jedyny element wyposażenia ocalała z pożaru kościoła w XV wieku. Spłonęły tylko włosy Chrystusa i przepaska na biodra. Dlatego od tamtej pory nakłada się figurze Zbawiciela perukę z prawdziwych włosów, a biodra przepasuje prawdziwą tkaniną. Z klasztorem cystersów w XVI wieku związany był Stanisław Samostrzelnik, niezwykle utalentowany mnich, który pełnił służbę Bogu iluminując księgi oraz malując obrazy i polichromie. Najlepszym przykładem jego zdolności są malowidła zdobiące prezbiterium i transept mogilskiego kościoła. Warto pamiętać, że podobne przykłady renesansowego malarstwa są niezmiernie rzadkie.",
-"placeCategoriesList": [{
+	{
+	"id": 1011026,
+	"name": "Kościół i klasztor oo. Cystersów w Mogile",
+	"shortDescription": "Mogiła",
+	"content": "Mogilski kościół Najświętszej Marii Panny i św. Wacława (ul. Klasztorna 11) oraz towarzyszący mu zespół klasztorny są jednymi z najcenniejszych zabytków sakralnych Małopolski. Cystersi, do których należy, przybyli tu w 1222 roku. Świątynię charakteryzują cechy typowe dla cysterskiego budownictwa w całej Europie: krótkie prezbiterium zamknięte prostą ścianą, do którego przylegają dwie pary bocznych kaplic, służące niegdyś mnichom do nocnych modlitw nakazanych surową zakonną regułą. W XVI wieku kaplice po stronie północnej przekształcono w jedną - świętego Krzyża, gdzie znajduje się słynący łaskami mogilski krucyfiks. Jest niezwykła rzeźba, którą według tradycji w XII wieku wyłowiono z Wisły. Jako jedyny element wyposażenia ocalała z pożaru kościoła w XV wieku. Spłonęły tylko włosy Chrystusa i przepaska na biodra. Dlatego od tamtej pory nakłada się figurze Zbawiciela perukę z prawdziwych włosów, a biodra przepasuje prawdziwą tkaniną. Z klasztorem cystersów w XVI wieku związany był Stanisław Samostrzelnik, niezwykle utalentowany mnich, który pełnił służbę Bogu iluminując księgi oraz malując obrazy i polichromie. Najlepszym przykładem jego zdolności są malowidła zdobiące prezbiterium i transept mogilskiego kościoła. Warto pamiętać, że podobne przykłady renesansowego malarstwa są niezmiernie rzadkie.",
+	"placeCategoriesList": [{
 	"id": 7,
 	"name": "CHURCH",
 	"image": {
@@ -322,22 +567,71 @@
 		"uri": "https://cdn0.iconfinder.com/data/icons/building-icons-rounded/110/Church-128.png",
 		"path": ""
 	}
-}],
-"openHours": "06:00 - 20:00",
-"thumbnail": {
+	}],
+	"openHours": [ {
+		"day": 0,
+		"openHour": {
+			"hour": -1,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 1,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 2,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 3,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 4,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 5,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 6,
+		"openHour": {
+			"hour": -1,
+			"minutes": 0,
+		}
+	}
+	],
+	"thumbnail": {
 	"id": 3,
 	"uri": "http://www.wachock.cystersi.pl/files/image/cystersi/cystersi_w_polsce/cystersi%20w%20polsce-mogi%C5%82a.jpg",
 	"path": ""
-},
-"images": [{
+	},
+	"images": [{
 	"id": 1,
 	"uri": "http://www.krakow2016.com/media/cache/filemanager/rc/24HAbvtO/images/LP/archidiecezja_krakowska/Cystersi.jpg",
 	"path": ""
-}],
+	}],
 
-"disabledFacilities": true,
+	"disabledFacilities": true,
 
-"localization": {
+	"localization": {
 	"description": "ul. Klasztorna 11, Kraków",
 	"image": "http://www.wachock.cystersi.pl/files/image/cystersi/cystersi_w_polsce/cystersi%20w%20polsce-mogi%C5%82a.jpg",
 	"coordinatesList": [{
@@ -352,18 +646,18 @@
 		"lon": 20.052991,
 		"elv": 5
 	}
-}
-}
+	}
+	}
 
-,
+	,
 
 
-{
-"id": 1011027,
-"name": "Auschwitz-Birkenau",
-"shortDescription": "",
-"content": "Obóz Auschwitz stał się dla świata symbolem terroru, ludobójstwa i Szoa. Utworzony został przez Niemców w połowie 1940 r. na przedmieściach Oświęcimia, włączonego przez nazistów do Trzeciej Rzeszy. Bezpośrednim powodem utworzenia obozu była powiększająca się liczba aresztowanych masowo Polaków i przepełnienie istniejących więzień. Pierwszy transport Polaków dotarł do KL Auschwitz 14 czerwca 1940 r. z więzienia w Tarnowie. Początkowo miał to być kolejny z obozów koncentracyjnych, tworzonych przez nazistów już od początku lat trzydziestych. Funkcję tę Auschwitz spełniał przez cały okres swego istnienia, także gdy - od 1942 r. - stał się równocześnie jednym z ośrodków „Endlösung der Judenfrage” (ostatecznego rozwiązania kwestii żydowskiej) - nazistowskiego planu wymordowania Żydów zamieszkujących okupowane przez III Rzeszę tereny.",
-"placeCategoriesList": [{
+	{
+	"id": 1011027,
+	"name": "Auschwitz-Birkenau",
+	"shortDescription": "",
+	"content": "Obóz Auschwitz stał się dla świata symbolem terroru, ludobójstwa i Szoa. Utworzony został przez Niemców w połowie 1940 r. na przedmieściach Oświęcimia, włączonego przez nazistów do Trzeciej Rzeszy. Bezpośrednim powodem utworzenia obozu była powiększająca się liczba aresztowanych masowo Polaków i przepełnienie istniejących więzień. Pierwszy transport Polaków dotarł do KL Auschwitz 14 czerwca 1940 r. z więzienia w Tarnowie. Początkowo miał to być kolejny z obozów koncentracyjnych, tworzonych przez nazistów już od początku lat trzydziestych. Funkcję tę Auschwitz spełniał przez cały okres swego istnienia, także gdy - od 1942 r. - stał się równocześnie jednym z ośrodków „Endlösung der Judenfrage” (ostatecznego rozwiązania kwestii żydowskiej) - nazistowskiego planu wymordowania Żydów zamieszkujących okupowane przez III Rzeszę tereny.",
+	"placeCategoriesList": [{
 	"id": 7,
 	"name": "MUSEUM",
 	"image": {
@@ -371,22 +665,71 @@
 		"uri": "https://camo.githubusercontent.com/6a6eb0055b744a26d4ae39ab356124f6fc7d5938/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313036373930372f313530363736302f35356131376163302d343934352d313165332d383337392d6133366264326261346436352e706e67",
 		"path": ""
 	}
-}],
-"openHours": "10:00 - 17:00",
-"thumbnail": {
+	}],
+	"openHours": [ {
+		"day": 0,
+		"openHour": {
+			"hour": -1,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 1,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 2,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 3,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 4,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 5,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 6,
+		"openHour": {
+			"hour": -1,
+			"minutes": 0,
+		}
+	}
+	],
+	"thumbnail": {
 	"id": 3,
 	"uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Birkenau_gate.JPG/220px-Birkenau_gate.JPG",
 	"path": ""
-},
-"images": [{
+	},
+	"images": [{
 	"id": 1,
 	"uri": "https://www.google.pl/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjvoaqu86DSAhUCkiwKHUt9DtwQjRwIBw&url=http%3A%2F%2Fnewsbook.pl%2F2016%2F07%2F17%2Fmilczenie-papieza-w-auschwitz-bedzie-swiadectwem%2F&psig=AFQjCNFo9J3dGcIoju2jbgMlZRmVqeYUUw&ust=1487756591380879",
 	"path": ""
-}],
+	}],
 
-"disabledFacilities": true,
+	"disabledFacilities": true,
 
-"localization": {
+	"localization": {
 	"description": "Więźniów Oświęcimia 20, Oświęcim, Polska",
 	"image": "",
 	"coordinatesList": [{
@@ -401,19 +744,19 @@
 		"lon": 19.2019891217433,
 		"elv": 5
 	}
-}
-}
+	}
+	}
 
 
-,
+	,
 
 
-{
-"id": 1011028,
-"name": "Kopalnia soli w Wieliczce",
-"shortDescription": "",
-"content": "Wieliczka dzięki kopalni soli znana jest na całym świecie. Sól z solanek powierzchniowych warzono tu już 3500 lat p.n.e., początki eksploatacji soli kamiennej datuje się natomiast na XIII w., z tego bowiem okresu pochodzi najstarszy szyb odkryty na dziedzińcu Zamku Żupnego. Początkowo kopalnia stanowiła własność książęcą, a następnie królewską. Z pieniędzy uzyskiwanych ze sprzedaży soli opłacano profesorów Akademii Krakowskiej, budowano i odnawiano krakowskie kościoły i kamienice, łożono na renesansową rozbudowę Wawelu. Kilka wieków później, w 1978 r., kopalnię wpisano na Listę UNESCO, doceniając jej unikatowość w skali świata. To jedyny górniczy obiekt czynny bezustannie od XIII w., a jego oryginalne wyrobiska ilustrują wszystkie etapy rozwoju techniki wydobywczej. W ciągu wieków zgłębiono w Wieliczce 26 szybów. Na IX poziomach, od głębokości 57 do 327 m, wydrążono ponad 2 tys. komór i prawie 300 km chodników. Dzięki dużej trwałości wyrobisk zachowały się nawet komory wybrane pod koniec średniowiecza. Zabytkowa strefa obejmuje poziomy I–V (218 komór i 190 chodników), a na przemierzających podziemne labirynty czekają prawdziwe cuda wykonane w soli: kaplice zdobione solnymi rzeźbami, słone jeziora, stare wyrobiska o oryginalnej drewnianej zabudowie, dawne narzędzia górnicze… Dwukilometrowa trasa turystyczna (poziom I–III), którą podąża się, zwiedzając kopalnię, pozwala zobaczyć  22 komory, a 16 kolejnych czeka na turystów w podziemnym oddziale Muzeum Żup Krakowskich (poziom III). Do najsłynniejszych przystanków na trasie należą barokowa kaplica św. Antoniego (XVII w., najstarsza w kopalni) i kaplica św. Kingi (wydrążona w XVIII w., funkcję podziemnego sanktuarium pełni od XIX w.), której zachwycający wystrój to zasługa górników, przede wszystkim rzeźbiarzy samouków: Józefa i Tomasza Markowskich oraz Antoniego Wyrodka. Malownicze podziemne jeziora znajdują się w komorach Weimar, Erazma Barącza i Józefa Piłsudskiego. W tej ostatniej przy dźwiękach orkiestry odbywały się niegdyś uroczyste przejazdy promem. W najwyższej na trasie (36 m) komorze Staszica podczas wojny Niemcy próbowali stworzyć halę montażową części do samolotów. W komorach Warszawa, Wisła i Budryka urządzono obecnie centrum widowiskowo-sportowo-gastronomiczne. Niezwykle ciekawie prezentuje się również podziemna ekspozycja Muzeum Żup Krakowskich (zwiedzanie po przejściu trasy turystycznej w ramach jednego biletu). Zgromadzono tu eksponaty ukazujące rozwój techniki górniczej, m.in. przyrządy i narzędzia, kołowroty ręczne, kieraty konne oraz mapy górnicze i ryciny przedstawiające wielicką kopalnię w minionych stuleciach. Prawdziwym skarbem jest Róg Bractwa Kopaczy Wielickich z 1534 r., wykonany prawdopodobnie w pracowni złotniczej Andrzeja Dürera, brata słynnego Albrechta z Norymbergi.",
-"placeCategoriesList": [{
+	{
+	"id": 1011028,
+	"name": "Kopalnia soli w Wieliczce",
+	"shortDescription": "",
+	"content": "Wieliczka dzięki kopalni soli znana jest na całym świecie. Sól z solanek powierzchniowych warzono tu już 3500 lat p.n.e., początki eksploatacji soli kamiennej datuje się natomiast na XIII w., z tego bowiem okresu pochodzi najstarszy szyb odkryty na dziedzińcu Zamku Żupnego. Początkowo kopalnia stanowiła własność książęcą, a następnie królewską. Z pieniędzy uzyskiwanych ze sprzedaży soli opłacano profesorów Akademii Krakowskiej, budowano i odnawiano krakowskie kościoły i kamienice, łożono na renesansową rozbudowę Wawelu. Kilka wieków później, w 1978 r., kopalnię wpisano na Listę UNESCO, doceniając jej unikatowość w skali świata. To jedyny górniczy obiekt czynny bezustannie od XIII w., a jego oryginalne wyrobiska ilustrują wszystkie etapy rozwoju techniki wydobywczej. W ciągu wieków zgłębiono w Wieliczce 26 szybów. Na IX poziomach, od głębokości 57 do 327 m, wydrążono ponad 2 tys. komór i prawie 300 km chodników. Dzięki dużej trwałości wyrobisk zachowały się nawet komory wybrane pod koniec średniowiecza. Zabytkowa strefa obejmuje poziomy I–V (218 komór i 190 chodników), a na przemierzających podziemne labirynty czekają prawdziwe cuda wykonane w soli: kaplice zdobione solnymi rzeźbami, słone jeziora, stare wyrobiska o oryginalnej drewnianej zabudowie, dawne narzędzia górnicze… Dwukilometrowa trasa turystyczna (poziom I–III), którą podąża się, zwiedzając kopalnię, pozwala zobaczyć  22 komory, a 16 kolejnych czeka na turystów w podziemnym oddziale Muzeum Żup Krakowskich (poziom III). Do najsłynniejszych przystanków na trasie należą barokowa kaplica św. Antoniego (XVII w., najstarsza w kopalni) i kaplica św. Kingi (wydrążona w XVIII w., funkcję podziemnego sanktuarium pełni od XIX w.), której zachwycający wystrój to zasługa górników, przede wszystkim rzeźbiarzy samouków: Józefa i Tomasza Markowskich oraz Antoniego Wyrodka. Malownicze podziemne jeziora znajdują się w komorach Weimar, Erazma Barącza i Józefa Piłsudskiego. W tej ostatniej przy dźwiękach orkiestry odbywały się niegdyś uroczyste przejazdy promem. W najwyższej na trasie (36 m) komorze Staszica podczas wojny Niemcy próbowali stworzyć halę montażową części do samolotów. W komorach Warszawa, Wisła i Budryka urządzono obecnie centrum widowiskowo-sportowo-gastronomiczne. Niezwykle ciekawie prezentuje się również podziemna ekspozycja Muzeum Żup Krakowskich (zwiedzanie po przejściu trasy turystycznej w ramach jednego biletu). Zgromadzono tu eksponaty ukazujące rozwój techniki górniczej, m.in. przyrządy i narzędzia, kołowroty ręczne, kieraty konne oraz mapy górnicze i ryciny przedstawiające wielicką kopalnię w minionych stuleciach. Prawdziwym skarbem jest Róg Bractwa Kopaczy Wielickich z 1534 r., wykonany prawdopodobnie w pracowni złotniczej Andrzeja Dürera, brata słynnego Albrechta z Norymbergi.",
+	"placeCategoriesList": [{
 	"id": 7,
 	"name": "MUSEUM",
 	"image": {
@@ -421,42 +764,91 @@
 		"uri": "https://camo.githubusercontent.com/6a6eb0055b744a26d4ae39ab356124f6fc7d5938/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313036373930372f313530363736302f35356131376163302d343934352d313165332d383337392d6133366264326261346436352e706e67",
 		"path": ""
 	}
-}],
-"openHours": "10:00 - 17:00",
-"thumbnail": {
+	}],
+	"openHours": [ {
+		"day": 0,
+		"openHour": {
+			"hour": -1,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 1,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 2,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 3,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 4,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 5,
+		"openHour": {
+			"hour": 8,
+			"minutes": 0,
+		}
+	},
+	{
+		"day": 6,
+		"openHour": {
+			"hour": -1,
+			"minutes": 0,
+		}
+	}
+	],
+	"thumbnail": {
 	"id": 3,
 	"uri": "http://www.visitmalopolska.pl/UM.MSIT.Multimedia.WebResource.axd?fileType=ProductPreview&folderId=cea24219-be2e-4ea4-b4e5-94ded410f689",
 	"path": ""
-},
-"images": [{
+	},
+	"images": [{
 	"id": 1,
 	"uri": "https://www.kopalnia.pl/files/zwiedzanie/trasa_turystyczna/galeria_strona_glowna/kopalnia_soli_wieliczka_trasa_turystyczna_galeria_strona_glowna_03.jpg",
 	"path": ""
-},
-{
+	},
+	{
 	"id": 1,
 	"uri": "https://upload.wikimedia.org/wikipedia/commons/3/38/Kopalnia_Soli_Wieliczka-Komora_Weimar.jpg",
 	"path": ""
-},
-{
+	},
+	{
 	"id": 1,
 	"uri": "http://www.maszwolne.pl/photos/objects/a4c2dee2cfbe69e4bbd09cea54b20261.jpg",
 	"path": ""
-},
-{
+	},
+	{
 	"id": 1,
 	"uri": "https://upload.wikimedia.org/wikipedia/commons/7/70/Wieliczka_salt_mine.jpg",
 	"path": ""
-},
-{
+	},
+	{
 	"id": 1,
 	"uri": "https://www.goodpoland.com/images/upload/miejsca/kopalnia-soli-w-wieliczce/GoodPoland_Kopalnia_Soli_w_Wieliczce_04.jpg",
 	"path": ""
-}],
+	}],
 
-"disabledFacilities": true,
+	"disabledFacilities": true,
 
-"localization": {
+	"localization": {
 	"description": "Wieliczka",
 	"image": "",
 	"coordinatesList": [{
@@ -471,9 +863,9 @@
 		"lon": 20.0647971,
 		"elv": 5
 	}
-}
-}
+	}
+	}
 
 
-]
-}
+	]
+	}
