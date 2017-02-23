@@ -2,47 +2,47 @@
     "languages": [
         {
             "languageCode": "PL",
-            "translationlanguageCode": "PL",
+            "translationLanguageCode": "PL",
             "translationLanguageName": "Polski"
         },
         {
             "languageCode": "PL",
-            "translationlanguageCode": "EN",
+            "translationLanguageCode": "EN",
             "translationLanguageName": "Polish"
         },
         {
             "languageCode": "PL",
-            "translationlanguageCode": "DE",
+            "translationLanguageCode": "DE",
             "translationLanguageName": "Polnisch"
         },
         {
             "languageCode": "EN",
-            "translationlanguageCode": "PL",
+            "translationLanguageCode": "PL",
             "translationLanguageName": "Angielski"
         },
         {
             "languageCode": "EN",
-            "translationlanguageCode": "EN",
+            "translationLanguageCode": "EN",
             "translationLanguageName": "English"
         },
         {
             "languageCode": "EN",
-            "translationlanguageCode": "DE",
+            "translationLanguageCode": "DE",
             "translationLanguageName": "Englisch"
         },
         {
             "languageCode": "DE",
-            "translationlanguageCode": "PL",
+            "translationLanguageCode": "PL",
             "translationLanguageName": "Niemiecki"
         },
         {
             "languageCode": "DE",
-            "translationlanguageCode": "EN",
+            "translationLanguageCode": "EN",
             "translationLanguageName": "German"
         },
         {
             "languageCode": "DE",
-            "translationlanguageCode": "DE",
+            "translationLanguageCode": "DE",
             "translationLanguageName": "Deutsch"
         }
     ]
