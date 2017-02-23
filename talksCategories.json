@@ -1,49 +1,31 @@
 {
     "categories":[
-        {
-        "categoryCode": "shoping",
-        "languageCode": "pl",
-        "desc": "Zakupy"
-    },
-    {
-        "categoryCode": "shoping",
-        "languageCode": "en",
-        "desc": "Shoping"
-    },
-    {
-        "categoryCode": "shoping",
-        "languageCode": "de",
-        "desc": "Einkaufen"
-    },
-    {
-        "categoryCode": "publicTransport",
-        "languageCode": "pl",
-        "desc": "Komunikacja miejka"
-    },
-    {
-        "categoryCode": "publicTransport",
-        "languageCode": "en",
-        "desc": "Public transport"
-    },
-    {
-        "categoryCode": "publicTransport",
-        "languageCode": "de",
-        "desc": "öffentlicher Verkehr"
-    },
-    {
-        "categoryCode": "restourant",
-        "languageCode": "pl",
-        "desc": "Restauracja"
-    },
-    {
-        "categoryCode": "restourant",
-        "languageCode": "en",
-        "desc": "Restourant"
-    },
-    {
-        "categoryCode": "restourant",
-        "languageCode": "de",
-        "desc": "Restaurant"
-    }
+      { "categoryCode": "BASIC", "languageCode": "PL", "desc": "Ogólne" },
+      { "categoryCode": "CONVERSATION", "languageCode": "PL", "desc": "Rozmowa" },
+      { "categoryCode": "DIRECTIONS", "languageCode": "PL", "desc": "Pytanie o drogę i informację" },
+      { "categoryCode": "EMERGENCY", "languageCode": "PL", "desc": "Nagły wypadek" },
+      { "categoryCode": "FOOD", "languageCode": "PL", "desc": "Jedzenie i picie - W restauracji" },
+      { "categoryCode": "HEALTH", "languageCode": "PL", "desc": "U lekarza" },
+      { "categoryCode": "SHOPPING", "languageCode": "PL", "desc": "Zakupy" },
+      { "categoryCode": "TRANSPORT", "languageCode": "PL", "desc": "Transport" },
+      { "categoryCode": "WYD", "languageCode": "PL", "desc": "Inne" },
+      { "categoryCode": "BASIC", "languageCode": "EN", "desc": "General" },
+      { "categoryCode": "CONVERSATION", "languageCode": "EN", "desc": "Conversation" },
+      { "categoryCode": "DIRECTIONS", "languageCode": "EN", "desc": "Questions about Directions and Information" },
+      { "categoryCode": "EMERGENCY", "languageCode": "EN", "desc": "Emergency" },
+      { "categoryCode": "FOOD", "languageCode": "EN", "desc": "" },
+      { "categoryCode": "HEALTH", "languageCode": "EN", "desc": "Health - At the Doctor" },
+      { "categoryCode": "SHOPPING", "languageCode": "EN", "desc": "Shopping" },
+      { "categoryCode": "TRANSPORT", "languageCode": "EN", "desc": "Transportation" },
+      { "categoryCode": "WYD", "languageCode": "EN", "desc": "Other" },
+      { "categoryCode": "BASIC", "languageCode": "DE", "desc": "Grundwortschatz" },
+      { "categoryCode": "CONVERSATION", "languageCode": "DE", "desc": "Vorstellen" },
+      { "categoryCode": "DIRECTIONS", "languageCode": "DE", "desc": "Um den Weg fragen" },
+      { "categoryCode": "EMERGENCY", "languageCode": "DE", "desc": "Plötzlicher Unfall" },
+      { "categoryCode": "FOOD", "languageCode": "DE", "desc": "Essne und Trinekn im Restaurant" },
+      { "categoryCode": "HEALTH", "languageCode": "DE", "desc": "Gesundheit - Beim Arzt" },
+      { "categoryCode": "SHOPPING", "languageCode": "DE", "desc": "Einkäufe" },
+      { "categoryCode": "TRANSPORT", "languageCode": "DE", "desc": "Transport" },
+      { "categoryCode": "WYD", "languageCode": "DE", "desc": "Andere" }
     ]
 }

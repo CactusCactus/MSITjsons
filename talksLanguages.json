@@ -1,48 +1,48 @@
 {
     "languages": [
         {
-            "languageCode": "pl",
-            "translationLanguageCode": "pl",
+            "languageCode": "PL",
+            "translationlanguageCode": "PL",
             "translationLanguageName": "Polski"
         },
         {
-            "languageCode": "pl",
-            "translationLanguageCode": "en",
+            "languageCode": "PL",
+            "translationlanguageCode": "EN",
             "translationLanguageName": "Polish"
         },
         {
-            "languageCode": "pl",
-            "translationLanguageCode": "de",
+            "languageCode": "PL",
+            "translationlanguageCode": "DE",
             "translationLanguageName": "Polnisch"
         },
         {
-            "languageCode": "en",
-            "translationLanguageCode": "pl",
+            "languageCode": "EN",
+            "translationlanguageCode": "PL",
             "translationLanguageName": "Angielski"
         },
         {
-            "languageCode": "en",
-            "translationLanguageCode": "en",
+            "languageCode": "EN",
+            "translationlanguageCode": "EN",
             "translationLanguageName": "English"
         },
         {
-            "languageCode": "en",
-            "translationLanguageCode": "de",
+            "languageCode": "EN",
+            "translationlanguageCode": "DE",
             "translationLanguageName": "Englisch"
         },
         {
-            "languageCode": "de",
-            "translationLanguageCode": "pl",
+            "languageCode": "DE",
+            "translationlanguageCode": "PL",
             "translationLanguageName": "Niemiecki"
         },
         {
-            "languageCode": "de",
-            "translationLanguageCode": "en",
+            "languageCode": "DE",
+            "translationlanguageCode": "EN",
             "translationLanguageName": "German"
         },
         {
-            "languageCode": "de",
-            "translationLanguageCode": "de",
+            "languageCode": "DE",
+            "translationlanguageCode": "DE",
             "translationLanguageName": "Deutsch"
         }
     ]
