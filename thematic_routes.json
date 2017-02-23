@@ -2,26 +2,26 @@
     "thematic_routes": [{
             "name": "Ścieżkami Jana Pawła II",
             "lang": "pl",
-            "place_id_array": [],
+            "place_id_array": [1011023, 1011026],
             "event_id_array": [],
-            "article_id_array": [1011023, 1011025, 1011026],
+            "article_id_array": [1, 2],
             "route_id_array": [101]
         },
         {
             "name": "Szlak Orlich Gniazd",
             "lang": "pl",
-            "place_id_array": [],
-            "event_id_array": [],
-            "article_id_array": [1011023, 1011026],
-            "route_id_array": [101]
+            "place_id_array": [102],
+            "event_id_array": [3],
+            "article_id_array": [],
+            "route_id_array": []
         },
         {
             "name": "Trail of the Eagles' Nests",
             "lang": "en",
-            "place_id_array": [],
-            "event_id_array": [],
-            "article_id_array": [1011023, 1011026],
-            "route_id_array": [101]
+            "place_id_array": [102],
+            "event_id_array": [3],
+            "article_id_array": [],
+            "route_id_array": []
         }
     ]
 }
