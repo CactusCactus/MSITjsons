@@ -39,7 +39,7 @@
         "uri": "https://www.malopolska.pl/_cache/news--2017/790-790/fit/17xxx1000.jpg",
         "path": ""
       }],
-      "www": "example.com",
+      "www": ["example.com", "google.pl"],
       "connectedContentList": [
         {
           "id": 1,
@@ -87,7 +87,7 @@
         "uri": "https://www.malopolska.pl/_cache/news--2017/790-790/fit/15xxx1000.jpg",
         "path": ""
       }],
-      "www": "example.com",
+      "www": ["example.com", "google.pl"],
       "connectedContentList": [
         {
           "id": 1,
@@ -126,7 +126,7 @@
         "uri": "https://www.malopolska.pl/_cache/news--2017/1700-956/fit/CRJ_0314xxx1000.jpg",
         "path": ""
       }],
-      "www": "example.com",
+      "www": ["example.com", "google.pl"],
       "connectedContentList": [
         {
           "id": 1,
@@ -175,7 +175,7 @@
         "uri": "https://www.malopolska.pl/_cache/news--2017/790-790/fit/17xxx1000.jpg",
         "path": ""
       }],
-      "www": "example.com",
+      "www": ["example.com", "google.pl"],
       "connectedContentList": [
         {
           "id": 1,
@@ -223,7 +223,7 @@
         "uri": "https://www.malopolska.pl/_cache/news--2017/790-790/fit/15xxx1000.jpg",
         "path": ""
       }],
-      "www": "example.com",
+      "www": ["example.com", "google.pl"],
       "connectedContentList": [
         {
           "id": 1,
@@ -262,7 +262,7 @@
         "uri": "https://www.malopolska.pl/_cache/news--2017/1700-956/fit/CRJ_0314xxx1000.jpg",
         "path": ""
       }],
-      "www": "example.com",
+      "www": ["example.com", "google.pl"],
       "connectedContentList": [
         {
           "id": 1,
