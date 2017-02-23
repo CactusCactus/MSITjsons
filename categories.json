@@ -39,6 +39,16 @@
 		"code": "RESTAURANT",
 		"lang": "en",
 		"translation": "Restaurant"
+	}, {
+		"id": 9,
+		"code": "CONCERT",
+		"lang": "pl",
+		"translation": "Koncert"
+	}, {
+		"id": 10,
+		"code": "CONCERT",
+		"lang": "en",
+		"translation": "Concert"
 	}]
 
 }
