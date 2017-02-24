@@ -55,7 +55,7 @@
 		"color": "#ffc20e"
 	},
 	{
-		"id": 16,
+		"id": 17,
 		"name": "STR_BICYCLE_TOURING",
 		"icon": "IC_BICYCLE_TOURING",
 		"action": "AC_BICYCLE_TOURING",
