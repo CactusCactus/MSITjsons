@@ -53,7 +53,14 @@
 		"icon": "IC_ROUTES",
 		"action": "AC_ROUTES_OPEN",
 		"color": "#ffc20e"
-	}, {
+	},
+	{
+		"id": 16,
+		"name": "STR_BICYCLE_TOURING",
+		"icon": "IC_BICYCLE_TOURING",
+		"action": "AC_BICYCLE_TOURING",
+		"color": "#ffc20e"
+	},{
 		"id": 9,
 		"name": "STR_TALKS",
 		"icon": "IC_TALKS",
