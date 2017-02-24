@@ -13,7 +13,7 @@
       { "categoryCode": "CONVERSATION", "languageCode": "EN", "desc": "Conversation" },
       { "categoryCode": "DIRECTIONS", "languageCode": "EN", "desc": "Questions about Directions and Information" },
       { "categoryCode": "EMERGENCY", "languageCode": "EN", "desc": "Emergency" },
-      { "categoryCode": "FOOD", "languageCode": "EN", "desc": "" },
+      { "categoryCode": "FOOD", "languageCode": "EN", "desc": "In restaurant" },
       { "categoryCode": "HEALTH", "languageCode": "EN", "desc": "Health - At the Doctor" },
       { "categoryCode": "SHOPPING", "languageCode": "EN", "desc": "Shopping" },
       { "categoryCode": "TRANSPORT", "languageCode": "EN", "desc": "Transportation" },
