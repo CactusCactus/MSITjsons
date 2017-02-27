@@ -42,8 +42,12 @@
 			}],
 			"connectedContentList": [{
 				"id": 1,
-				"category": "Ważne",
+				"category": "AC_EVENTS_OPEN",
 				"name": "Powiązane wydarzenie"
+			}, {
+				"id": 2,
+				"category": "AC_POI_OPEN",
+				"name": "Powiązane miejsce"
 			}]
 		}, {
 			"id": 1,
@@ -88,7 +92,7 @@
 			}],
 			"connectedContentList": [{
 				"id": 1,
-				"category": "Ważne",
+				"category": "AC_POI_OPEN",
 				"name": "Powiązane wydarzenie"
 			}]
 		}, {
@@ -126,7 +130,7 @@
 			}],
 			"connectedContentList": [{
 				"id": 1,
-				"category": "Ważne",
+				"category": "AC_POI_OPEN",
 				"name": "Powiązane wydarzenie"
 			}]
 		},
@@ -174,7 +178,7 @@
 			}],
 			"connectedContentList": [{
 				"id": 1,
-				"category": "Ważne",
+				"category": "AC_EVENTS_OPEN",
 				"name": "Powiązane wydarzenie"
 			}]
 		}, {
@@ -220,7 +224,7 @@
 			}],
 			"connectedContentList": [{
 				"id": 1,
-				"category": "Ważne",
+				"category": "AC_EVENTS_OPEN",
 				"name": "Powiązane wydarzenie"
 			}]
 		}, {
@@ -258,7 +262,7 @@
 			}],
 			"connectedContentList": [{
 				"id": 1,
-				"category": "Ważne",
+				"category": "AC_EVENTS_OPEN",
 				"name": "Powiązane wydarzenie"
 			}]
 		}
