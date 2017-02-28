@@ -49,6 +49,16 @@
 		"code": "CONCERT",
 		"lang": "en",
 		"translation": "Concert"
+	}, {
+		"id": 11,
+		"code": "SPORT",
+		"lang": "pl",
+		"translation": "Sport"
+	}, {
+		"id": 12,
+		"code": "SPORT",
+		"lang": "en",
+		"translation": "Sport"
 	}]
 
 }
