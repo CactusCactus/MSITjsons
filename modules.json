@@ -22,13 +22,13 @@
 		"name": "STR_POI",
 		"icon": "IC_POI",
 		"action": "AC_POI_OPEN",
-		"color": "#426ab3"
+		"color": "#00b9f1"
 	}, {
 		"id": 5,
 		"name": "STR_FAV",
 		"icon": "IC_FAV",
 		"action": "AC_FAV_OPEN",
-		"color": "#426ab3"
+		"color": "#c2c2c2"
 	}, {
 		"id": 6,
 		"name": "STR_MAP",
@@ -46,61 +46,61 @@
 		"name": "STR_THEMATIC_ROUTES",
 		"icon": "IC_THEMATIC_ROUTES",
 		"action": "AC_THEMATIC_ROUTES",
-		"color": "#ffc20e"
+		"color": "#37474f"
 	}, {
 		"id": 8,
 		"name": "STR_ROUTES",
 		"icon": "IC_ROUTES",
 		"action": "AC_ROUTES_OPEN",
-		"color": "#ffc20e"
+		"color": "#00a94f"
 	},
 	{
 		"id": 17,
 		"name": "STR_BICYCLE_TOURING",
 		"icon": "IC_BICYCLE_TOURING",
 		"action": "AC_BICYCLE_TOURING",
-		"color": "#ffc20e"
+		"color": "#00bfa5"
 	},{
 		"id": 9,
 		"name": "STR_TALKS",
 		"icon": "IC_TALKS",
 		"action": "AC_TALKS_OPEN",
-		"color": "#ffc20e"
+		"color": "#426ab3"
 	}, {
 		"id": 10,
 		"name": "STR_POSTCARD",
 		"icon": "IC_POSTCARD",
 		"action": "AC_POSTCARD_OPEN",
-		"color": "#ffc20e"
+		"color": "#ff9100"
 	}, {
 		"id": 11,
 		"name": "STR_GAMES",
 		"icon": "IC_GAMES",
 		"action": "AC_GAMES_OPEN",
-		"color": "#ffc20e"
+		"color": "#607d8b"
 	}, {
 		"id": 12,
 		"name": "STR_AR",
 		"icon": "IC_AR",
 		"action": "AC_AR_OPEN",
-		"color": "#ffc20e"
+		"color": "#ff7043"
 	}, {
 		"id": 13,
 		"name": "STR_NUMBERS",
 		"icon": "IC_NUMBERS",
 		"action": "AC_NUMBERS_OPEN",
-		"color": "#ffc20e"
+		"color": "#f44336"
 	}, {
 		"id": 14,
 		"name": "STR_ASIST",
 		"icon": "IC_ASIST",
 		"action": "AC_ASIST_OPEN",
-		"color": "#ffc20e"
+		"color": "#2196f3"
 	}, {
 		"id": 15,
 		"name": "STR_OPTIONS",
 		"icon": "IC_OPTIONS",
 		"action": "AC_OPTIONS_OPEN",
-		"color": "#ffc20e"
+		"color": "#003366"
 	}]
 }

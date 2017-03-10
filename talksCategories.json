@@ -8,7 +8,6 @@
       { "categoryCode": "HEALTH", "languageCode": "PL", "desc": "U lekarza" },
       { "categoryCode": "SHOPPING", "languageCode": "PL", "desc": "Zakupy" },
       { "categoryCode": "TRANSPORT", "languageCode": "PL", "desc": "Transport" },
-      { "categoryCode": "WYD", "languageCode": "PL", "desc": "Inne" },
       { "categoryCode": "BASIC", "languageCode": "EN", "desc": "General" },
       { "categoryCode": "CONVERSATION", "languageCode": "EN", "desc": "Conversation" },
       { "categoryCode": "DIRECTIONS", "languageCode": "EN", "desc": "Questions about Directions and Information" },
@@ -17,7 +16,6 @@
       { "categoryCode": "HEALTH", "languageCode": "EN", "desc": "Health - At the Doctor" },
       { "categoryCode": "SHOPPING", "languageCode": "EN", "desc": "Shopping" },
       { "categoryCode": "TRANSPORT", "languageCode": "EN", "desc": "Transportation" },
-      { "categoryCode": "WYD", "languageCode": "EN", "desc": "Other" },
       { "categoryCode": "BASIC", "languageCode": "DE", "desc": "Grundwortschatz" },
       { "categoryCode": "CONVERSATION", "languageCode": "DE", "desc": "Vorstellen" },
       { "categoryCode": "DIRECTIONS", "languageCode": "DE", "desc": "Um den Weg fragen" },
@@ -25,7 +23,6 @@
       { "categoryCode": "FOOD", "languageCode": "DE", "desc": "Essne und Trinekn im Restaurant" },
       { "categoryCode": "HEALTH", "languageCode": "DE", "desc": "Gesundheit - Beim Arzt" },
       { "categoryCode": "SHOPPING", "languageCode": "DE", "desc": "Einkäufe" },
-      { "categoryCode": "TRANSPORT", "languageCode": "DE", "desc": "Transport" },
-      { "categoryCode": "WYD", "languageCode": "DE", "desc": "Andere" }
+      { "categoryCode": "TRANSPORT", "languageCode": "DE", "desc": "Transport" }
     ]
 }
