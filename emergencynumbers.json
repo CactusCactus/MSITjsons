@@ -1,6 +1,7 @@
 {
   "emergencynumbers": [
     {
+       "id": 1,
       "name": "Pogotowie ratunkowe",
       "description": "Pogotowie ratunkowe w Krakowie",
       "numberCategoriesList": [],
@@ -19,6 +20,7 @@
     },
 
     {
+      "id": 2,
       "name": "Telefon Dyżurny Komendy Straży Miejskiej",
       "description": "",
       "numberCategoriesList": [],
@@ -26,6 +28,7 @@
       "areaIdentifier": 0
     },
     {
+      "id": 3,
       "name": "Straż pożarna",
       "description": "",
       "numberCategoriesList": [],
@@ -34,6 +37,7 @@
     },
 
     {
+       "id": 4,
       "name": "TOPR",
       "description": "",
       "numberCategoriesList": [],
@@ -41,6 +45,7 @@
       "areaIdentifier": 0
     },
     {
+      "id": 5,
       "name": "GOPR",
       "description": "",
       "numberCategoriesList": [],
