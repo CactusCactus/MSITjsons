@@ -76,7 +76,7 @@
         {
             "id": 102,
             "name": "Oberża Swojskie Jadło",
-            "favorite": false, "shortDescription": "Pizzeria Oberża w Krynicy Zdroju zaprasza na pizzę oraz dania kuchni regionalnej.",
+            "favorite": true, "shortDescription": "Pizzeria Oberża w Krynicy Zdroju zaprasza na pizzę oraz dania kuchni regionalnej.",
             "content": "Pizzeria Oberża jest położona w centrum Krynicy Zdroju. Wystrój lokalu i muzyka w stylu góralskim. Oberża to miejsce, w którym można spotkać się ze znajomymi i rodziną przy dobrym jedzeniu, ale również dobrze zabawić. Poza pizzą restauracja oferuje jedzenie kuchni regionalnej.\n Pizze można zamówić na telefon. Na terenie Krynicy Zdroju dowóz gratis.\n Przykładowe pozycje menu:\n - Antrykot z Woła z grilla\n - Baranina na kij nabita \n - Bacy kotlet u ceprów\n - Staropolski stek z wieprza z cebulą i pieczarkami/n/nSzef kuchni poleca pizze Michała.",
             "placeCategoriesList": [{
                 "id": 0,
