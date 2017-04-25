@@ -2,7 +2,7 @@
 	"news": [{
 			"id": 0,
 			"title": "BO: Za nami Akademia Kobiecego Futbolu",
-			"shortDescription": "Biuro Prasowe UMWM",
+			"favourite": true, "shortDescription": "Biuro Prasowe UMWM",
 			"content": "Obecnie w Polsce futbol trenuje około 30tys. dziewczynek. O tym, że piłka nożna to sport nie tylko dla chłopców przekonywały uczestniczki projektu Akademia Kobiecego Futbolu, finansowanego w ramach Budżetu Obywatelskiego Województwa Małopolskiego. Za nami finał Małopolskiej Ligi Dziewcząt. Zwyciężczynie rozgrywek odebrały nagrody z rąk Grzegorza Lipca z zarządu województwa małopolskiego.",
 			"newsCategoriesList": [{
 				"id": 0,
@@ -52,7 +52,7 @@
 		}, {
 			"id": 1,
 			"title": "„Ziarnka Gorczycy” za działalność dobroczynną",
-			"shortDescription": "Biuro Prasowe UMWM",
+			"favourite": false, "shortDescription": "Biuro Prasowe UMWM",
 			"content": "Obecnie w Polsce futbol trenuje około 30tys. dziewczynek. O tym, że piłka nożna to sport nie tylko dla chłopców przekonywały uczestniczki projektu Akademia Kobiecego Futbolu, finansowanego w ramach Budżetu Obywatelskiego Województwa Małopolskiego. Za nami finał Małopolskiej Ligi Dziewcząt. Zwyciężczynie rozgrywek odebrały nagrody z rąk Grzegorza Lipca z zarządu województwa małopolskiego.",
 			"newsCategoriesList": [{
 				"id": 0,
@@ -98,7 +98,7 @@
 		}, {
 			"id": 2,
 			"title": "O gospodarce na rynkach międzynarodowych",
-			"shortDescription": "Biuro Prasowe UMWM",
+			"favourite": false, "shortDescription": "Biuro Prasowe UMWM",
 			"content": "Działania Komisji Europejskiej na rzecz przedsiębiorców i rozwoju rynku wewnątrzwspólnotowego, były głównym tematem debaty gospodarczej, zorganizowanej wspólnie przez województwo małopolskie, stowarzyszenie Rota i fundację Pomyśl o przyszłości. Gościem specjalnym wydarzenia była Elżbieta Bieńkowska, unijna komisarz ds. rynku wewnętrznego.",
 			"newsCategoriesList": [{
 				"id": 0,
@@ -138,7 +138,7 @@
 		{
 			"id": 3,
 			"title": "BO: Za nami Akademia Kobiecego Futbolu",
-			"shortDescription": "Biuro Prasowe UMWM",
+			"favourite": true, "shortDescription": "Biuro Prasowe UMWM",
 			"content": "Obecnie w Polsce futbol trenuje około 30tys. dziewczynek. O tym, że piłka nożna to sport nie tylko dla chłopców przekonywały uczestniczki projektu Akademia Kobiecego Futbolu, finansowanego w ramach Budżetu Obywatelskiego Województwa Małopolskiego. Za nami finał Małopolskiej Ligi Dziewcząt. Zwyciężczynie rozgrywek odebrały nagrody z rąk Grzegorza Lipca z zarządu województwa małopolskiego.",
 			"newsCategoriesList": [{
 				"id": 0,
@@ -184,7 +184,7 @@
 		}, {
 			"id": 4,
 			"title": "„Ziarnka Gorczycy” za działalność dobroczynną",
-			"shortDescription": "Biuro Prasowe UMWM",
+			"favourite": false, "shortDescription": "Biuro Prasowe UMWM",
 			"content": "Obecnie w Polsce futbol trenuje około 30tys. dziewczynek. O tym, że piłka nożna to sport nie tylko dla chłopców przekonywały uczestniczki projektu Akademia Kobiecego Futbolu, finansowanego w ramach Budżetu Obywatelskiego Województwa Małopolskiego. Za nami finał Małopolskiej Ligi Dziewcząt. Zwyciężczynie rozgrywek odebrały nagrody z rąk Grzegorza Lipca z zarządu województwa małopolskiego.",
 			"newsCategoriesList": [{
 				"id": 0,
@@ -230,7 +230,7 @@
 		}, {
 			"id": 5,
 			"title": "O gospodarce na rynkach międzynarodowych",
-			"shortDescription": "Biuro Prasowe UMWM",
+			"favourite": false, "shortDescription": "Biuro Prasowe UMWM",
 			"content": "Działania Komisji Europejskiej na rzecz przedsiębiorców i rozwoju rynku wewnątrzwspólnotowego, były głównym tematem debaty gospodarczej, zorganizowanej wspólnie przez województwo małopolskie, stowarzyszenie Rota i fundację Pomyśl o przyszłości. Gościem specjalnym wydarzenia była Elżbieta Bieńkowska, unijna komisarz ds. rynku wewnętrznego.",
 			"newsCategoriesList": [{
 				"id": 0,
