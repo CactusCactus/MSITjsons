@@ -28,7 +28,7 @@
 		"name": "STR_FAV",
 		"icon": "IC_FAV",
 		"action": "AC_FAV_OPEN",
-		"color": "#c2c2c2"
+		"color": "#F2D210"
 	}, {
 		"id": 6,
 		"name": "STR_MAP",
@@ -98,6 +98,12 @@
 		"color": "#2196f3"
 	}, {
 		"id": 15,
+		"name": "STR_OPTIONS",
+		"icon": "IC_OPTIONS",
+		"action": "AC_OPTIONS_OPEN",
+		"color": "#003366"
+	}, {
+		"id": 16,
 		"name": "STR_OPTIONS",
 		"icon": "IC_OPTIONS",
 		"action": "AC_OPTIONS_OPEN",
