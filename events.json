@@ -38,7 +38,11 @@
         "id": 1,
         "uri": "https://cojestgrane.pl/l/3zhu.jpeg",
         "path": ""
-      }],
+      },		{
+                "id": 2,
+                "uri": "http://www.lawendowetarasy.pl/wp-content/uploads/2012/12/tyniec8323.jpg",
+                "path": ""
+            }],
       "disabledFacilities": true,
       "www": "example.com",
       "placeId": "0",
