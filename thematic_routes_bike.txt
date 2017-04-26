@@ -1,0 +1,9 @@
+{
+	"name": "Trasy rowerowe",
+	"lang": "pl",
+	"place_id_array": [102],
+	"event_id_array": [3],
+	"article_id_array": [0, 2],
+	"route_id_array": [],
+	"isBike": true
+}
