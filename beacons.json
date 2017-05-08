@@ -9,12 +9,66 @@
 			{
 			"id": 1011023,
 			"category": "AC_POI_OPEN",
-			"name": "Zamek królewski na Wawelu"
+			"name": "Zamek królewski na Wawelu 3555"
 			},
 			{
 			"id": 13227638,
 			"category": "AC_AUDIO_OPEN",
-			"name": "Dywagacje na temat Brexitu"
+			"name": "Dywagacje na temat Brexitu 3555"
+			}
+		]
+	},
+	{
+		"id": 2436,
+		"thingId": 0,
+		"location": 0,
+		"poiId": 0,
+		"connectedContentList": [
+			{
+			"id": 1011023,
+			"category": "AC_POI_OPEN",
+			"name": "Zamek królewski na Wawelu 2436"
+			},
+			{
+			"id": 13227638,
+			"category": "AC_AUDIO_OPEN",
+			"name": "Dywagacje na temat Brexitu 2436" 
+			}
+		]
+	},
+	{
+		"id": 3228,
+		"thingId": 0,
+		"location": 0,
+		"poiId": 0,
+		"connectedContentList": [
+			{
+			"id": 1011023,
+			"category": "AC_POI_OPEN",
+			"name": "Zamek królewski na Wawelu 3228"
+			},
+			{
+			"id": 13227638,
+			"category": "AC_AUDIO_OPEN",
+			"name": "Dywagacje na temat Brexitu 3228"
+			}
+		]
+	},
+	{
+		"id": 2776,
+		"thingId": 0,
+		"location": 0,
+		"poiId": 0,
+		"connectedContentList": [
+			{
+			"id": 1011023,
+			"category": "AC_POI_OPEN",
+			"name": "Zamek królewski na Wawelu 2776"
+			},
+			{
+			"id": 13227638,
+			"category": "AC_AUDIO_OPEN",
+			"name": "Dywagacje na temat Brexitu 2776"
 			}
 		]
 	},
@@ -27,12 +81,12 @@
 			{
 			"id": 1011023,
 			"category": "AC_POI_OPEN",
-			"name": "Zamek królewski na Wawelu"
+			"name": "Zamek królewski na Wawelu 3556"
 			},
 			{
 			"id": 13227638,
 			"category": "AC_AUDIO_OPEN",
-			"name": "Dywagacje na temat Brexitu"
+			"name": "Dywagacje na temat Brexitu 3556"
 			}
 		]
 	}
