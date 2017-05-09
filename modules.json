@@ -102,11 +102,5 @@
 		"icon": "IC_OPTIONS",
 		"action": "AC_OPTIONS_OPEN",
 		"color": "#003366"
-	}, {
-		"id": 16,
-		"name": "STR_OPTIONS",
-		"icon": "IC_OPTIONS",
-		"action": "AC_OPTIONS_OPEN",
-		"color": "#003366"
 	}]
 }
