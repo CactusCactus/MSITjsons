@@ -863,6 +863,195 @@
 
                 "faxList": []
             }
+				},
+				
+				{
+						"id": 1011035,
+						"name": "SSE4 Tył 1",
+						"favorite": true, "shortDescription": "SSE4 Tył 1",
+						"content": "SSE4 Tył 1",
+						"placeCategoriesList": [
+
+							{
+								"id": 7,
+								"name": "MUSEUM",
+								"image": {
+										"id": 0,
+										"uri": "https://camo.githubusercontent.com/6a6eb0055b744a26d4ae39ab356124f6fc7d5938/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313036373930372f313530363736302f35356131376163302d343934352d313165332d383337392d6133366264326261346436352e706e67",
+										"path": ""
+								}
+						}
+					],
+						"openHours": "05:00 - 22:00",
+						"thumbnail": {
+								"id": 3,
+								"uri": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+								"path": ""
+						},
+						"images": [{
+										"id": 1,
+										"uri": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+										"path": ""
+								}
+						],
+
+						"disabledFacilities": true,
+
+						"localization": {
+								"description": "Michala Zyczkowskiego 23",
+								"image": "",
+								"coordinatesList": [{
+										"id": 0,
+										"lat": 50.079736,
+										"lon": 19.991010,
+										"elv": 5
+								}],
+								"mainCoordinates": {
+										"id": "1243",
+										"lat": 50.079736,
+										"lon": 19.991010,
+										"elv": 5
+								}
+						},
+						"contact": {
+                "mailsList": [
+
+                ],
+                "wwwList": [{
+                    "value": "comarch.pl"
+                }],
+                "phonesList": [{
+                    "value": "33 876 63 04"
+                }],
+
+                "faxList": []
+            }
+				},
+				
+				{
+						"id": 1011036,
+						"name": "Comarch Szlabany Center",
+						"favorite": true, "shortDescription": "Comarch Szlabany Center",
+						"content": "Comarch Szlabany Center",
+						"placeCategoriesList": [
+
+							{
+								"id": 7,
+								"name": "MUSEUM",
+								"image": {
+										"id": 0,
+										"uri": "https://camo.githubusercontent.com/6a6eb0055b744a26d4ae39ab356124f6fc7d5938/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313036373930372f313530363736302f35356131376163302d343934352d313165332d383337392d6133366264326261346436352e706e67",
+										"path": ""
+								}
+						}
+					],
+						"openHours": "05:00 - 22:00",
+						"thumbnail": {
+								"id": 3,
+								"uri": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+								"path": ""
+						},
+						"images": [{
+										"id": 1,
+										"uri": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+										"path": ""
+								}
+						],
+
+						"disabledFacilities": true,
+
+						"localization": {
+								"description": "Michala Zyczkowskiego 23",
+								"image": "",
+								"coordinatesList": [{
+										"id": 0,
+										"lat": 50.079887,
+										"lon": 19.993419,
+										"elv": 5
+								}],
+								"mainCoordinates": {
+										"id": "1243",
+										"lat": 50.079887,
+										"lon": 19.993419,
+										"elv": 5
+								}
+						},
+						"contact": {
+                "mailsList": [
+
+                ],
+                "wwwList": [{
+                    "value": "comarch.pl"
+                }],
+                "phonesList": [{
+                    "value": "33 876 63 04"
+                }],
+
+                "faxList": []
+            }
+				},
+				
+				{
+						"id": 1011037,
+						"name": "Comarch Parking Główny",
+						"favorite": true, "shortDescription": "Comarch Parking Główny",
+						"content": "Comarch Parking Główny",
+						"placeCategoriesList": [
+
+							{
+								"id": 7,
+								"name": "MUSEUM",
+								"image": {
+										"id": 0,
+										"uri": "https://camo.githubusercontent.com/6a6eb0055b744a26d4ae39ab356124f6fc7d5938/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313036373930372f313530363736302f35356131376163302d343934352d313165332d383337392d6133366264326261346436352e706e67",
+										"path": ""
+								}
+						}
+					],
+						"openHours": "05:00 - 22:00",
+						"thumbnail": {
+								"id": 3,
+								"uri": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+								"path": ""
+						},
+						"images": [{
+										"id": 1,
+										"uri": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+										"path": ""
+								}
+						],
+
+						"disabledFacilities": true,
+
+						"localization": {
+								"description": "Michala Zyczkowskiego 23",
+								"image": "",
+								"coordinatesList": [{
+										"id": 0,
+										"lat": 50.080359,
+										"lon": 19.993859,
+										"elv": 5
+								}],
+								"mainCoordinates": {
+										"id": "1243",
+										"lat": 50.080359,
+										"lon": 19.993859,
+										"elv": 5
+								}
+						},
+						"contact": {
+                "mailsList": [
+
+                ],
+                "wwwList": [{
+                    "value": "comarch.pl"
+                }],
+                "phonesList": [{
+                    "value": "33 876 63 04"
+                }],
+
+                "faxList": []
+            }
 				}
     ]
 }
