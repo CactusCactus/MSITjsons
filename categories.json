@@ -3,62 +3,74 @@
 		"id": 1,
 		"code": "MONUMENT",
 		"lang": "pl",
-		"translation": "Zabytek"
+		"translation": "Zabytek",
+		"type": "POI"
 	}, {
 		"id": 2,
 		"code": "MONUMENT",
 		"lang": "en",
-		"translation": "Monument"
+		"translation": "Monument",
+		"type": "POI"
 	}, {
 		"id": 3,
 		"code": "MUSEUM",
 		"lang": "pl",
-		"translation": "Muzeum"
+		"translation": "Muzeum",
+		"type": "POI"
 	}, {
 		"id": 4,
 		"code": "MUSEUM",
 		"lang": "en",
-		"translation": "Museum"
+		"translation": "Museum",
+		"type": "POI"
 	}, {
 		"id": 5,
 		"code": "CHURCH",
 		"lang": "pl",
-		"translation": "Kościół"
+		"translation": "Kościół",
+		"type": "POI"
 	}, {
 		"id": 6,
 		"code": "CHURCH",
 		"lang": "en",
-		"translation": "Church"
+		"translation": "Church",
+		"type": "POI"
 	}, {
 		"id": 7,
 		"code": "RESTAURANT",
 		"lang": "pl",
-		"translation": "Restauracja"
+		"translation": "Restauracja",
+		"type": "POI"
 	}, {
 		"id": 8,
 		"code": "RESTAURANT",
 		"lang": "en",
-		"translation": "Restaurant"
+		"translation": "Restaurant",
+		"type": "POI"
 	}, {
 		"id": 9,
 		"code": "CONCERT",
 		"lang": "pl",
-		"translation": "Koncert"
+		"translation": "Koncert",
+		"type": "EVN"
 	}, {
 		"id": 10,
 		"code": "CONCERT",
 		"lang": "en",
-		"translation": "Concert"
+		"translation": "Concert",
+		"type": "EVN"
 	}, {
 		"id": 11,
 		"code": "SPORT",
 		"lang": "pl",
-		"translation": "Sport"
+		"translation": "Sport",
+		"type": "EVN"
 	}, {
 		"id": 12,
 		"code": "SPORT",
 		"lang": "en",
-		"translation": "Sport"
+		"translation": "Sport",
+		"type": "EVN"
 	}]
 
 }
