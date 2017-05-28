@@ -102,5 +102,11 @@
 		"icon": "IC_OPTIONS",
 		"action": "AC_OPTIONS_OPEN",
 		"color": "#003366"
+	}, {
+		"id": 16,
+		"name": "STR_CHAT",
+		"icon": "IC_CHAT",
+		"action": "AC_CHAT_OPEN",
+		"color": "#009e7b"
 	}]
 }
