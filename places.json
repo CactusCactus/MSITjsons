@@ -1242,6 +1242,195 @@
 
                 "faxList": []
             }
+				},
+	    {
+						"id": 2011039,
+						"name": "Comarch Tarnów",
+						"favorite": true, "shortDescription": "Biuro w Tarnowie",
+						"content": "Comarch Tarnów",
+						"placeCategoriesList": [
+
+							{
+								"id": 7,
+								"name": "MONUMENT",
+								"image": {
+										"id": 0,
+										"uri": "https://camo.githubusercontent.com/6a6eb0055b744a26d4ae39ab356124f6fc7d5938/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313036373930372f313530363736302f35356131376163302d343934352d313165332d383337392d6133366264326261346436352e706e67",
+										"path": ""
+								}
+						}
+					],
+						"openHours": "06:00 - 17:00",
+						"thumbnail": {
+								"id": 3,
+								"uri": "https://geo2.ggpht.com/cbk?panoid=jAndbjwG0lcXlmXy_8XbCA&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=330.04065&pitch=0&thumbfov=100",
+								"path": ""
+						},
+						"images": [{
+										"id": 1,
+										"https://geo2.ggpht.com/cbk?panoid=jAndbjwG0lcXlmXy_8XbCA&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=330.04065&pitch=0&thumbfov=100",
+										"path": ""
+								}
+						],
+
+						"disabledFacilities": false,
+
+						"localization": {
+								"description": "Krakowska 131",
+								"image": "",
+								"coordinatesList": [{
+										"id": 0,
+										"lat": 50.002573,
+										"lon": 20.962614,
+										"elv": 5
+								}],
+								"mainCoordinates": {
+										"id": "1243",
+										"lat": 50.002573,
+										"lon": 20.962614,
+										"elv": 5
+								}
+						},
+						"contact": {
+                "mailsList": [
+
+                ],
+                "wwwList": [{
+                    "value": "comarch.pl"
+                }],
+                "phonesList": [{
+                    "value": "33 876 63 04"
+                }],
+
+                "faxList": []
+            }
+				},
+				
+				{
+						"id": 2011040,
+						"name": "Galeria Gemini Tarnów",
+						"favorite": true, "shortDescription": "Galeria Gemini Tarnów",
+						"content": "Galeria Gemini Tarnów",
+						"placeCategoriesList": [
+
+							{
+								"id": 7,
+								"name": "MONUMENT",
+								"image": {
+										"id": 0,
+										"uri": "https://camo.githubusercontent.com/6a6eb0055b744a26d4ae39ab356124f6fc7d5938/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313036373930372f313530363736302f35356131376163302d343934352d313165332d383337392d6133366264326261346436352e706e67",
+										"path": ""
+								}
+						}
+					],
+						"openHours": "08:00 - 20:00",
+						"thumbnail": {
+								"id": 3,
+								"uri": "https://lh3.googleusercontent.com/-WjyF4bKGn0k/WL_yxSAkVLI/AAAAAAAADMg/RpVjKJF6uygHQ_sN1ROj8SN3Oh4oDqMxgCLIB/w408-h229-k-no/",
+								"path": ""
+						},
+						"images": [{
+										"id": 1,
+										"https://lh3.googleusercontent.com/-WjyF4bKGn0k/WL_yxSAkVLI/AAAAAAAADMg/RpVjKJF6uygHQ_sN1ROj8SN3Oh4oDqMxgCLIB/w408-h229-k-no/",
+										"path": ""
+								}
+						],
+
+						"disabledFacilities": true,
+
+						"localization": {
+								"description": "Krakowska 147",
+								"image": "",
+								"coordinatesList": [{
+										"id": 0, 
+										"lat": 50.000998,
+										"lon": 20.959081,
+										"elv": 5
+								}],
+								"mainCoordinates": {
+										"id": "1243",
+										"lat": 50.000998,
+										"lon": 20.959081,
+										"elv": 5
+								}
+						},
+						"contact": {
+                "mailsList": [
+
+                ],
+                "wwwList": [{
+                    "value": "comarch.pl"
+                }],
+                "phonesList": [{
+                    "value": "33 876 63 04"
+                }],
+
+                "faxList": []
+            }
+				},
+				
+				{
+						"id": 2011041,
+						"name": "Stacja paliw Lotos Tarnów",
+						"favorite": true, "shortDescription": "Stacja paliw Lotow",
+						"content": "Stacja paliw Lotos Tarnów",
+						"placeCategoriesList": [
+
+							{
+								"id": 7,
+								"name": "MONUMENT",
+								"image": {
+										"id": 0,
+										"uri": "https://camo.githubusercontent.com/6a6eb0055b744a26d4ae39ab356124f6fc7d5938/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313036373930372f313530363736302f35356131376163302d343934352d313165332d383337392d6133366264326261346436352e706e67",
+										"path": ""
+								}
+						}
+					],
+						"openHours": "03:00 - 23:00",
+						"thumbnail": {
+								"id": 3,
+								"uri": "https://geo2.ggpht.com/cbk?panoid=Y1px0Hrd4MyDeBQXFbfYtg&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=325.32352&pitch=0&thumbfov=100",
+								"path": ""
+						},
+						"images": [{
+										"id": 1,
+										"https://geo2.ggpht.com/cbk?panoid=Y1px0Hrd4MyDeBQXFbfYtg&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=325.32352&pitch=0&thumbfov=100",
+										"path": ""
+								}
+						],
+
+						"disabledFacilities": true,
+
+						"localization": {
+								"description": "Krakowska 105",
+								"image": "",
+								"coordinatesList": [{
+										"id": 0,
+										"lat": 50.003322,
+										"lon": 20.964478,
+										"elv": 5
+								}],
+								"mainCoordinates": {
+										"id": "1243",
+										"lat": 50.003322,
+										"lon": 20.964478,
+										"elv": 5
+								}
+						},
+						"contact": {
+                "mailsList": [
+
+                ],
+                "wwwList": [{
+                    "value": "comarch.pl"
+                }],
+                "phonesList": [{
+                    "value": "33 876 63 04"
+                }],
+
+                "faxList": []
+            }
 				}
+				
     ]
 }
