@@ -1,0 +1,593 @@
+{
+  "timestamp": "2017-06-05T09:23:36.445Z",
+  "put": [
+    {
+      "id": 1011030,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "SSE3",
+      "cat": "MUSEUM",
+      "mid": "",
+      "desc": "SSE3",
+      "fav": "true",
+      "con": "SSE3",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.992576,
+            "lat": 50.080565
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "29A"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011031,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "Transformator",
+      "cat": "MUSEUM",
+      "mid": "",
+      "desc": "Transformator",
+      "fav": "true",
+      "con": "Transformator",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.993984,
+            "lat": 50.081427
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "41G"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011032,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "OPSO",
+      "cat": "MUSEUM",
+      "mid": "",
+      "desc": "OPSO",
+      "fav": "true",
+      "con": "OPSO",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.991977,
+            "lat": 50.079808
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "29A"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011033,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "CallCenter",
+      "cat": "MUSEUM",
+      "mid": "",
+      "desc": "CallCenter",
+      "fav": "true",
+      "con": "CallCenter",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.994436,
+            "lat": 50.079515
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "41C"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011034,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "SSE4 Tył",
+      "cat": "MUSEUM",
+      "mid": "",
+      "desc": "SSE4 Tył",
+      "fav": "true",
+      "con": "SSE4 Tył",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.991306,
+            "lat": 50.079061
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "23"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011035,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "SSE6 Tył",
+      "cat": "MUSEUM",
+      "mid": "",
+      "desc": "SSE6 Tył",
+      "fav": "true",
+      "con": "SSE6 Tył",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.991010,
+            "lat": 50.079736
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "23"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011036,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "Comarch Szlabany Center",
+      "cat": "MUSEUM",
+      "mid": "",
+      "desc": "Comarch Szlabany Center",
+      "fav": "true",
+      "con": "Comarch Szlabany Center",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.993419,
+            "lat": 50.079887
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "23"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011037,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "Comarch Parking Główny",
+      "cat": "MUSEUM",
+      "mid": "",
+      "desc": "Comarch Parking Główny",
+      "fav": "true",
+      "con": "Comarch Parking Główny",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.993859,
+            "lat": 50.080359
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "23"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011038,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "Krzoki",
+      "cat": "MUSEUM",
+      "mid": "",
+      "desc": "Krzoki",
+      "fav": "true",
+      "con": "Krzoki",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.993904,
+            "lat": 50.081999
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "23"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011039,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "Srodek Zyczkowskiego",
+      "cat": "MUSEUM",
+      "mid": "",
+      "desc": "Srodek Zyczkowskiego",
+      "fav": "true",
+      "con": "Srodek Zyczkowskiego",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.994570,
+            "lat": 50.078125
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "23"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011040,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "Mechanik Zyczkowskiego",
+      "cat": "MUSEUM",
+      "mid": "",
+      "desc": "Mechanik Zyczkowskiego",
+      "fav": "true",
+      "con": "Mechanik Zyczkowskiego",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.994840,
+            "lat": 50.076391
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "23"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 2011039,
+      "type": "POI",
+      "thumb": "https://geo2.ggpht.com/cbk?panoid=jAndbjwG0lcXlmXy_8XbCA&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=330.04065&pitch=0&thumbfov=100",
+      "title": "Comarch Tarnów",
+      "cat": "MONUMENT",
+      "mid": "",
+      "desc": "Biuro w Tarnowie",
+      "fav": "true",
+      "con": "Biuro w Tarnowie",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 20.962614,
+            "lat": 50.002573
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Krakowska"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "131"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 2011040,
+      "type": "POI",
+      "thumb": "https://lh3.googleusercontent.com/-WjyF4bKGn0k/WL_yxSAkVLI/AAAAAAAADMg/RpVjKJF6uygHQ_sN1ROj8SN3Oh4oDqMxgCLIB/w408-h229-k-no/",
+      "title": "Galeria Gemini Tarnów",
+      "cat": "MONUMENT",
+      "mid": "",
+      "desc": "Galeria Gemini Tarnów",
+      "fav": "true",
+      "con": "Galeria Gemini Tarnów",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 20.959081,
+            "lat": 50.000998
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Krakowska"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "147"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 2011041,
+      "type": "POI",
+      "thumb": "https://geo2.ggpht.com/cbk?panoid=Y1px0Hrd4MyDeBQXFbfYtg&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=325.32352&pitch=0&thumbfov=100",
+      "title": "Stacja paliw Lotos Tarnów",
+      "cat": "MONUMENT",
+      "mid": "",
+      "desc": "Stacja paliw Lotos Tarnów",
+      "fav": "true",
+      "con": "Stacja paliw Lotos Tarnów",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 20.964478,
+            "lat": 50.003322
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Krakowska"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "105"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    }
+  ]
+}
