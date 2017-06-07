@@ -1,0 +1,1464 @@
+{
+  "timestamp": "2017-06-05T09:23:36.445Z",
+  "put": [
+
+  
+    {
+      "id": 101,
+      "type": "POI",
+      "thumb": "http://www.drodd.com/images15/c5.png",
+      "title": "Opactwo Benedyktynów w Tyńcu",
+      "cat": "2802",
+      "mid": "Opactwo benedyktynów w Tyńcu wraz z kościołem św. Piotra i św. Pawła",
+      "desc": "Benedyktyńska 37, 30-001 Kraków",
+      "fav": "false",
+      "con": "Opactwo, usytuowane na wapiennym wzgórzu nad Wisłą, ufundował najprawdopodobniej Kazimierz I Odnowiciel w 1044 r. Działo się to po kryzysie młodego państwa, wywołanym pogańskim buntem i czeskim najazdem. Benedyktyni mieli wspierać odbudowę państwa i Kościoła. Pierwszym opatem został Aaron. Część badaczy uważa natomiast, iż opactwo tynieckie dla benedyktynów obecnych wcześniej w Krakowie ufundował dopiero syn Kazimierza Odnowiciela, Bolesław II Szczodry.",
+      "imgs": [
+        "http://s10.flog.pl/media/foto/7910148_-tyniec-moj-jesienny--.jpg",
+		"http://www.lawendowetarasy.pl/wp-content/uploads/2012/12/tyniec8323.jpg"
+      ],
+      "cats": [
+        "2802"
+      ],
+      "pubDate": "2017-06-07T07:13:53.228Z",
+      "openingHours": {
+        "days": [
+          {
+            "day": 0,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 1,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 2,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 3,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 4,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 5,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 6,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 7,
+            "open": "8:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.7999898,
+            "lat": 50.0188018,
+            "ele": 5
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "CNT",
+            "partValue": "Polska"
+          },
+          {
+            "partType": "CIT",
+            "partValue": "Kraków"
+          },
+          {
+            "partType": "PCD",
+            "partValue": "30-001"
+          },
+          {
+            "partType": "STR",
+            "partValue": "Benedyktyńska"
+          },
+          {
+            "partType": "SNR",
+            "partValue": "37"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "12 688 54 50"
+          }, 
+          {
+            "conType": "WWW",
+            "conInfo": "tyniec.benedyktyni.pl"
+          }
+        ]
+      },
+      "time": 120,
+      "www": "tyniec.benedyktyni.pl",
+      "conContents": [
+        {
+          "type": "ART",
+          "id": 0,
+          "label": "Artykuł"
+        }
+      ]
+    },  
+    {
+      "id": 102,
+      "type": "POI",
+      "thumb": "http://i.nocimg.pl/s4/143/131-krynica-zdroj-krynica-gorska-oberza-swojskie.jpg",
+      "title": "Oberża Swojskie Jadło",
+      "cat": "2837",
+      "mid": "Pizzeria Oberża w Krynicy Zdroju zaprasza na pizzę oraz dania kuchni regionalnej.",
+      "desc": "Marszałka Józefa Piłsudskiego 19, 33-380 Krynica-Zdrój",
+      "fav": "false",
+      "con": "Pizzeria Oberża jest położona w centrum Krynicy Zdroju. Wystrój lokalu i muzyka w stylu góralskim. Oberża to miejsce, w którym można spotkać się ze znajomymi i rodziną przy dobrym jedzeniu, ale również dobrze zabawić. Poza pizzą restauracja oferuje jedzenie kuchni regionalnej.\n Pizze można zamówić na telefon. Na terenie Krynicy Zdroju dowóz gratis.\n Przykładowe pozycje menu:\n - Antrykot z Woła z grilla\n - Baranina na kij nabita \n - Bacy kotlet u ceprów\n - Staropolski stek z wieprza z cebulą i pieczarkami/n/nSzef kuchni poleca pizze Michała.",
+      "imgs": [
+        "https://lh3.googleusercontent.com/-fgzr66BH6IU/VkN9sCigseI/AAAAAAAAABg/RZVxMx1Wqm8_676Uk4huJBvtqaAQuOUBgCJkC/w600-k/",
+		"http://www.lawendowetarasy.pl/wp-content/uploads/2012/12/tyniec8323.jpg"
+      ],
+      "cats": [
+        "2837"
+      ],
+      "pubDate": "2017-06-07T07:13:53.228Z",
+      "openingHours": {
+        "days": [
+          {
+            "day": 0,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 1,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 2,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 3,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 4,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 5,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 6,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 7,
+            "open": "8:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 20.956461,
+            "lat": 49.4243309,
+            "ele": 5
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "CNT",
+            "partValue": "Polska"
+          },
+          {
+            "partType": "CIT",
+            "partValue": "Krynica-Zdrój"
+          },
+          {
+            "partType": "PCD",
+            "partValue": "33-380"
+          },
+          {
+            "partType": "STR",
+            "partValue": "Marszałka Józefa Piłsudskiego"
+          },
+          {
+            "partType": "SNR",
+            "partValue": "19"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "18 471 60 84"
+          }, 
+          {
+            "conType": "WWW",
+            "conInfo": "http://www.oberza-krynica.info/"
+          }
+        ]
+      },
+      "time": 90,
+      "www": "http://www.oberza-krynica.info/"
+    },  
+    {
+      "id": 1011023,
+      "type": "POI",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg",
+      "title": "Zamek Królewski na Wawelu",
+      "cat": "2802",
+      "mid": "Zamek Królewski na Wawelu wraz ze wzgórzem wawelskim to jedno z najbardziej znaczących historycznie i kulturalnie miejsc w Polsce",
+      "desc": "Wawel, Kraków",
+      "fav": "false",
+      "con": "Zamek Królewski na Wawelu wraz ze wzgórzem wawelskim to jedno z najbardziej znaczących historycznie i kulturalnie miejsc w Polsce. Będący przez wieki siedzibą królów polskich i symbolem państwo­wości, w r. 1930 Zamek stał się także jednym z najważniejszych muzeów w Polsce. Gromadzi ono kolekcje obrazów, grafik, rzeźb, tkanin, wyrobów złotniczych, militariów, porcelany i mebli. W komnatach eksponowane są słynne arrasy Zygmunta Augusta i wspaniałe renesansowe malowidła włoskie z kolekcji Lanc­korońskich, a wawelskie zbiory sztuki wschodniej zawierają najważniejszą i największą kolekcję na­miotów w Europie. Zamek Królewski jest też ważnym ośrodkiem konserwacji dzieł sztuki. Stałe wystawy odtwarzają wygląd sal z okresu renesansu i baroku. Co roku ponad milion turystów zwiedza stałe i czasowe wystawy prezentowane na zamku. Szacuje się, że drugie tyle odwiedza wzgórze. Prawie 20 tysięcy uczniów bierze udział w lekcjach muze­alnych. Ponadto młodzież i dzieci uczestniczą w specjalnych zajęciach oraz konkursach nauko­wych i plastycznych. Chodzą pogłoski, że niejaki Mateusz z Mogiły ma przodków na Wawelu",
+      "imgs": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/240px-Wawel_castle.jpg"
+      ],
+      "cats": [
+        "2802"
+      ],
+      "pubDate": "2017-06-07T07:13:53.228Z",
+      "openingHours": {
+        "days": [
+          {
+            "day": 0,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 1,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 2,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 3,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 4,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 5,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 6,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 7,
+            "open": "8:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.9355152,
+            "lat": 50.0544295,
+            "ele": 5
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "CNT",
+            "partValue": "Polska"
+          },
+          {
+            "partType": "CIT",
+            "partValue": "Kraków"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "18 471 60 84"
+          }, 
+          {
+            "conType": "WWW",
+            "conInfo": "http://wawel.krakow.pl"
+          }
+        ]
+      },
+      "time": 90,
+      "www": "http://wawel.krakow.pl",
+      "conContents": [
+        {
+          "type": "POI",
+          "id": 1011023,
+          "label": "Zamek królewski na Wawelu"
+        },
+        {
+          "type": "MTM",
+          "id": 13227638,
+          "label": "Dywagacje na temat Brexitu"
+        }
+      ]
+    },  
+    {
+      "id": 1011024,
+      "type": "POI",
+      "thumb": "http://www.ceresit.pl/img/huge/284.jpg",
+      "title": "Rynek Główny w Krakowie",
+      "cat": "2802",
+      "mid": "Rynek Główny to serce królewskiego miasta Krakowa.",
+      "desc": "Rynek Główny, Kraków",
+      "fav": "false",
+      "con": "Rynek Główny to serce królewskiego miasta Krakowa. Dzień i noc toczy się tutaj pełne radości i inspiracji życie, a nad wszystkim czuwa duch przeszłości tego ważnego dla Europy miejsca. Plac o wymiarach 200 na 200 m był jednym z największych w średniowiecznej Europie. Rynek Główny ze względu na wielkość i zachowany układ architektoniczno-urbanistyczny z 1257 roku został wpisany na pierwszą listę Światowego Dziedzictwa UNESCO. Niemal każda kamieniczka i pałac wokół Rynku w obrębie Plant mają kilkaset lat. Tajemnice sprzed lat kryją również podziemia Rynku, które można zwiedzać poruszając się specjalnie wyznaczoną trasą. Najbardziej znane są jednak Sukiennice, które w średniowieczu, podobnie jak dzisiaj, tętniły życiem hali targowej. Gotycki kościół o dwóch wieżach to Kościół Mariacki, z którego co godzinę rozlega się charakterystyczny dla Krakowa hejnał, wygrywany przez trębacza na trąbce, i w którym znajduje się wspaniały ołtarz Wita Stwosza. Na Rynku, wśród kolorowych parasoli i kwiatów sprzedawanych przez krakowskie kwiaciarki, stoi pomnik Adama Mickiewicza. W pobliżu Rynku znajduje się Plac Szczepański, a za Kościołem Mariackim leży Mały Rynek, który tętni życiem świątecznych i ludowych kiermaszów. A może będziemy mieli szczęście zobaczyć na Rynku Lajkonika? Nawet jeśli nie, to towarzystwa dotrzymają na gołębie, które turyści karmią ziarnem i okruchami obwarzanka - krakowskiego specjału. Krakowski Rynek jest miejscem spotkań, letnich festiwali, salą koncertową dla ulicznych grajków, uroczych kawiarni i restauracji. To tutaj, jak nigdzie indziej, spotyka się przeszłość i teraźniejszość, która zachwyciła już niejednego.",
+      "imgs": [
+        "http://www.krakow2016.com/media/cache/filemanager/rc/EXYufFl5/lp_baners/KRAKOW/RYNEK.jpg"
+      ],
+      "cats": [
+        "2802"
+      ],
+      "pubDate": "2017-06-07T07:13:53.228Z",
+      "openingHours": {
+        "days": [
+          {
+            "day": 0,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 1,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 2,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 3,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 4,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 5,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 6,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 7,
+            "open": "8:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.9362169,
+            "lat": 50.0616285,
+            "ele": 5
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "CNT",
+            "partValue": "Polska"
+          },
+          {
+            "partType": "CIT",
+            "partValue": "Kraków"
+          }
+        ]
+      },
+      "time": 90
+    },  
+    {
+      "id": 1011025,
+      "type": "POI",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/A-10_Sukiennice_w_Krakowie_Krak%C3%B3w,_Rynek_G%C5%82%C3%B3wny_MM.jpg/240px-A-10_Sukiennice_w_Krakowie_Krak%C3%B3w,_Rynek_G%C5%82%C3%B3wny_MM.jpg",
+      "title": "Sukiennice",
+      "cat": "2802",
+      "mid": "Sukiennice",
+      "desc": "Rynek Główny, Kraków",
+      "fav": "false",
+      "con": "Jest to jedno z najbardziej charakterystycznych miejsc na mapie zabytków Krakowa. Nie każdy wie, że można uznać je za najstarszy w Polsce dom handlowy! Kiedyś było to bowiem miejsce z zadaszonymi rzędami kramów, w których sprzedawano sukno. Dzisiaj można znaleźć tutaj stragany z rękodziełem i pamiątkami; dziewczęta mogą zaopatrzyć się w bursztynową biżuterię, a chłopcy w miecze i elementy rycerskiej zbroi. Część Sukiennic zajmuje Muzeum Narodowe z Galerią Malarstwa i Rzeźby XIX wieku prezentującą dzieła wybitnych polskich twórców. Spacerując pośród arkad pod okiem maszkaronów wieńczących wspaniałą attykę, warto sobie uświadomić, że pierwsze Sukiennice, wówczas kamienne, powstały w XIII wieku. Dopiero wiek później wzniesiony został murowany budynek, który spłonął w wielkim pożarze miasta w 1555 roku. Odbudowa, zakończona cztery lata później, nadała Sukiennicom renesansową formę. I jeszcze ciekawostka dla spostrzegawczych! Przechodząc przez usytuowane na krótszej osi budynku przejście można zauważyć wiszący na łańcuchu duży żelazny nóż, z którym związana jest legenda o dwóch braciach, budowniczych wież Kościoła Mariackiego. Gdy jeden z nich zorientował się, że jego wieża jest niższa, z zazdrości zabił brata nożem. Gnębiony wyrzutami sumienia skoczył ze zbudowanej przez siebie wieży.",
+      "imgs": [
+        "http://www.krakow2016.com/media/cache/filemanager/rc/KZZW4Wgo/images/lp_baners/KRAKOW/SUKIENNICE2.jpg"
+      ],
+      "cats": [
+        "2802"
+      ],
+      "pubDate": "2017-06-07T07:13:53.228Z",
+      "openingHours": {
+        "days": [
+          {
+            "day": 0,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 1,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 2,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 3,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 4,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 5,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 6,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 7,
+            "open": "8:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.9373512,
+            "lat": 50.0616063,
+            "ele": 5
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "CNT",
+            "partValue": "Polska"
+          },
+          {
+            "partType": "CIT",
+            "partValue": "Kraków"
+          },
+          {
+            "partType": "STR",
+            "partValue": "Rynek Główny"
+          },
+          {
+            "partType": "SNR",
+            "partValue": "1"
+          }
+        ]
+      },
+      "time": 60
+    },  
+    {
+      "id": 1011026,
+      "type": "POI",
+      "thumb": "http://www.wachock.cystersi.pl/files/image/cystersi/cystersi_w_polsce/cystersi%20w%20polsce-mogi%C5%82a.jpg",
+      "title": "Kościół i klasztor oo. Cystersów w Mogile",
+      "cat": "2802",
+      "mid": "Kościół i klasztor oo. Cystersów w Mogile",
+      "desc": "Mogiła",
+      "fav": "false",
+      "con": "Mogilski kościół Najświętszej Marii Panny i św. Wacława (ul. Klasztorna 11) oraz towarzyszący mu zespół klasztorny są jednymi z najcenniejszych zabytków sakralnych Małopolski. Cystersi, do których należy, przybyli tu w 1222 roku. Świątynię charakteryzują cechy typowe dla cysterskiego budownictwa w całej Europie: krótkie prezbiterium zamknięte prostą ścianą, do którego przylegają dwie pary bocznych kaplic, służące niegdyś mnichom do nocnych modlitw nakazanych surową zakonną regułą. W XVI wieku kaplice po stronie północnej przekształcono w jedną - świętego Krzyża, gdzie znajduje się słynący łaskami mogilski krucyfiks. Jest niezwykła rzeźba, którą według tradycji w XII wieku wyłowiono z Wisły. Jako jedyny element wyposażenia ocalała z pożaru kościoła w XV wieku. Spłonęły tylko włosy Chrystusa i przepaska na biodra. Dlatego od tamtej pory nakłada się figurze Zbawiciela perukę z prawdziwych włosów, a biodra przepasuje prawdziwą tkaniną. Z klasztorem cystersów w XVI wieku związany był Stanisław Samostrzelnik, niezwykle utalentowany mnich, który pełnił służbę Bogu iluminując księgi oraz malując obrazy i polichromie. Najlepszym przykładem jego zdolności są malowidła zdobiące prezbiterium i transept mogilskiego kościoła. Warto pamiętać, że podobne przykłady renesansowego malarstwa są niezmiernie rzadkie.",
+      "imgs": [
+        "http://www.krakow2016.com/media/cache/filemanager/rc/24HAbvtO/images/LP/archidiecezja_krakowska/Cystersi.jpg"
+      ],
+      "cats": [
+        "2802"
+      ],
+      "pubDate": "2017-06-07T07:13:53.228Z",
+      "openingHours": {
+        "days": [
+          {
+            "day": 0,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 1,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 2,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 3,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 4,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 5,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 6,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 7,
+            "open": "8:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 20.052991,
+            "lat": 50.0645359,
+            "ele": 5
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "CNT",
+            "partValue": "Polska"
+          },
+          {
+            "partType": "CIT",
+            "partValue": "Kraków"
+          },
+          {
+            "partType": "STR",
+            "partValue": "Klasztorna"
+          },
+          {
+            "partType": "SNR",
+            "partValue": "11"
+          }
+        ]
+      },
+      "time": 120
+    },  
+    {
+      "id": 1011027,
+      "type": "POI",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Birkenau_gate.JPG/220px-Birkenau_gate.JPG",
+      "title": "Auschwitz-Birkenau",
+      "cat": "2802",
+      "mid": "Auschwitz-Birkenau",
+      "desc": "Oświęcim",
+      "fav": "false",
+      "con": "Obóz Auschwitz stał się dla świata symbolem terroru, ludobójstwa i Szoa. Utworzony został przez Niemców w połowie 1940 r. na przedmieściach Oświęcimia, włączonego przez nazistów do Trzeciej Rzeszy. Bezpośrednim powodem utworzenia obozu była powiększająca się liczba aresztowanych masowo Polaków i przepełnienie istniejących więzień. Pierwszy transport Polaków dotarł do KL Auschwitz 14 czerwca 1940 r. z więzienia w Tarnowie. Początkowo miał to być kolejny z obozów koncentracyjnych, tworzonych przez nazistów już od początku lat trzydziestych. Funkcję tę Auschwitz spełniał przez cały okres swego istnienia, także gdy - od 1942 r. - stał się równocześnie jednym z ośrodków „Endlösung der Judenfrage” (ostatecznego rozwiązania kwestii żydowskiej) - nazistowskiego planu wymordowania Żydów zamieszkujących okupowane przez III Rzeszę tereny.",
+      "imgs": [
+        "https://www.google.pl/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjvoaqu86DSAhUCkiwKHUt9DtwQjRwIBw&url=http%3A%2F%2Fnewsbook.pl%2F2016%2F07%2F17%2Fmilczenie-papieza-w-auschwitz-bedzie-swiadectwem%2F&psig=AFQjCNFo9J3dGcIoju2jbgMlZRmVqeYUUw&ust=1487756591380879"
+      ],
+      "cats": [
+        "2802"
+      ],
+      "pubDate": "2017-06-07T07:13:53.228Z",
+      "openingHours": {
+        "days": [
+          {
+            "day": 0,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 1,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 2,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 3,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 4,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 5,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 6,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 7,
+            "open": "8:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.2019891217433,
+            "lat": 50.0274002812057,
+            "ele": 5
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "CNT",
+            "partValue": "Polska"
+          },
+          {
+            "partType": "CIT",
+            "partValue": "Oświęcim"
+          }
+        ]
+      },
+      "time": 240
+    },  
+    {
+      "id": 1011028,
+      "type": "POI",
+      "thumb": "http://www.visitmalopolska.pl/UM.MSIT.Multimedia.WebResource.axd?fileType=ProductPreview&folderId=cea24219-be2e-4ea4-b4e5-94ded410f689",
+      "title": "Kopalnia soli w Wieliczce",
+      "cat": "2802",
+      "mid": "Kopalnia soli w Wieliczce",
+      "desc": "Wieliczka",
+      "fav": "false",
+      "con": "Wieliczka dzięki kopalni soli znana jest na całym świecie. Sól z solanek powierzchniowych warzono tu już 3500 lat p.n.e., początki eksploatacji soli kamiennej datuje się natomiast na XIII w., z tego bowiem okresu pochodzi najstarszy szyb odkryty na dziedzińcu Zamku Żupnego. Początkowo kopalnia stanowiła własność książęcą, a następnie królewską. Z pieniędzy uzyskiwanych ze sprzedaży soli opłacano profesorów Akademii Krakowskiej, budowano i odnawiano krakowskie kościoły i kamienice, łożono na renesansową rozbudowę Wawelu. Kilka wieków później, w 1978 r., kopalnię wpisano na Listę UNESCO, doceniając jej unikatowość w skali świata. To jedyny górniczy obiekt czynny bezustannie od XIII w., a jego oryginalne wyrobiska ilustrują wszystkie etapy rozwoju techniki wydobywczej. W ciągu wieków zgłębiono w Wieliczce 26 szybów. Na IX poziomach, od głębokości 57 do 327 m, wydrążono ponad 2 tys. komór i prawie 300 km chodników. Dzięki dużej trwałości wyrobisk zachowały się nawet komory wybrane pod koniec średniowiecza. Zabytkowa strefa obejmuje poziomy I–V (218 komór i 190 chodników), a na przemierzających podziemne labirynty czekają prawdziwe cuda wykonane w soli: kaplice zdobione solnymi rzeźbami, słone jeziora, stare wyrobiska o oryginalnej drewnianej zabudowie, dawne narzędzia górnicze… Dwukilometrowa trasa turystyczna (poziom I–III), którą podąża się, zwiedzając kopalnię, pozwala zobaczyć  22 komory, a 16 kolejnych czeka na turystów w podziemnym oddziale Muzeum Żup Krakowskich (poziom III). Do najsłynniejszych przystanków na trasie należą barokowa kaplica św. Antoniego (XVII w., najstarsza w kopalni) i kaplica św. Kingi (wydrążona w XVIII w., funkcję podziemnego sanktuarium pełni od XIX w.), której zachwycający wystrój to zasługa górników, przede wszystkim rzeźbiarzy samouków: Józefa i Tomasza Markowskich oraz Antoniego Wyrodka. Malownicze podziemne jeziora znajdują się w komorach Weimar, Erazma Barącza i Józefa Piłsudskiego. W tej ostatniej przy dźwiękach orkiestry odbywały się niegdyś uroczyste przejazdy promem. W najwyższej na trasie (36 m) komorze Staszica podczas wojny Niemcy próbowali stworzyć halę montażową części do samolotów. W komorach Warszawa, Wisła i Budryka urządzono obecnie centrum widowiskowo-sportowo-gastronomiczne. Niezwykle ciekawie prezentuje się również podziemna ekspozycja Muzeum Żup Krakowskich (zwiedzanie po przejściu trasy turystycznej w ramach jednego biletu). Zgromadzono tu eksponaty ukazujące rozwój techniki górniczej, m.in. przyrządy i narzędzia, kołowroty ręczne, kieraty konne oraz mapy górnicze i ryciny przedstawiające wielicką kopalnię w minionych stuleciach. Prawdziwym skarbem jest Róg Bractwa Kopaczy Wielickich z 1534 r., wykonany prawdopodobnie w pracowni złotniczej Andrzeja Dürera, brata słynnego Albrechta z Norymbergi.",
+      "imgs": [
+        "https://www.kopalnia.pl/files/zwiedzanie/trasa_turystyczna/galeria_strona_glowna/kopalnia_soli_wieliczka_trasa_turystyczna_galeria_strona_glowna_03.jpg", "https://upload.wikimedia.org/wikipedia/commons/3/38/Kopalnia_Soli_Wieliczka-Komora_Weimar.jpg", "http://www.maszwolne.pl/photos/objects/a4c2dee2cfbe69e4bbd09cea54b20261.jpg", "https://upload.wikimedia.org/wikipedia/commons/7/70/Wieliczka_salt_mine.jpg", "https://www.goodpoland.com/images/upload/miejsca/kopalnia-soli-w-wieliczce/GoodPoland_Kopalnia_Soli_w_Wieliczce_04.jpg"
+      ],
+      "cats": [
+        "2802"
+      ],
+      "pubDate": "2017-06-07T07:13:53.228Z",
+      "openingHours": {
+        "days": [
+          {
+            "day": 0,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 1,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 2,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 3,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 4,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 5,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 6,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 7,
+            "open": "8:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 20.0647971,
+            "lat": 49.9870619,
+            "ele": 5
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "CNT",
+            "partValue": "Polska"
+          },
+          {
+            "partType": "CIT",
+            "partValue": "Wieliczka"
+          }
+        ]
+      },
+      "time": 240
+    },  
+    {
+      "id": 1011029,
+      "type": "POI",
+      "thumb": "http://img3.poland-active.com/Kalwaria-Zebrzydowska,hef,a,gaa.jpg",
+      "title": "Sanktuarium w Kalwarii Zebrzydowskiej",
+      "cat": "2802",
+      "mid": "Sanktuarium pasyjno-maryjne w Kalwarii Zebrzydowskiej",
+      "desc": "Kalwaria",
+      "fav": "false",
+      "con": "Sanktuarium w Kalwarii Zebrzydowskiej – sanktuarium pasyjno-maryjne oo. bernardynów znajdujące się w Kalwarii Zebrzydowskiej. Wchodzące w skład zespołu bazylika i klasztor położone są na południe od miasta, u szczytu góry Żar, na południe i wschód od nich znajdują się 42 kaplice i kościoły dróżek. Nazywane jest często Polską Jerozolimą. W 1999 roku sanktuarium wpisane zostało na Listę Światowego Dziedzictwa UNESCO, a 17 listopada 2000 roku obiekt uznany został za Pomnik historii Polski. Kalwaryjskie sanktuarium jest jednym z ważniejszych miejsc kultu pasyjnego i maryjnego – łączy zarówno kult Chrystusa cierpiącego, jak i Matki Bożej. Ideą przewodnią jest odwzorowanie ostatniej drogi Chrystusa (Droga Pojmania i Droga Krzyżowa). W sanktuarium znajduje się obraz Matki Boskiej Kalwaryjskiej.",
+      "imgs": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/Kalwaria_Zebrzydowska_014.jpg"
+      ],
+      "cats": [
+        "2802"
+      ],
+      "pubDate": "2017-06-07T07:13:53.228Z",
+      "openingHours": {
+        "days": [
+          {
+            "day": 0,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 1,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 2,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 3,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 4,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 5,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 6,
+            "open": "8:00",
+            "close": "19:00"
+          },
+          {
+            "day": 7,
+            "open": "8:00",
+            "close": "19:00"
+          }
+        ]
+      },
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.6695502,
+            "lat": 49.8604865,
+            "ele": 5
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "CNT",
+            "partValue": "Polska"
+          },
+          {
+            "partType": "CIT",
+            "partValue": "Kalwaria"
+          }
+        ]
+      },
+      "time": 240,
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          },
+          {
+            "conType": "WWW",
+            "conInfo": "kalwaria.eu"
+          }
+        ]
+      }
+    },  
+
+	{
+      "id": 1011030,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "SSE3",
+      "cat": "2868",
+      "mid": "",
+      "desc": "SSE3",
+      "fav": "true",
+      "con": "SSE3",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.992576,
+            "lat": 50.080565
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "29A"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011031,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "Transformator",
+      "cat": "2868",
+      "mid": "",
+      "desc": "Transformator",
+      "fav": "true",
+      "con": "Transformator",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.993984,
+            "lat": 50.081427
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "41G"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011032,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "OPSO",
+      "cat": "2868",
+      "mid": "",
+      "desc": "OPSO",
+      "fav": "true",
+      "con": "OPSO",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.991977,
+            "lat": 50.079808
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "29A"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011033,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "CallCenter",
+      "cat": "2868",
+      "mid": "",
+      "desc": "CallCenter",
+      "fav": "true",
+      "con": "CallCenter",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.994436,
+            "lat": 50.079515
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "41C"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011034,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "SSE4 Tył",
+      "cat": "2868",
+      "mid": "",
+      "desc": "SSE4 Tył",
+      "fav": "true",
+      "con": "SSE4 Tył",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.991306,
+            "lat": 50.079061
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "23"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011035,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "SSE6 Tył",
+      "cat": "2868",
+      "mid": "",
+      "desc": "SSE6 Tył",
+      "fav": "true",
+      "con": "SSE6 Tył",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.991010,
+            "lat": 50.079736
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "23"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011036,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "Comarch Szlabany Center",
+      "cat": "2868",
+      "mid": "",
+      "desc": "Comarch Szlabany Center",
+      "fav": "true",
+      "con": "Comarch Szlabany Center",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.993419,
+            "lat": 50.079887
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "23"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011037,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "Comarch Parking Główny",
+      "cat": "2868",
+      "mid": "",
+      "desc": "Comarch Parking Główny",
+      "fav": "true",
+      "con": "Comarch Parking Główny",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.993859,
+            "lat": 50.080359
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "23"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011038,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "Krzoki",
+      "cat": "2868",
+      "mid": "",
+      "desc": "Krzoki",
+      "fav": "true",
+      "con": "Krzoki",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.993904,
+            "lat": 50.081999
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "23"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011039,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "Srodek Zyczkowskiego",
+      "cat": "2868",
+      "mid": "",
+      "desc": "Srodek Zyczkowskiego",
+      "fav": "true",
+      "con": "Srodek Zyczkowskiego",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.994570,
+            "lat": 50.078125
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "23"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 1011040,
+      "type": "POI",
+      "thumb": "http://www.urbanity.pl/images/building/52/5/11525_comarch-sse6.jpg",
+      "title": "Mechanik Zyczkowskiego",
+      "cat": "2868",
+      "mid": "",
+      "desc": "Mechanik Zyczkowskiego",
+      "fav": "true",
+      "con": "Mechanik Zyczkowskiego",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 19.994840,
+            "lat": 50.076391
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Michala Zyczkowskiego"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "23"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 2011039,
+      "type": "POI",
+      "thumb": "https://geo2.ggpht.com/cbk?panoid=jAndbjwG0lcXlmXy_8XbCA&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=330.04065&pitch=0&thumbfov=100",
+      "title": "Comarch Tarnów",
+      "cat": "2868",
+      "mid": "",
+      "desc": "Biuro w Tarnowie",
+      "fav": "true",
+      "con": "Biuro w Tarnowie",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 20.962614,
+            "lat": 50.002573
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Krakowska"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "131"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 2011040,
+      "type": "POI",
+      "thumb": "https://lh3.googleusercontent.com/-WjyF4bKGn0k/WL_yxSAkVLI/AAAAAAAADMg/RpVjKJF6uygHQ_sN1ROj8SN3Oh4oDqMxgCLIB/w408-h229-k-no/",
+      "title": "Galeria Gemini Tarnów",
+      "cat": "2868",
+      "mid": "",
+      "desc": "Galeria Gemini Tarnów",
+      "fav": "true",
+      "con": "Galeria Gemini Tarnów",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 20.959081,
+            "lat": 50.000998
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Krakowska"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "147"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    },
+    {
+      "id": 2011041,
+      "type": "POI",
+      "thumb": "https://geo2.ggpht.com/cbk?panoid=Y1px0Hrd4MyDeBQXFbfYtg&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=325.32352&pitch=0&thumbfov=100",
+      "title": "Stacja paliw Lotos Tarnów",
+      "cat": "2868",
+      "mid": "",
+      "desc": "Stacja paliw Lotos Tarnów",
+      "fav": "true",
+      "con": "Stacja paliw Lotos Tarnów",
+      "pubDate": "2017-06-05T09:23:36.445Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lon": 20.964478,
+            "lat": 50.003322
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "STR",
+            "partValue": "Krakowska"
+          }, 
+          {
+            "partType": "SNR",
+            "partValue": "105"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "33 876 63 04"
+          }
+        ]
+      },
+      "time": 0,
+      "www": "comarch.pl"
+    }
+  ]
+}

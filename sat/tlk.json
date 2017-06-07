@@ -1,0 +1,2819 @@
+{
+  "timestamp": "2017-06-07T10:47:00.971Z",
+  "put": [
+    {
+      "lId": 1,
+      "lCode": "PL",
+      "lName": "Polski",
+      "cats": [
+        {
+          "cId": 1,
+          "cCode": "BASIC",
+          "cName": "Ogólne",
+          "phreses": [
+            {
+              "pId": 62,
+              "pCode": null,
+              "pName": "tak"
+            },
+            {
+              "pId": 89,
+              "pCode": null,
+              "pName": "nie"
+            },
+            {
+              "pId": 458,
+              "pCode": null,
+              "pName": "proszę"
+            },
+            {
+              "pId": 459,
+              "pCode": null,
+              "pName": "dziękuję"
+            },
+            {
+              "pId": 460,
+              "pCode": null,
+              "pName": "dzień dobry (rano)"
+            },
+            {
+              "pId": 461,
+              "pCode": null,
+              "pName": "dobry wieczór"
+            },
+            {
+              "pId": 462,
+              "pCode": null,
+              "pName": "do widzenia"
+            },
+            {
+              "pId": 463,
+              "pCode": null,
+              "pName": "do zobaczenia"
+            },
+            {
+              "pId": 464,
+              "pCode": null,
+              "pName": "dobranoc"
+            },
+            {
+              "pId": 465,
+              "pCode": null,
+              "pName": "cześć (przywitanie)"
+            },
+            {
+              "pId": 466,
+              "pCode": null,
+              "pName": "cześć (pożegnanie)"
+            },
+            {
+              "pId": 467,
+              "pCode": null,
+              "pName": "przepraszam"
+            },
+            {
+              "pId": 468,
+              "pCode": null,
+              "pName": "przepraszam (przykro mi)"
+            },
+            {
+              "pId": 469,
+              "pCode": null,
+              "pName": "bezpłatny"
+            },
+            {
+              "pId": 470,
+              "pCode": null,
+              "pName": "otwarte"
+            },
+            {
+              "pId": 471,
+              "pCode": null,
+              "pName": "zamknięte"
+            },
+            {
+              "pId": 472,
+              "pCode": null,
+              "pName": "miło mi poznać"
+            }
+          ]
+        },
+        {
+          "cId": 2,
+          "cCode": "CONVERSATION",
+          "cName": "Rozmowa",
+          "phreses": [
+            {
+              "pId": 90,
+              "pCode": null,
+              "pName": "Czy mówi Pan/Pani po angielsku / polsku?"
+            },
+            {
+              "pId": 91,
+              "pCode": null,
+              "pName": "Nie mówię po angielsku/ polsku "
+            },
+            {
+              "pId": 473,
+              "pCode": null,
+              "pName": "Nazywam się …"
+            },
+            {
+              "pId": 474,
+              "pCode": null,
+              "pName": "Mam na imię …"
+            },
+            {
+              "pId": 475,
+              "pCode": null,
+              "pName": "Jak się nazywasz?"
+            },
+            {
+              "pId": 476,
+              "pCode": null,
+              "pName": "Mam … lat."
+            },
+            {
+              "pId": 477,
+              "pCode": null,
+              "pName": "Jestem studentem/ uczniem"
+            },
+            {
+              "pId": 478,
+              "pCode": null,
+              "pName": "Studiuję ..."
+            },
+            {
+              "pId": 479,
+              "pCode": null,
+              "pName": "Pracuję jako …"
+            },
+            {
+              "pId": 480,
+              "pCode": null,
+              "pName": "Proszę mówić wolniej / głośniej."
+            },
+            {
+              "pId": 481,
+              "pCode": null,
+              "pName": "Proszę mi to napisać."
+            },
+            {
+              "pId": 482,
+              "pCode": null,
+              "pName": "Proszę powtórzyć."
+            },
+            {
+              "pId": 483,
+              "pCode": null,
+              "pName": "Nie rozumiem."
+            },
+            {
+              "pId": 484,
+              "pCode": null,
+              "pName": "Skąd jesteś?"
+            },
+            {
+              "pId": 485,
+              "pCode": null,
+              "pName": "Co lubisz?"
+            },
+            {
+              "pId": 486,
+              "pCode": null,
+              "pName": "Masz rodzeństwo?"
+            },
+            {
+              "pId": 487,
+              "pCode": null,
+              "pName": "Gdzie pracujesz?"
+            },
+            {
+              "pId": 488,
+              "pCode": null,
+              "pName": "Ile masz lat?"
+            },
+            {
+              "pId": 489,
+              "pCode": null,
+              "pName": "Co studiujesz?"
+            },
+            {
+              "pId": 490,
+              "pCode": null,
+              "pName": "Podoba Ci sie Kraków?"
+            },
+            {
+              "pId": 491,
+              "pCode": null,
+              "pName": "Jesteś pierwszy raz w Polsce?"
+            },
+            {
+              "pId": 492,
+              "pCode": null,
+              "pName": "Jesteś pierwszy raz na ŚDM?"
+            }
+          ]
+        },
+        {
+          "cId": 3,
+          "cCode": "DIRECTIONS",
+          "cName": "Pytanie o drogę i informację",
+          "phreses": [
+            {
+              "pId": 92,
+              "pCode": null,
+              "pName": "Gdzie jest?"
+            },
+            {
+              "pId": 93,
+              "pCode": null,
+              "pName": "Gdzie jesteś?"
+            },
+            {
+              "pId": 493,
+              "pCode": null,
+              "pName": "Przepraszam, jak dojść do...?"
+            },
+            {
+              "pId": 494,
+              "pCode": null,
+              "pName": "Przepraszam, gdzie jest ulica...?"
+            },
+            {
+              "pId": 495,
+              "pCode": null,
+              "pName": "Czy może mi to pan pokazać na mapie?"
+            },
+            {
+              "pId": 496,
+              "pCode": null,
+              "pName": "Czy to daleko?"
+            },
+            {
+              "pId": 497,
+              "pCode": null,
+              "pName": "Zgubiłem się."
+            },
+            {
+              "pId": 498,
+              "pCode": null,
+              "pName": "musi pan/pani "
+            },
+            {
+              "pId": 499,
+              "pCode": null,
+              "pName": "skręcić "
+            },
+            {
+              "pId": 500,
+              "pCode": null,
+              "pName": "w prawo"
+            },
+            {
+              "pId": 501,
+              "pCode": null,
+              "pName": "w lewo"
+            },
+            {
+              "pId": 502,
+              "pCode": null,
+              "pName": "wrócić"
+            },
+            {
+              "pId": 503,
+              "pCode": null,
+              "pName": "iść prosto "
+            },
+            {
+              "pId": 504,
+              "pCode": null,
+              "pName": "za światłami"
+            },
+            {
+              "pId": 505,
+              "pCode": null,
+              "pName": "Jak mogę połączyć się z internetem?"
+            },
+            {
+              "pId": 506,
+              "pCode": null,
+              "pName": "Jakie jest hasło do WiFi?"
+            },
+            {
+              "pId": 507,
+              "pCode": null,
+              "pName": "Gdzie jest kafejka internetowa? "
+            },
+            {
+              "pId": 508,
+              "pCode": null,
+              "pName": "Czy mogę tu podłączyć moja komórkę do ładowania?"
+            },
+            {
+              "pId": 509,
+              "pCode": null,
+              "pName": "Przepraszam, czy może nam Pan/Pani zrobić zdjęcie?"
+            },
+            {
+              "pId": 510,
+              "pCode": null,
+              "pName": "Przepraszam, gdzie jest toaleta?"
+            },
+            {
+              "pId": 511,
+              "pCode": null,
+              "pName": "Jaka będzie dzisiaj pogoda? "
+            },
+            {
+              "pId": 512,
+              "pCode": null,
+              "pName": "Będzie słonecznie/ deszczowo/ wietrznie"
+            },
+            {
+              "pId": 513,
+              "pCode": null,
+              "pName": "Jaka będzie temperatura? "
+            },
+            {
+              "pId": 514,
+              "pCode": null,
+              "pName": "Będzie gorąco/ciepło/chłodno"
+            }
+          ]
+        },
+        {
+          "cId": 4,
+          "cCode": "EMERGENCY",
+          "cName": "Nagły wypadek",
+          "phreses": [
+            {
+              "pId": 100,
+              "pCode": null,
+              "pName": "Na pomoc!"
+            },
+            {
+              "pId": 101,
+              "pCode": null,
+              "pName": "Uwaga! "
+            },
+            {
+              "pId": 584,
+              "pCode": null,
+              "pName": "Potrzebuję pomocy/ Czy może mi ktoś pomóc?"
+            },
+            {
+              "pId": 585,
+              "pCode": null,
+              "pName": "Gdzie mogę znaleźć lekarza?"
+            },
+            {
+              "pId": 586,
+              "pCode": null,
+              "pName": "Gdzie jest najbliższy szpital?"
+            },
+            {
+              "pId": 587,
+              "pCode": null,
+              "pName": "Czy jest tu lekarz?"
+            },
+            {
+              "pId": 588,
+              "pCode": null,
+              "pName": "Muszę iść do lekarza."
+            },
+            {
+              "pId": 589,
+              "pCode": null,
+              "pName": "Proszę wezwać lekarza!"
+            },
+            {
+              "pId": 590,
+              "pCode": null,
+              "pName": "Czy ktoś tu mówi po angielsku? polsku?"
+            },
+            {
+              "pId": 591,
+              "pCode": null,
+              "pName": "Proszę wezwać policję!"
+            },
+            {
+              "pId": 592,
+              "pCode": null,
+              "pName": "Ukradli mi dokumenty."
+            },
+            {
+              "pId": 593,
+              "pCode": null,
+              "pName": "Zostałem napadnięty."
+            },
+            {
+              "pId": 594,
+              "pCode": null,
+              "pName": "Gdzie jest najbliższy komisariat policji?"
+            },
+            {
+              "pId": 595,
+              "pCode": null,
+              "pName": "Zdarzył się wypadek. "
+            },
+            {
+              "pId": 596,
+              "pCode": null,
+              "pName": "Czy mogę zadzwonić z twojego telefonu? "
+            },
+            {
+              "pId": 597,
+              "pCode": null,
+              "pName": "Skradziono mój telefon / portfel / bagaż / dokumenty / identyfikator/ bilet"
+            }
+          ]
+        },
+        {
+          "cId": 5,
+          "cCode": "FOOD",
+          "cName": "Jedzenie i picie - W restauracji",
+          "phreses": [
+            {
+              "pId": 94,
+              "pCode": null,
+              "pName": "Czy może pan polecić dobrą restaurację?"
+            },
+            {
+              "pId": 95,
+              "pCode": null,
+              "pName": "Gdzie można tanio zjeść?"
+            },
+            {
+              "pId": 515,
+              "pCode": null,
+              "pName": "Stolik dla dwóch / trzech osób /grupy"
+            },
+            {
+              "pId": 516,
+              "pCode": null,
+              "pName": "Poproszę o menu."
+            },
+            {
+              "pId": 517,
+              "pCode": null,
+              "pName": "To nie moje danie. "
+            },
+            {
+              "pId": 518,
+              "pCode": null,
+              "pName": "Czy jest wolny stolik?"
+            },
+            {
+              "pId": 519,
+              "pCode": null,
+              "pName": "Które danie pani/pan poleca?"
+            },
+            {
+              "pId": 520,
+              "pCode": null,
+              "pName": "Ile kosztuje zupa /sok/woda?"
+            },
+            {
+              "pId": 521,
+              "pCode": null,
+              "pName": "Czy można płacić kartą?"
+            },
+            {
+              "pId": 522,
+              "pCode": null,
+              "pName": "Jedzenie było bardzo smaczne."
+            },
+            {
+              "pId": 523,
+              "pCode": null,
+              "pName": "Zupa była za zimna."
+            },
+            {
+              "pId": 524,
+              "pCode": null,
+              "pName": "Smacznego!"
+            },
+            {
+              "pId": 525,
+              "pCode": null,
+              "pName": "na zdrowie! (toast)"
+            },
+            {
+              "pId": 526,
+              "pCode": null,
+              "pName": "napiwek"
+            },
+            {
+              "pId": 527,
+              "pCode": null,
+              "pName": "zupa"
+            },
+            {
+              "pId": 528,
+              "pCode": null,
+              "pName": "Czy mają Państwo typowe polskie dania?"
+            },
+            {
+              "pId": 529,
+              "pCode": null,
+              "pName": "woda mineralna gazowana"
+            },
+            {
+              "pId": 530,
+              "pCode": null,
+              "pName": "woda niegazowana"
+            },
+            {
+              "pId": 531,
+              "pCode": null,
+              "pName": "sok"
+            },
+            {
+              "pId": 532,
+              "pCode": null,
+              "pName": "kawa"
+            },
+            {
+              "pId": 533,
+              "pCode": null,
+              "pName": "kawa z mlekiem"
+            },
+            {
+              "pId": 534,
+              "pCode": null,
+              "pName": "herbata"
+            },
+            {
+              "pId": 535,
+              "pCode": null,
+              "pName": "cukier"
+            },
+            {
+              "pId": 536,
+              "pCode": null,
+              "pName": "płacić gotówką"
+            },
+            {
+              "pId": 537,
+              "pCode": null,
+              "pName": "Czy mogę zapłacić zbliżeniowo?"
+            },
+            {
+              "pId": 538,
+              "pCode": null,
+              "pName": "Jestem głodny/ Nie jestem głodny."
+            },
+            {
+              "pId": 539,
+              "pCode": null,
+              "pName": "Reszty nie trzeba."
+            }
+          ]
+        },
+        {
+          "cId": 6,
+          "cCode": "HEALTH",
+          "cName": "U lekarza",
+          "phreses": [
+            {
+              "pId": 96,
+              "pCode": null,
+              "pName": "Potrzebuję pomocy."
+            },
+            {
+              "pId": 98,
+              "pCode": null,
+              "pName": "Gdzie mogę znaleźć lekarza?"
+            },
+            {
+              "pId": 540,
+              "pCode": null,
+              "pName": "Gdzie jest najbliższy szpital?"
+            },
+            {
+              "pId": 541,
+              "pCode": null,
+              "pName": "Jaki jest numer na pogotowie / proszę zadzwonić na pogotowie?"
+            },
+            {
+              "pId": 542,
+              "pCode": null,
+              "pName": "Czy jest tu lekarz?"
+            },
+            {
+              "pId": 543,
+              "pCode": null,
+              "pName": "Muszę iść do lekarza."
+            },
+            {
+              "pId": 544,
+              "pCode": null,
+              "pName": "Proszę wezwać lekarza!"
+            },
+            {
+              "pId": 545,
+              "pCode": null,
+              "pName": "Źle się czuję / Jestem chory"
+            },
+            {
+              "pId": 546,
+              "pCode": null,
+              "pName": "Boli mnie głowa /brzuch/ ręka / noga / stopa/ plecy."
+            },
+            {
+              "pId": 547,
+              "pCode": null,
+              "pName": "Boli mnie żołądek."
+            },
+            {
+              "pId": 548,
+              "pCode": null,
+              "pName": "Mam gorączkę."
+            },
+            {
+              "pId": 549,
+              "pCode": null,
+              "pName": "szpital"
+            },
+            {
+              "pId": 550,
+              "pCode": null,
+              "pName": "apteka"
+            },
+            {
+              "pId": 551,
+              "pCode": null,
+              "pName": "lekarstwa"
+            }
+          ]
+        },
+        {
+          "cId": 7,
+          "cCode": "SHOPPING",
+          "cName": "Zakupy",
+          "phreses": [
+            {
+              "pId": 102,
+              "pCode": null,
+              "pName": "gotówka"
+            },
+            {
+              "pId": 103,
+              "pCode": null,
+              "pName": "karta kredytowa"
+            },
+            {
+              "pId": 598,
+              "pCode": null,
+              "pName": "bankomat"
+            },
+            {
+              "pId": 599,
+              "pCode": null,
+              "pName": "bank"
+            },
+            {
+              "pId": 600,
+              "pCode": null,
+              "pName": "kantor"
+            },
+            {
+              "pId": 601,
+              "pCode": null,
+              "pName": "Czy mogę zapłacić kartą kredytową?"
+            },
+            {
+              "pId": 602,
+              "pCode": null,
+              "pName": "Ile to kosztuje?"
+            },
+            {
+              "pId": 603,
+              "pCode": null,
+              "pName": "Ile płacę?"
+            },
+            {
+              "pId": 604,
+              "pCode": null,
+              "pName": "Poproszę o rachunek."
+            },
+            {
+              "pId": 605,
+              "pCode": null,
+              "pName": "Jaki jest kurs (wymiany waluty)?"
+            },
+            {
+              "pId": 606,
+              "pCode": null,
+              "pName": "płacić gotówką"
+            },
+            {
+              "pId": 607,
+              "pCode": null,
+              "pName": "Czy mogę zapłacić kartą kredytową?"
+            },
+            {
+              "pId": 608,
+              "pCode": null,
+              "pName": "Reszty nie trzeba."
+            },
+            {
+              "pId": 609,
+              "pCode": null,
+              "pName": "Poproszę o reklamówkę. "
+            },
+            {
+              "pId": 610,
+              "pCode": null,
+              "pName": "Chleb"
+            },
+            {
+              "pId": 611,
+              "pCode": null,
+              "pName": "Mleko "
+            },
+            {
+              "pId": 612,
+              "pCode": null,
+              "pName": "Masło"
+            },
+            {
+              "pId": 613,
+              "pCode": null,
+              "pName": "Czekolada"
+            },
+            {
+              "pId": 614,
+              "pCode": null,
+              "pName": "Owoce"
+            },
+            {
+              "pId": 615,
+              "pCode": null,
+              "pName": "Warzywa"
+            },
+            {
+              "pId": 616,
+              "pCode": null,
+              "pName": "Woda"
+            }
+          ]
+        },
+        {
+          "cId": 8,
+          "cCode": "TRANSPORT",
+          "cName": "Transport",
+          "phreses": [
+            {
+              "pId": 97,
+              "pCode": null,
+              "pName": "Jak mogę dojechać do…"
+            },
+            {
+              "pId": 99,
+              "pCode": null,
+              "pName": "Czy ten autobus jedzie przez…"
+            },
+            {
+              "pId": 552,
+              "pCode": null,
+              "pName": "Gdzie mogę kupić bilet?"
+            },
+            {
+              "pId": 553,
+              "pCode": null,
+              "pName": "Ile kosztuje bilet?"
+            },
+            {
+              "pId": 554,
+              "pCode": null,
+              "pName": "Czy jest ulga dla studentów/ seniorów?"
+            },
+            {
+              "pId": 555,
+              "pCode": null,
+              "pName": "Jeden bilet do..."
+            },
+            {
+              "pId": 556,
+              "pCode": null,
+              "pName": "bilet w jedna stronę / powrotny"
+            },
+            {
+              "pId": 557,
+              "pCode": null,
+              "pName": "bilet w obie strony"
+            },
+            {
+              "pId": 558,
+              "pCode": null,
+              "pName": "Gdzie jest postój taksówek / stacja kolejowa / przystanek autobusowy?"
+            },
+            {
+              "pId": 559,
+              "pCode": null,
+              "pName": "Na którym przystanku powinienem wysiąść?"
+            },
+            {
+              "pId": 560,
+              "pCode": null,
+              "pName": "Kiedy odjeżdża autobus numer...? / na lotnisko/ dworzec"
+            },
+            {
+              "pId": 561,
+              "pCode": null,
+              "pName": "autobus"
+            },
+            {
+              "pId": 562,
+              "pCode": null,
+              "pName": "samochód"
+            },
+            {
+              "pId": 563,
+              "pCode": null,
+              "pName": "autostrada"
+            },
+            {
+              "pId": 564,
+              "pCode": null,
+              "pName": "pociąg"
+            },
+            {
+              "pId": 565,
+              "pCode": null,
+              "pName": "taksówka"
+            },
+            {
+              "pId": 566,
+              "pCode": null,
+              "pName": "lotnisko"
+            },
+            {
+              "pId": 567,
+              "pCode": null,
+              "pName": "dworzec autobusowy"
+            },
+            {
+              "pId": 568,
+              "pCode": null,
+              "pName": "dworzec kolejowy"
+            },
+            {
+              "pId": 569,
+              "pCode": null,
+              "pName": "przystanek autobusowy"
+            },
+            {
+              "pId": 570,
+              "pCode": null,
+              "pName": "wypożyczalnia samochodów"
+            },
+            {
+              "pId": 571,
+              "pCode": null,
+              "pName": "sklep spożywczy"
+            },
+            {
+              "pId": 572,
+              "pCode": null,
+              "pName": "supermarket"
+            },
+            {
+              "pId": 573,
+              "pCode": null,
+              "pName": "stacja benzynowa"
+            },
+            {
+              "pId": 574,
+              "pCode": null,
+              "pName": "bagaż"
+            },
+            {
+              "pId": 575,
+              "pCode": null,
+              "pName": "przechowalnie bagażu"
+            },
+            {
+              "pId": 576,
+              "pCode": null,
+              "pName": "informacja"
+            },
+            {
+              "pId": 577,
+              "pCode": null,
+              "pName": "odjazdy"
+            },
+            {
+              "pId": 578,
+              "pCode": null,
+              "pName": "odloty"
+            },
+            {
+              "pId": 579,
+              "pCode": null,
+              "pName": "odwołany"
+            },
+            {
+              "pId": 580,
+              "pCode": null,
+              "pName": "opóźniony"
+            },
+            {
+              "pId": 581,
+              "pCode": null,
+              "pName": "nie ma wolnych miejsc"
+            },
+            {
+              "pId": 582,
+              "pCode": null,
+              "pName": "przyjazdy"
+            },
+            {
+              "pId": 583,
+              "pCode": null,
+              "pName": "przyloty"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lId": 2,
+      "lCode": "EN",
+      "lName": "Angielski",
+      "cats": [
+        {
+          "cId": 9,
+          "cCode": "BASIC",
+          "cName": "General",
+          "phreses": [
+            {
+              "pId": 62,
+              "pCode": null,
+              "pName": "yes"
+            },
+            {
+              "pId": 89,
+              "pCode": null,
+              "pName": "no"
+            },
+            {
+              "pId": 458,
+              "pCode": null,
+              "pName": "please"
+            },
+            {
+              "pId": 459,
+              "pCode": null,
+              "pName": "thank you"
+            },
+            {
+              "pId": 460,
+              "pCode": null,
+              "pName": "good morning"
+            },
+            {
+              "pId": 461,
+              "pCode": null,
+              "pName": "good evening"
+            },
+            {
+              "pId": 462,
+              "pCode": null,
+              "pName": "goodbye"
+            },
+            {
+              "pId": 463,
+              "pCode": null,
+              "pName": "see you later"
+            },
+            {
+              "pId": 464,
+              "pCode": null,
+              "pName": "good night"
+            },
+            {
+              "pId": 465,
+              "pCode": null,
+              "pName": "hi, hello"
+            },
+            {
+              "pId": 466,
+              "pCode": null,
+              "pName": "bye, see you"
+            },
+            {
+              "pId": 467,
+              "pCode": null,
+              "pName": "excuse me"
+            },
+            {
+              "pId": 468,
+              "pCode": null,
+              "pName": "I'm sorry"
+            },
+            {
+              "pId": 469,
+              "pCode": null,
+              "pName": "free of charge, free"
+            },
+            {
+              "pId": 470,
+              "pCode": null,
+              "pName": "open"
+            },
+            {
+              "pId": 471,
+              "pCode": null,
+              "pName": "closed"
+            },
+            {
+              "pId": 472,
+              "pCode": null,
+              "pName": "nice to meet you"
+            }
+          ]
+        },
+        {
+          "cId": 10,
+          "cCode": "CONVERSATION",
+          "cName": "Conversation",
+          "phreses": [
+            {
+              "pId": 90,
+              "pCode": null,
+              "pName": "Do you speak English / Polish?"
+            },
+            {
+              "pId": 91,
+              "pCode": null,
+              "pName": "I don't speak English / Polish."
+            },
+            {
+              "pId": 473,
+              "pCode": null,
+              "pName": "My name is …"
+            },
+            {
+              "pId": 474,
+              "pCode": null,
+              "pName": "My name is …"
+            },
+            {
+              "pId": 475,
+              "pCode": null,
+              "pName": "What is your name?"
+            },
+            {
+              "pId": 476,
+              "pCode": null,
+              "pName": "I am …. years old."
+            },
+            {
+              "pId": 477,
+              "pCode": null,
+              "pName": "I am a student (college/university or high school)."
+            },
+            {
+              "pId": 478,
+              "pCode": null,
+              "pName": "I am a studying..."
+            },
+            {
+              "pId": 479,
+              "pCode": null,
+              "pName": "I work as a …."
+            },
+            {
+              "pId": 480,
+              "pCode": null,
+              "pName": "Can you speak more slowly / louder, please?"
+            },
+            {
+              "pId": 481,
+              "pCode": null,
+              "pName": "Can you write it for me, please?"
+            },
+            {
+              "pId": 482,
+              "pCode": null,
+              "pName": "Could you repeat that?"
+            },
+            {
+              "pId": 483,
+              "pCode": null,
+              "pName": "I don't understand."
+            },
+            {
+              "pId": 484,
+              "pCode": null,
+              "pName": "Where are you from?"
+            },
+            {
+              "pId": 485,
+              "pCode": null,
+              "pName": "What do you like?"
+            },
+            {
+              "pId": 486,
+              "pCode": null,
+              "pName": "Do you have siblings?"
+            },
+            {
+              "pId": 487,
+              "pCode": null,
+              "pName": "Where do you work?"
+            },
+            {
+              "pId": 488,
+              "pCode": null,
+              "pName": "How old are you?"
+            },
+            {
+              "pId": 489,
+              "pCode": null,
+              "pName": "What are you studying?"
+            },
+            {
+              "pId": 490,
+              "pCode": null,
+              "pName": "Do you like Krakow?"
+            },
+            {
+              "pId": 491,
+              "pCode": null,
+              "pName": "Is this your first time in Poland?"
+            },
+            {
+              "pId": 492,
+              "pCode": null,
+              "pName": "Is this your first time at WYD?"
+            }
+          ]
+        },
+        {
+          "cId": 11,
+          "cCode": "DIRECTIONS",
+          "cName": "Questions about Directions and Information",
+          "phreses": [
+            {
+              "pId": 92,
+              "pCode": null,
+              "pName": "Where is?"
+            },
+            {
+              "pId": 93,
+              "pCode": null,
+              "pName": "Where are you?"
+            },
+            {
+              "pId": 493,
+              "pCode": null,
+              "pName": "Excuse me, how can I get to...?"
+            },
+            {
+              "pId": 494,
+              "pCode": null,
+              "pName": "Excuse me, where is ... street?"
+            },
+            {
+              "pId": 495,
+              "pCode": null,
+              "pName": "Can you show me on the map?"
+            },
+            {
+              "pId": 496,
+              "pCode": null,
+              "pName": "Is it far?"
+            },
+            {
+              "pId": 497,
+              "pCode": null,
+              "pName": "I'm lost."
+            },
+            {
+              "pId": 498,
+              "pCode": null,
+              "pName": "you have to"
+            },
+            {
+              "pId": 499,
+              "pCode": null,
+              "pName": "to turn"
+            },
+            {
+              "pId": 500,
+              "pCode": null,
+              "pName": "right"
+            },
+            {
+              "pId": 501,
+              "pCode": null,
+              "pName": "left"
+            },
+            {
+              "pId": 502,
+              "pCode": null,
+              "pName": "to return; come back"
+            },
+            {
+              "pId": 503,
+              "pCode": null,
+              "pName": "to go straight ahead"
+            },
+            {
+              "pId": 504,
+              "pCode": null,
+              "pName": "behind the traffic lights"
+            },
+            {
+              "pId": 505,
+              "pCode": null,
+              "pName": "How can I log onto the Internet?"
+            },
+            {
+              "pId": 506,
+              "pCode": null,
+              "pName": "What's the wifi password?"
+            },
+            {
+              "pId": 507,
+              "pCode": null,
+              "pName": "Where can I find an internet cafe?"
+            },
+            {
+              "pId": 508,
+              "pCode": null,
+              "pName": "Can I charge my mobile here?"
+            },
+            {
+              "pId": 509,
+              "pCode": null,
+              "pName": "Could you take a picture of us, please?"
+            },
+            {
+              "pId": 510,
+              "pCode": null,
+              "pName": "Excuse me, where is the toilet?"
+            },
+            {
+              "pId": 511,
+              "pCode": null,
+              "pName": "What is the weather forecast?"
+            },
+            {
+              "pId": 512,
+              "pCode": null,
+              "pName": "It will be sunny / rainy / windy."
+            },
+            {
+              "pId": 513,
+              "pCode": null,
+              "pName": "What will the temperature be?"
+            },
+            {
+              "pId": 514,
+              "pCode": null,
+              "pName": "It will be hot/warm/cold"
+            }
+          ]
+        },
+        {
+          "cId": 12,
+          "cCode": "EMERGENCY",
+          "cName": "Emergency",
+          "phreses": [
+            {
+              "pId": 100,
+              "pCode": null,
+              "pName": "Help!"
+            },
+            {
+              "pId": 101,
+              "pCode": null,
+              "pName": "Watch Out!"
+            },
+            {
+              "pId": 584,
+              "pCode": null,
+              "pName": "I need your help."
+            },
+            {
+              "pId": 585,
+              "pCode": null,
+              "pName": "Where can I find a doctor?"
+            },
+            {
+              "pId": 586,
+              "pCode": null,
+              "pName": "Where is the nearest hospital?"
+            },
+            {
+              "pId": 587,
+              "pCode": null,
+              "pName": "Is there any doctor here?"
+            },
+            {
+              "pId": 588,
+              "pCode": null,
+              "pName": "I have to see a doctor."
+            },
+            {
+              "pId": 589,
+              "pCode": null,
+              "pName": "Call the doctor, please!"
+            },
+            {
+              "pId": 590,
+              "pCode": null,
+              "pName": "Does anybody here speak English / Polish?"
+            },
+            {
+              "pId": 591,
+              "pCode": null,
+              "pName": "Call the police, please!"
+            },
+            {
+              "pId": 592,
+              "pCode": null,
+              "pName": "My ID has been stolen."
+            },
+            {
+              "pId": 593,
+              "pCode": null,
+              "pName": "I've been robbed."
+            },
+            {
+              "pId": 594,
+              "pCode": null,
+              "pName": "Where is the nearest police station?"
+            },
+            {
+              "pId": 595,
+              "pCode": null,
+              "pName": "There has been an accident."
+            },
+            {
+              "pId": 596,
+              "pCode": null,
+              "pName": "May I use your phone to make a call?"
+            },
+            {
+              "pId": 597,
+              "pCode": null,
+              "pName": "My phone / wallet / luggage / documents / ID / ticket has been stolen."
+            }
+          ]
+        },
+        {
+          "cId": 13,
+          "cCode": "FOOD",
+          "cName": "In restaurant",
+          "phreses": [
+            {
+              "pId": 94,
+              "pCode": null,
+              "pName": "Can you recommend a (cheap) restaurant?"
+            },
+            {
+              "pId": 95,
+              "pCode": null,
+              "pName": "Where can we eat cheaply?"
+            },
+            {
+              "pId": 515,
+              "pCode": null,
+              "pName": "A table for two / three (people)/a group"
+            },
+            {
+              "pId": 516,
+              "pCode": null,
+              "pName": "Can I have a menu, please?"
+            },
+            {
+              "pId": 517,
+              "pCode": null,
+              "pName": "This is not what I ordered."
+            },
+            {
+              "pId": 518,
+              "pCode": null,
+              "pName": "Is there a table available?"
+            },
+            {
+              "pId": 519,
+              "pCode": null,
+              "pName": "Which main courses do you recommend?"
+            },
+            {
+              "pId": 520,
+              "pCode": null,
+              "pName": "How much is the soup / glass of juice/water?"
+            },
+            {
+              "pId": 521,
+              "pCode": null,
+              "pName": "Can I pay by credit card?"
+            },
+            {
+              "pId": 522,
+              "pCode": null,
+              "pName": "The meal was delicious."
+            },
+            {
+              "pId": 523,
+              "pCode": null,
+              "pName": "The soup was too cold."
+            },
+            {
+              "pId": 524,
+              "pCode": null,
+              "pName": "Enjoy your meal!"
+            },
+            {
+              "pId": 525,
+              "pCode": null,
+              "pName": "cheers!"
+            },
+            {
+              "pId": 526,
+              "pCode": null,
+              "pName": "tip"
+            },
+            {
+              "pId": 527,
+              "pCode": null,
+              "pName": "soup"
+            },
+            {
+              "pId": 528,
+              "pCode": null,
+              "pName": "Do you have any typical Polish dishes?"
+            },
+            {
+              "pId": 529,
+              "pCode": null,
+              "pName": "sparkling mineral water"
+            },
+            {
+              "pId": 530,
+              "pCode": null,
+              "pName": "noncarbonated water"
+            },
+            {
+              "pId": 531,
+              "pCode": null,
+              "pName": "juice"
+            },
+            {
+              "pId": 532,
+              "pCode": null,
+              "pName": "coffee"
+            },
+            {
+              "pId": 533,
+              "pCode": null,
+              "pName": "coffee with milk"
+            },
+            {
+              "pId": 534,
+              "pCode": null,
+              "pName": "tea"
+            },
+            {
+              "pId": 535,
+              "pCode": null,
+              "pName": "sugar"
+            },
+            {
+              "pId": 536,
+              "pCode": null,
+              "pName": "to pay in cash"
+            },
+            {
+              "pId": 537,
+              "pCode": null,
+              "pName": "Can I pay with a credit card?"
+            },
+            {
+              "pId": 538,
+              "pCode": null,
+              "pName": "I'm hungry / I'm not hungry."
+            },
+            {
+              "pId": 539,
+              "pCode": null,
+              "pName": "Keep the change."
+            }
+          ]
+        },
+        {
+          "cId": 14,
+          "cCode": "HEALTH",
+          "cName": "Health - At the Doctor",
+          "phreses": [
+            {
+              "pId": 96,
+              "pCode": null,
+              "pName": "I need your help."
+            },
+            {
+              "pId": 98,
+              "pCode": null,
+              "pName": "Where can I find a doctor?"
+            },
+            {
+              "pId": 540,
+              "pCode": null,
+              "pName": "Where is the nearest hospital?"
+            },
+            {
+              "pId": 541,
+              "pCode": null,
+              "pName": "What is the emergency number? / please call an ambulance"
+            },
+            {
+              "pId": 542,
+              "pCode": null,
+              "pName": "Is there any doctor here?"
+            },
+            {
+              "pId": 543,
+              "pCode": null,
+              "pName": "I have to see a doctor."
+            },
+            {
+              "pId": 544,
+              "pCode": null,
+              "pName": "Call the doctor, please!"
+            },
+            {
+              "pId": 545,
+              "pCode": null,
+              "pName": "I'm not feeling well. / I'm sick/ill."
+            },
+            {
+              "pId": 546,
+              "pCode": null,
+              "pName": "I have a head / stomach / hand / leg / foot / back -ache."
+            },
+            {
+              "pId": 547,
+              "pCode": null,
+              "pName": "I have a stomach ache."
+            },
+            {
+              "pId": 548,
+              "pCode": null,
+              "pName": "I have a fever."
+            },
+            {
+              "pId": 549,
+              "pCode": null,
+              "pName": "hospital"
+            },
+            {
+              "pId": 550,
+              "pCode": null,
+              "pName": "pharmacy"
+            },
+            {
+              "pId": 551,
+              "pCode": null,
+              "pName": "medicine"
+            }
+          ]
+        },
+        {
+          "cId": 15,
+          "cCode": "SHOPPING",
+          "cName": "Shopping",
+          "phreses": [
+            {
+              "pId": 102,
+              "pCode": null,
+              "pName": "cash"
+            },
+            {
+              "pId": 103,
+              "pCode": null,
+              "pName": "credit card"
+            },
+            {
+              "pId": 598,
+              "pCode": null,
+              "pName": "ATM / cash machine"
+            },
+            {
+              "pId": 599,
+              "pCode": null,
+              "pName": "bank"
+            },
+            {
+              "pId": 600,
+              "pCode": null,
+              "pName": "currency exchange"
+            },
+            {
+              "pId": 601,
+              "pCode": null,
+              "pName": "Can I pay with a credit card?"
+            },
+            {
+              "pId": 602,
+              "pCode": null,
+              "pName": "How much is it?"
+            },
+            {
+              "pId": 603,
+              "pCode": null,
+              "pName": "How much do I pay?"
+            },
+            {
+              "pId": 604,
+              "pCode": null,
+              "pName": "Can I have the bill, please?"
+            },
+            {
+              "pId": 605,
+              "pCode": null,
+              "pName": "What is today's exchange rate?"
+            },
+            {
+              "pId": 606,
+              "pCode": null,
+              "pName": "to pay in cash"
+            },
+            {
+              "pId": 607,
+              "pCode": null,
+              "pName": "Can I pay with a credit card?"
+            },
+            {
+              "pId": 608,
+              "pCode": null,
+              "pName": "Keep the change."
+            },
+            {
+              "pId": 609,
+              "pCode": null,
+              "pName": "Can I have a plastic bag, please?"
+            },
+            {
+              "pId": 610,
+              "pCode": null,
+              "pName": "Bread"
+            },
+            {
+              "pId": 611,
+              "pCode": null,
+              "pName": "Milk"
+            },
+            {
+              "pId": 612,
+              "pCode": null,
+              "pName": "Butter"
+            },
+            {
+              "pId": 613,
+              "pCode": null,
+              "pName": "Chocolate"
+            },
+            {
+              "pId": 614,
+              "pCode": null,
+              "pName": "Fruit"
+            },
+            {
+              "pId": 615,
+              "pCode": null,
+              "pName": "Vegetables"
+            },
+            {
+              "pId": 616,
+              "pCode": null,
+              "pName": "Water"
+            }
+          ]
+        },
+        {
+          "cId": 16,
+          "cCode": "TRANSPORT",
+          "cName": "Transportation",
+          "phreses": [
+            {
+              "pId": 97,
+              "pCode": null,
+              "pName": "How can I get to..."
+            },
+            {
+              "pId": 99,
+              "pCode": null,
+              "pName": "Does that bus go through ..."
+            },
+            {
+              "pId": 552,
+              "pCode": null,
+              "pName": "Where can I buy a ticket?"
+            },
+            {
+              "pId": 553,
+              "pCode": null,
+              "pName": "How much does the ticket cost?"
+            },
+            {
+              "pId": 554,
+              "pCode": null,
+              "pName": "Is there a discount for students / seniors?"
+            },
+            {
+              "pId": 555,
+              "pCode": null,
+              "pName": "One ticket to…"
+            },
+            {
+              "pId": 556,
+              "pCode": null,
+              "pName": "single / one way ticket"
+            },
+            {
+              "pId": 557,
+              "pCode": null,
+              "pName": "return ticket"
+            },
+            {
+              "pId": 558,
+              "pCode": null,
+              "pName": "Where can I find a taxi / railway station / bus stop?"
+            },
+            {
+              "pId": 559,
+              "pCode": null,
+              "pName": "At which stop should I get off?"
+            },
+            {
+              "pId": 560,
+              "pCode": null,
+              "pName": "What time does bus number...? / the bus to the airport / bus station - railway station leave?"
+            },
+            {
+              "pId": 561,
+              "pCode": null,
+              "pName": "bus"
+            },
+            {
+              "pId": 562,
+              "pCode": null,
+              "pName": "car"
+            },
+            {
+              "pId": 563,
+              "pCode": null,
+              "pName": "highway / speedway"
+            },
+            {
+              "pId": 564,
+              "pCode": null,
+              "pName": "train"
+            },
+            {
+              "pId": 565,
+              "pCode": null,
+              "pName": "taxi"
+            },
+            {
+              "pId": 566,
+              "pCode": null,
+              "pName": "airport"
+            },
+            {
+              "pId": 567,
+              "pCode": null,
+              "pName": "bus station"
+            },
+            {
+              "pId": 568,
+              "pCode": null,
+              "pName": "railway station"
+            },
+            {
+              "pId": 569,
+              "pCode": null,
+              "pName": "bus stop"
+            },
+            {
+              "pId": 570,
+              "pCode": null,
+              "pName": "car rental"
+            },
+            {
+              "pId": 571,
+              "pCode": null,
+              "pName": "grocery"
+            },
+            {
+              "pId": 572,
+              "pCode": null,
+              "pName": "supermarket"
+            },
+            {
+              "pId": 573,
+              "pCode": null,
+              "pName": "petrol station"
+            },
+            {
+              "pId": 574,
+              "pCode": null,
+              "pName": "luggage"
+            },
+            {
+              "pId": 575,
+              "pCode": null,
+              "pName": "luggage storage room"
+            },
+            {
+              "pId": 576,
+              "pCode": null,
+              "pName": "information"
+            },
+            {
+              "pId": 577,
+              "pCode": null,
+              "pName": "departures"
+            },
+            {
+              "pId": 578,
+              "pCode": null,
+              "pName": "departures"
+            },
+            {
+              "pId": 579,
+              "pCode": null,
+              "pName": "cancelled"
+            },
+            {
+              "pId": 580,
+              "pCode": null,
+              "pName": "delayed"
+            },
+            {
+              "pId": 581,
+              "pCode": null,
+              "pName": "no seat available"
+            },
+            {
+              "pId": 582,
+              "pCode": null,
+              "pName": "bus arrivals"
+            },
+            {
+              "pId": 583,
+              "pCode": null,
+              "pName": "airplane arrivals"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lId": 3,
+      "lCode": "DE",
+      "lName": "Niemiecki",
+      "cats": [
+        {
+          "cId": 17,
+          "cCode": "BASIC",
+          "cName": "Grundwortschatz",
+          "phreses": [
+            {
+              "pId": 62,
+              "pCode": null,
+              "pName": "Ja"
+            },
+            {
+              "pId": 89,
+              "pCode": null,
+              "pName": "Nein"
+            },
+            {
+              "pId": 458,
+              "pCode": null,
+              "pName": "Bitte"
+            },
+            {
+              "pId": 459,
+              "pCode": null,
+              "pName": "Danke"
+            },
+            {
+              "pId": 460,
+              "pCode": null,
+              "pName": "Guten Tag"
+            },
+            {
+              "pId": 461,
+              "pCode": null,
+              "pName": "Guten Abend"
+            },
+            {
+              "pId": 462,
+              "pCode": null,
+              "pName": "Aufwiedersehen"
+            },
+            {
+              "pId": 463,
+              "pCode": null,
+              "pName": "Aufwiedersehen"
+            },
+            {
+              "pId": 464,
+              "pCode": null,
+              "pName": "Gute Nacht"
+            },
+            {
+              "pId": 465,
+              "pCode": null,
+              "pName": "Grüss Dich"
+            },
+            {
+              "pId": 466,
+              "pCode": null,
+              "pName": "Tschüss"
+            },
+            {
+              "pId": 467,
+              "pCode": null,
+              "pName": "Tut mir Leid"
+            },
+            {
+              "pId": 468,
+              "pCode": null,
+              "pName": "Es tut mir Leid"
+            },
+            {
+              "pId": 469,
+              "pCode": null,
+              "pName": "umsonst"
+            },
+            {
+              "pId": 470,
+              "pCode": null,
+              "pName": "offen"
+            },
+            {
+              "pId": 471,
+              "pCode": null,
+              "pName": "geschlossen"
+            },
+            {
+              "pId": 472,
+              "pCode": null,
+              "pName": "Nett dich kennenzulernen"
+            }
+          ]
+        },
+        {
+          "cId": 18,
+          "cCode": "CONVERSATION",
+          "cName": "Vorstellen",
+          "phreses": [
+            {
+              "pId": 90,
+              "pCode": null,
+              "pName": "Sprechen Sie englisch/polnisch?"
+            },
+            {
+              "pId": 91,
+              "pCode": null,
+              "pName": "Ich spreche kein Englisch / Polnisch."
+            },
+            {
+              "pId": 473,
+              "pCode": null,
+              "pName": "Ich heiße..."
+            },
+            {
+              "pId": 474,
+              "pCode": null,
+              "pName": "Mein Name ist"
+            },
+            {
+              "pId": 475,
+              "pCode": null,
+              "pName": "Wie heißt du?"
+            },
+            {
+              "pId": 476,
+              "pCode": null,
+              "pName": "Ich bin... Jahre alt"
+            },
+            {
+              "pId": 477,
+              "pCode": null,
+              "pName": "Ich bin ein Student/Schüler"
+            },
+            {
+              "pId": 478,
+              "pCode": null,
+              "pName": "Ich studiere"
+            },
+            {
+              "pId": 479,
+              "pCode": null,
+              "pName": "Ich arbeite als..."
+            },
+            {
+              "pId": 480,
+              "pCode": null,
+              "pName": "Bitte sprechen Sie langsamer/lauter"
+            },
+            {
+              "pId": 481,
+              "pCode": null,
+              "pName": "Bitte schreiben Sie mir das auf"
+            },
+            {
+              "pId": 482,
+              "pCode": null,
+              "pName": "Bitte wiederholen Sie"
+            },
+            {
+              "pId": 483,
+              "pCode": null,
+              "pName": "Ich verstehe nicht"
+            },
+            {
+              "pId": 484,
+              "pCode": null,
+              "pName": "Von wo bist du?"
+            },
+            {
+              "pId": 485,
+              "pCode": null,
+              "pName": "Was magst du?"
+            },
+            {
+              "pId": 486,
+              "pCode": null,
+              "pName": "Hast du Geschwister?"
+            },
+            {
+              "pId": 487,
+              "pCode": null,
+              "pName": "Wo arbeitest du?"
+            },
+            {
+              "pId": 488,
+              "pCode": null,
+              "pName": "Wie alt bist du?"
+            },
+            {
+              "pId": 489,
+              "pCode": null,
+              "pName": "Was studierst du?"
+            },
+            {
+              "pId": 490,
+              "pCode": null,
+              "pName": "Gefällt dir Krakau?"
+            },
+            {
+              "pId": 491,
+              "pCode": null,
+              "pName": "Bist du das erste Mal in Polen?"
+            },
+            {
+              "pId": 492,
+              "pCode": null,
+              "pName": "Bist du das erste Mal auf dem WJT?"
+            }
+          ]
+        },
+        {
+          "cId": 19,
+          "cCode": "DIRECTIONS",
+          "cName": "Um den Weg fragen",
+          "phreses": [
+            {
+              "pId": 92,
+              "pCode": null,
+              "pName": "Wo ist?"
+            },
+            {
+              "pId": 93,
+              "pCode": null,
+              "pName": "Wo bist du?"
+            },
+            {
+              "pId": 493,
+              "pCode": null,
+              "pName": "Entschuldigung, wie komme ich..."
+            },
+            {
+              "pId": 494,
+              "pCode": null,
+              "pName": "Entschuldigung,wo ist die... Straße?"
+            },
+            {
+              "pId": 495,
+              "pCode": null,
+              "pName": "Können Sie mir dies bitte auf der Karte zeigen?"
+            },
+            {
+              "pId": 496,
+              "pCode": null,
+              "pName": "Ist das weit weg?"
+            },
+            {
+              "pId": 497,
+              "pCode": null,
+              "pName": "Ich habe mich verloren"
+            },
+            {
+              "pId": 498,
+              "pCode": null,
+              "pName": "Sie müssen"
+            },
+            {
+              "pId": 499,
+              "pCode": null,
+              "pName": "abbiegen"
+            },
+            {
+              "pId": 500,
+              "pCode": null,
+              "pName": "nach rechts"
+            },
+            {
+              "pId": 501,
+              "pCode": null,
+              "pName": "nach links"
+            },
+            {
+              "pId": 502,
+              "pCode": null,
+              "pName": "umkehren"
+            },
+            {
+              "pId": 503,
+              "pCode": null,
+              "pName": "geradeaus gehen"
+            },
+            {
+              "pId": 504,
+              "pCode": null,
+              "pName": "an der Ampel"
+            },
+            {
+              "pId": 505,
+              "pCode": null,
+              "pName": "Wie kann ich mich mit dem Internet verbinden?"
+            },
+            {
+              "pId": 506,
+              "pCode": null,
+              "pName": "Wie ist das WLAN/WIFI-Kennwort?"
+            },
+            {
+              "pId": 507,
+              "pCode": null,
+              "pName": "Wo ist ein Internetkaffee?"
+            },
+            {
+              "pId": 508,
+              "pCode": null,
+              "pName": "Kann ich hier mein Handy aufladen?"
+            },
+            {
+              "pId": 509,
+              "pCode": null,
+              "pName": "Entschuldigung,können Sie mir ein Foto machen?"
+            },
+            {
+              "pId": 510,
+              "pCode": null,
+              "pName": "Entschuldigung, wo ist die Toilette?"
+            },
+            {
+              "pId": 511,
+              "pCode": null,
+              "pName": "Wie ist die Wetterhervorsage?"
+            },
+            {
+              "pId": 512,
+              "pCode": null,
+              "pName": "Es wird sonnig/regnerisch/windig sein"
+            },
+            {
+              "pId": 513,
+              "pCode": null,
+              "pName": "Wie hoch wird die Temperatur sein?"
+            },
+            {
+              "pId": 514,
+              "pCode": null,
+              "pName": "Es wird heiß/warm/kalt sein"
+            }
+          ]
+        },
+        {
+          "cId": 20,
+          "cCode": "EMERGENCY",
+          "cName": "Plötzlicher Unfall",
+          "phreses": [
+            {
+              "pId": 100,
+              "pCode": null,
+              "pName": "Zur Hilfe!"
+            },
+            {
+              "pId": 101,
+              "pCode": null,
+              "pName": "Achtung!"
+            },
+            {
+              "pId": 584,
+              "pCode": null,
+              "pName": "Ich brauche Hilfe"
+            },
+            {
+              "pId": 585,
+              "pCode": null,
+              "pName": "Wo kann ich einen Arzt finden?"
+            },
+            {
+              "pId": 586,
+              "pCode": null,
+              "pName": "Wo ist in der Nähe ein Krankenhaus?"
+            },
+            {
+              "pId": 587,
+              "pCode": null,
+              "pName": "Ist hier ein Arzt?"
+            },
+            {
+              "pId": 588,
+              "pCode": null,
+              "pName": "Ich muss zum Arzt gehen."
+            },
+            {
+              "pId": 589,
+              "pCode": null,
+              "pName": "Bitte rufen Sie einen Arzt!"
+            },
+            {
+              "pId": 590,
+              "pCode": null,
+              "pName": "Spricht hier jemand englisch/polnisch?"
+            },
+            {
+              "pId": 591,
+              "pCode": null,
+              "pName": "Bitte rufen Sie die Polizei!"
+            },
+            {
+              "pId": 592,
+              "pCode": null,
+              "pName": "Die haben mir meine Dokumente geklaut."
+            },
+            {
+              "pId": 593,
+              "pCode": null,
+              "pName": "Ich wurde beklaut."
+            },
+            {
+              "pId": 594,
+              "pCode": null,
+              "pName": "Wo ist hier in der Nähe eine Polizeiwache?"
+            },
+            {
+              "pId": 595,
+              "pCode": null,
+              "pName": "Ein Unfall ist passiert"
+            },
+            {
+              "pId": 596,
+              "pCode": null,
+              "pName": "Kann ich von deinem Telefon aus anrufen?"
+            },
+            {
+              "pId": 597,
+              "pCode": null,
+              "pName": "Mein Telefon/Portemonnaie/Gepäck wurde geklaut"
+            }
+          ]
+        },
+        {
+          "cId": 21,
+          "cCode": "FOOD",
+          "cName": "Essne und Trinekn im Restaurant",
+          "phreses": [
+            {
+              "pId": 94,
+              "pCode": null,
+              "pName": "Können Sie mir ein Restaurant empfehlen?"
+            },
+            {
+              "pId": 95,
+              "pCode": null,
+              "pName": "Wo kann man billig essen?"
+            },
+            {
+              "pId": 515,
+              "pCode": null,
+              "pName": "Ein Tisch für zwei, drei Personen---Gruppe"
+            },
+            {
+              "pId": 516,
+              "pCode": null,
+              "pName": "Bitte das Menü"
+            },
+            {
+              "pId": 517,
+              "pCode": null,
+              "pName": "Das habe ich nicht bestellt"
+            },
+            {
+              "pId": 518,
+              "pCode": null,
+              "pName": "Ist ein Tisch frei?"
+            },
+            {
+              "pId": 519,
+              "pCode": null,
+              "pName": "Welches Menü empfehlen Sie?"
+            },
+            {
+              "pId": 520,
+              "pCode": null,
+              "pName": "Wie viel kostet eine Suppe/ein Glas Saft?"
+            },
+            {
+              "pId": 521,
+              "pCode": null,
+              "pName": "Kann man mit der Karte bezahlen?"
+            },
+            {
+              "pId": 522,
+              "pCode": null,
+              "pName": "Das Essen war sehr gut."
+            },
+            {
+              "pId": 523,
+              "pCode": null,
+              "pName": "War die Suppe zu kalt?"
+            },
+            {
+              "pId": 524,
+              "pCode": null,
+              "pName": "Guten Appetit."
+            },
+            {
+              "pId": 525,
+              "pCode": null,
+              "pName": "Zum Wohl!"
+            },
+            {
+              "pId": 526,
+              "pCode": null,
+              "pName": "Trinkgeld"
+            },
+            {
+              "pId": 527,
+              "pCode": null,
+              "pName": "Die Suppe"
+            },
+            {
+              "pId": 528,
+              "pCode": null,
+              "pName": "Haben Sie hier eine Landesspezialität?"
+            },
+            {
+              "pId": 529,
+              "pCode": null,
+              "pName": "Mineralwasser mit Kohlensäure"
+            },
+            {
+              "pId": 530,
+              "pCode": null,
+              "pName": "Mineralwasser ohne Kohlensäure"
+            },
+            {
+              "pId": 531,
+              "pCode": null,
+              "pName": "Saft"
+            },
+            {
+              "pId": 532,
+              "pCode": null,
+              "pName": "Kaffee"
+            },
+            {
+              "pId": 533,
+              "pCode": null,
+              "pName": "Kaffee mit Milch"
+            },
+            {
+              "pId": 534,
+              "pCode": null,
+              "pName": "Tee"
+            },
+            {
+              "pId": 535,
+              "pCode": null,
+              "pName": "Zucker"
+            },
+            {
+              "pId": 536,
+              "pCode": null,
+              "pName": "Mit Bargeld bezahlen"
+            },
+            {
+              "pId": 537,
+              "pCode": null,
+              "pName": "Kann ich mit der Kreditkarte bezahlen?"
+            },
+            {
+              "pId": 538,
+              "pCode": null,
+              "pName": "Ich bin hungrig/Ich bin nicht hungrig"
+            },
+            {
+              "pId": 539,
+              "pCode": null,
+              "pName": "Brauchen Sie das Restgeld?"
+            }
+          ]
+        },
+        {
+          "cId": 22,
+          "cCode": "HEALTH",
+          "cName": "Gesundheit - Beim Arzt",
+          "phreses": [
+            {
+              "pId": 96,
+              "pCode": null,
+              "pName": "Ich brauche Hilfe"
+            },
+            {
+              "pId": 98,
+              "pCode": null,
+              "pName": "Wo kann ich einen Arzt finden?"
+            },
+            {
+              "pId": 540,
+              "pCode": null,
+              "pName": "Wo ist hier in der Nähe ein Krankenhaus?"
+            },
+            {
+              "pId": 541,
+              "pCode": null,
+              "pName": "Wie ist die Notrufnummer/ Bitte rufen Sie einen Krankenwagen?"
+            },
+            {
+              "pId": 542,
+              "pCode": null,
+              "pName": "Ist hier ein Arzt?"
+            },
+            {
+              "pId": 543,
+              "pCode": null,
+              "pName": "Ich muss zum Arzt gehen."
+            },
+            {
+              "pId": 544,
+              "pCode": null,
+              "pName": "Bitte rufen Sie einen Arzt!"
+            },
+            {
+              "pId": 545,
+              "pCode": null,
+              "pName": "Ich bin krank. Ich fühle mich schlecht."
+            },
+            {
+              "pId": 546,
+              "pCode": null,
+              "pName": "Mein Kopf/Bauch/Arm/Fuß/Rücken tut mir weh."
+            },
+            {
+              "pId": 547,
+              "pCode": null,
+              "pName": "Mein Magen tut mir weh."
+            },
+            {
+              "pId": 548,
+              "pCode": null,
+              "pName": "Ich habe Fieber."
+            },
+            {
+              "pId": 549,
+              "pCode": null,
+              "pName": "Krankenhaus"
+            },
+            {
+              "pId": 550,
+              "pCode": null,
+              "pName": "Apotheke"
+            },
+            {
+              "pId": 551,
+              "pCode": null,
+              "pName": "Arzneimittel"
+            }
+          ]
+        },
+        {
+          "cId": 23,
+          "cCode": "SHOPPING",
+          "cName": "Einkäufe",
+          "phreses": [
+            {
+              "pId": 608,
+              "pCode": null,
+              "pName": "Das Restgeld brauche ich nicht."
+            },
+            {
+              "pId": 609,
+              "pCode": null,
+              "pName": "Eine Tüte bitte"
+            },
+            {
+              "pId": 610,
+              "pCode": null,
+              "pName": "Brot"
+            },
+            {
+              "pId": 611,
+              "pCode": null,
+              "pName": "Milch"
+            },
+            {
+              "pId": 612,
+              "pCode": null,
+              "pName": "Butter"
+            },
+            {
+              "pId": 613,
+              "pCode": null,
+              "pName": "Schokolade"
+            },
+            {
+              "pId": 614,
+              "pCode": null,
+              "pName": "Obst"
+            },
+            {
+              "pId": 615,
+              "pCode": null,
+              "pName": "Gemüse"
+            },
+            {
+              "pId": 616,
+              "pCode": null,
+              "pName": "Wasser"
+            },
+            {
+              "pId": 102,
+              "pCode": null,
+              "pName": "Bargeld"
+            },
+            {
+              "pId": 103,
+              "pCode": null,
+              "pName": " Kreditkarte"
+            },
+            {
+              "pId": 598,
+              "pCode": null,
+              "pName": "Bankomat"
+            },
+            {
+              "pId": 599,
+              "pCode": null,
+              "pName": "Bank"
+            },
+            {
+              "pId": 600,
+              "pCode": null,
+              "pName": "Wechselstube"
+            },
+            {
+              "pId": 601,
+              "pCode": null,
+              "pName": "Kann ich mit der Kreditkarte bezahlen?"
+            },
+            {
+              "pId": 602,
+              "pCode": null,
+              "pName": "Wie viel kostet das?"
+            },
+            {
+              "pId": 603,
+              "pCode": null,
+              "pName": "Wie viel bezahle ich?"
+            },
+            {
+              "pId": 604,
+              "pCode": null,
+              "pName": "Bitte um Rechnung"
+            },
+            {
+              "pId": 605,
+              "pCode": null,
+              "pName": "Wie läuft der Wechselkurs?"
+            },
+            {
+              "pId": 606,
+              "pCode": null,
+              "pName": "Mit Bargeld bezahlen"
+            },
+            {
+              "pId": 607,
+              "pCode": null,
+              "pName": "Kann ich mit der Kreditkarte bezahlen?"
+            }
+          ]
+        },
+        {
+          "cId": 24,
+          "cCode": "TRANSPORT",
+          "cName": "Transport",
+          "phreses": [
+            {
+              "pId": 97,
+              "pCode": null,
+              "pName": "Wie kann ich zu... fahren"
+            },
+            {
+              "pId": 99,
+              "pCode": null,
+              "pName": "Fährt dieser Bus durch..."
+            },
+            {
+              "pId": 552,
+              "pCode": null,
+              "pName": "Wo kann ich ein Ticket kaufen?"
+            },
+            {
+              "pId": 553,
+              "pCode": null,
+              "pName": "Wie viel kostet ein Ticket?"
+            },
+            {
+              "pId": 554,
+              "pCode": null,
+              "pName": "Gibt es Studentenrabatt?"
+            },
+            {
+              "pId": 555,
+              "pCode": null,
+              "pName": "Ein Ticket nach..."
+            },
+            {
+              "pId": 556,
+              "pCode": null,
+              "pName": "Ein Ticket in eine Richtung"
+            },
+            {
+              "pId": 557,
+              "pCode": null,
+              "pName": "Ein Ticket für Hin und Zurück"
+            },
+            {
+              "pId": 558,
+              "pCode": null,
+              "pName": "Wo ist die Taxistelle/wo ist der Bahnhof"
+            },
+            {
+              "pId": 559,
+              "pCode": null,
+              "pName": "An welcher Haltestelle soll ich aussteigen?"
+            },
+            {
+              "pId": 560,
+              "pCode": null,
+              "pName": "Wann fährt der Bus Nummer... ab?"
+            },
+            {
+              "pId": 561,
+              "pCode": null,
+              "pName": "Bus"
+            },
+            {
+              "pId": 562,
+              "pCode": null,
+              "pName": "Auto"
+            },
+            {
+              "pId": 563,
+              "pCode": null,
+              "pName": "Autobahn"
+            },
+            {
+              "pId": 564,
+              "pCode": null,
+              "pName": "Zug"
+            },
+            {
+              "pId": 565,
+              "pCode": null,
+              "pName": "Taxi"
+            },
+            {
+              "pId": 566,
+              "pCode": null,
+              "pName": "Flughafen"
+            },
+            {
+              "pId": 567,
+              "pCode": null,
+              "pName": "Busbahnhof"
+            },
+            {
+              "pId": 568,
+              "pCode": null,
+              "pName": "Bahnhof"
+            },
+            {
+              "pId": 569,
+              "pCode": null,
+              "pName": "Bushaltestelle"
+            },
+            {
+              "pId": 570,
+              "pCode": null,
+              "pName": "Autoausleihe"
+            },
+            {
+              "pId": 571,
+              "pCode": null,
+              "pName": "Lebensmittelgeschäft"
+            },
+            {
+              "pId": 572,
+              "pCode": null,
+              "pName": "Supermarkt"
+            },
+            {
+              "pId": 573,
+              "pCode": null,
+              "pName": "Tankstelle"
+            },
+            {
+              "pId": 574,
+              "pCode": null,
+              "pName": "Gepäck"
+            },
+            {
+              "pId": 575,
+              "pCode": null,
+              "pName": "Gepäckaufbewahrung"
+            },
+            {
+              "pId": 576,
+              "pCode": null,
+              "pName": "Information"
+            },
+            {
+              "pId": 577,
+              "pCode": null,
+              "pName": "Abfahrt"
+            },
+            {
+              "pId": 578,
+              "pCode": null,
+              "pName": "Abflug"
+            },
+            {
+              "pId": 579,
+              "pCode": null,
+              "pName": "Abgesagt"
+            },
+            {
+              "pId": 580,
+              "pCode": null,
+              "pName": "verspätet"
+            },
+            {
+              "pId": 581,
+              "pCode": null,
+              "pName": "Es gibt keine freien Plätze"
+            },
+            {
+              "pId": 582,
+              "pCode": null,
+              "pName": "Ankunft"
+            },
+            {
+              "pId": 583,
+              "pCode": null,
+              "pName": "Flugankunft"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
