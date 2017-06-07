@@ -42,68 +42,68 @@
 		"action": "AC_TRAVEL_PLAN_OPEN",
 		"color": "#ffc20e"
 	}, {
-		"id": 16,
+		"id": 8,
 		"name": "STR_THEMATIC_ROUTES",
 		"icon": "IC_THEMATIC_ROUTES",
 		"action": "AC_THEMATIC_ROUTES",
 		"color": "#37474f"
 	}, {
-		"id": 8,
+		"id": 9,
 		"name": "STR_ROUTES",
 		"icon": "IC_ROUTES",
 		"action": "AC_ROUTES_OPEN",
 		"color": "#00a94f"
 	},
 	{
-		"id": 17,
+		"id": 10,
 		"name": "STR_BICYCLE_TOURING",
 		"icon": "IC_BICYCLE_TOURING",
 		"action": "AC_BICYCLE_TOURING",
 		"color": "#00bfa5"
 	},{
-		"id": 9,
+		"id": 11,
 		"name": "STR_TALKS",
 		"icon": "IC_TALKS",
 		"action": "AC_TALKS_OPEN",
 		"color": "#426ab3"
 	}, {
-		"id": 10,
+		"id": 12,
 		"name": "STR_POSTCARD",
 		"icon": "IC_POSTCARD",
 		"action": "AC_POSTCARD_OPEN",
 		"color": "#ff9100"
 	}, {
-		"id": 11,
+		"id": 13,
 		"name": "STR_GAMES",
 		"icon": "IC_GAMES",
 		"action": "AC_GAMES_OPEN",
 		"color": "#607d8b"
 	}, {
-		"id": 12,
+		"id": 14,
 		"name": "STR_AR",
 		"icon": "IC_AR",
 		"action": "AC_AR_OPEN",
 		"color": "#ff7043"
 	}, {
-		"id": 13,
+		"id": 15,
 		"name": "STR_NUMBERS",
 		"icon": "IC_NUMBERS",
 		"action": "AC_NUMBERS_OPEN",
 		"color": "#f44336"
 	}, {
-		"id": 14,
+		"id": 16,
 		"name": "STR_ASIST",
 		"icon": "IC_ASIST",
 		"action": "AC_ASIST_OPEN",
 		"color": "#2196f3"
 	}, {
-		"id": 15,
+		"id": 17,
 		"name": "STR_OPTIONS",
 		"icon": "IC_OPTIONS",
 		"action": "AC_OPTIONS_OPEN",
 		"color": "#003366"
 	}, {
-		"id": 16,
+		"id": 18,
 		"name": "STR_CHAT",
 		"icon": "IC_CHAT",
 		"action": "AC_CHAT_OPEN",
