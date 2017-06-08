@@ -1,0 +1,117 @@
+{
+  "timestamp": "2017-06-07T09:04:29.346Z",
+  "put": [
+    {
+      "id": 1,
+      "cat": "E1",
+      "name": "Pogotowie ratunkowe",
+      "desc": "Pogotowie ratunkowe w Krakowie",
+      "number": "303-256-723",
+      "areas": [
+        {
+          "point": {
+            "lon": 19.938573,
+            "lat": 50.062217
+          },
+          "rad": 10000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "cat": "E2",
+      "name": "Straż miejska",
+      "desc": "Telefon Dyżurny Komendy Straży Miejskiej",
+      "number": "303-256-723",
+      "areas": [
+        {
+          "point": {
+            "lon": 19.938573,
+            "lat": 50.062217
+          },
+          "rad": 10000
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "cat": "E3",
+      "name": "Straż pożarna",
+      "desc": "Straż pożarna w Krakowie",
+      "number": "303-256-723",
+      "areas": [
+        {
+          "point": {
+            "lon": 19.938573,
+            "lat": 50.062217
+          },
+          "rad": 10000
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "cat": "E4",
+      "name": "TOPR",
+      "desc": "Tatrzańskie Ochotnicze Pogotowie Ratunkowe",
+      "number": "303-256-723",
+      "areas": [
+        {
+          "point": {
+            "lon": 19.938573,
+            "lat": 50.062217
+          },
+          "rad": 10000
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "cat": "E5",
+      "name": "GOPR",
+      "desc": "Górskie Ochotnicze Pogotowie Ratunkowe",
+      "number": "303-256-723",
+      "areas": [
+        {
+          "point": {
+            "lon": 19.938573,
+            "lat": 50.062217
+          },
+          "rad": 10000
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "cat": "E6",
+      "name": "Policja",
+      "desc": "Komenda miejska Policji w Krakowie",
+      "number": "303-256-723",
+      "areas": [
+        {
+          "point": {
+            "lon": 19.938573,
+            "lat": 50.062217
+          },
+          "rad": 10000
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "cat": "E7",
+      "name": "112",
+      "desc": "Numer alarmowy 112",
+      "number": "303-256-723",
+      "areas": [
+        {
+          "point": {
+            "lon": 19.938573,
+            "lat": 50.062217
+          },
+          "rad": 10000
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+   "sysConfig": null,
+   "contentCats":    [
+            {
+         "code": "2802",
+         "type": "POI",
+         "name": "Atrakcje turystyczne",
+         "icon": null
+      },
+            {
+         "code": "2823",
+         "type": "POI",
+         "name": "Baza noclegowa",
+         "icon": null
+      },
+            {
+         "code": "2873",
+         "type": "POI",
+         "name": "Centra i punkty informacji turystycznej",
+         "icon": null
+      },
+            {
+         "code": "2837",
+         "type": "POI",
+         "name": "Gastronomia",
+         "icon": null
+      },
+            {
+         "code": "2868",
+         "type": "POI",
+         "name": "Informacje praktyczne",
+         "icon": null
+      },
+            {
+         "code": "2877",
+         "type": "POI",
+         "name": "Obiekty konferencyjne",
+         "icon": null
+      },
+            {
+         "code": "2864",
+         "type": "POI",
+         "name": "Oferty turystyczne",
+         "icon": null
+      },
+            {
+         "code": "2878",
+         "type": "POI",
+         "name": "Sale konferencyjne",
+         "icon": null
+      },
+            {
+         "code": "2813",
+         "type": "POI",
+         "name": "Wydarzenia",
+         "icon": null
+      },
+            {
+         "code": "2874",
+         "type": "POI",
+         "name": "Wypożyczalnie",
+         "icon": null
+      },
+            {
+         "code": "368605",
+         "type": "ART",
+         "name": "Atrakcje Małopolski",
+         "icon": null
+      },
+            {
+         "code": "368604",
+         "type": "ART",
+         "name": "Postacie Małopolski",
+         "icon": null
+      },
+            {
+         "code": "368602",
+         "type": "ART",
+         "name": "Ciekawostki",
+         "icon": null
+      },
+            {
+         "code": "368603",
+         "type": "ART",
+         "name": "Legendy",
+         "icon": null
+      },
+            {
+         "code": "368601",
+         "type": "ART",
+         "name": "Aktualności",
+         "icon": null
+      },
+             {
+         "code": "112112",
+         "type": "EVN",
+         "name": "Sport",
+         "icon": null
+      },
+            {
+         "code": "113113",
+         "type": "EVN",
+         "name": "Koncert",
+         "icon": null
+      },
+            {
+         "code": "E1",
+         "type": "NUM",
+         "name": "Pogotowie ratunkowe",
+         "icon": null
+      },
+            {
+         "code": "E2",
+         "type": "NUM",
+         "name": "Straż miejska",
+         "icon": null
+      },
+            {
+         "code": "E3",
+         "type": "NUM",
+         "name": "Straż pożarna",
+         "icon": null
+      },
+            {
+         "code": "E4",
+         "type": "NUM",
+         "name": "TOPR",
+         "icon": null
+      },
+            {
+         "code": "E5",
+         "type": "NUM",
+         "name": "GOPR",
+         "icon": null
+      },
+            {
+         "code": "E6",
+         "type": "NUM",
+         "name": "Policja",
+         "icon": null
+      },
+            {
+         "code": "E7",
+         "type": "NUM",
+         "name": "112",
+         "icon": null
+      },
+	  {
+         "code": "112233",
+         "type": "RTE",
+         "name": "Trasa turystyczna",
+         "icon": null
+      }
+   ],
+   "subRegions":    [
+            {
+         "code": "2902",
+         "name": "Beskidzki"
+      },
+            {
+         "code": "2903",
+         "name": "Krakowski"
+      },
+            {
+         "code": "2904",
+         "name": "Oświęcimski"
+      },
+            {
+         "code": "2905",
+         "name": "Tarnowski"
+      },
+            {
+         "code": "2906",
+         "name": "Tatrzański"
+      },
+            {
+         "code": "2907",
+         "name": "Wadowicki"
+      }
+   ],
+   "themeModules":    [
+            {
+         "code": "397210",
+         "name": "ACTIVE_SUMMER",
+         "desc": ""
+      },
+            {
+         "code": "397211",
+         "name": "ACTIVE_WINTER",
+         "desc": ""
+      },
+            {
+         "code": "458229",
+         "name": "Aktywnie jesienią",
+         "desc": ""
+      },
+            {
+         "code": "397213",
+         "name": "BICYCLE",
+         "desc": ""
+      },
+            {
+         "code": "368609",
+         "name": "For children",
+         "desc": ""
+      },
+            {
+         "code": "397214",
+         "name": "HEALTH_AND_BEATUY",
+         "desc": ""
+      },
+            {
+         "code": "454962",
+         "name": "MALOPOLSKA_FESTIVAL_OF_TASTE",
+         "desc": ""
+      },
+            {
+         "code": "397212",
+         "name": "MOUNTAINS",
+         "desc": ""
+      },
+            {
+         "code": "454961",
+         "name": "REGIONAL_DELIGHTS",
+         "desc": ""
+      },
+            {
+         "code": "454963",
+         "name": "REGIONAL_INNS",
+         "desc": ""
+      },
+            {
+         "code": "368610",
+         "name": "Sacrum",
+         "desc": ""
+      },
+            {
+         "code": "476309",
+         "name": "TRAILS",
+         "desc": ""
+      },
+            {
+         "code": "368608",
+         "name": "The First War Trail",
+         "desc": ""
+      },
+            {
+         "code": "368607",
+         "name": "VeloMalopolska",
+         "desc": ""
+      }
+   ],
+   "defPostCards": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Wieliczka-saltmine-kinga.jpg",
+      "desc": "Wieliczka"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Krakow_rynek_01.jpg/1280px-Krakow_rynek_01.jpg",
+      "desc": "Krakowski Rynek"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Krak%C3%B3w_widok_ze_statku_na_wi%C5%9Ble.jpg",
+      "desc": "Wawel"
+    }
+   ]
+}
