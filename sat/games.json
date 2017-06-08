@@ -1,0 +1,364 @@
+{
+  "timestamp": "2017-06-02T09:04:15.411Z",
+  "put": {
+    "games": [
+      {
+        "id": 1,
+        "name": "Wokół CA",
+        "description": "Punkty POI wokół CA",
+        "activeFrom": "2017-06-01T09:04:15.411Z",
+        "activeTo": "2017-06-30T23:59:59.411Z",
+        "showInApp": true
+      },
+      {
+        "id": 2,
+        "name": "Wokół CA 2",
+        "description": "Punkty POI wokół CA 2",
+        "activeFrom": "2017-06-01T09:04:15.411Z",
+        "activeTo": "2017-06-30T23:59:59.411Z",
+        "showInApp": true
+      }
+    ],
+    "conditions": [
+      {
+        "gameId": 1,
+        "key": "app.poi.id",
+        "value": "1011030",
+    "eventLoc": [
+          {
+            "location": {
+              "point": {
+                "lat": 50.080565,
+        "lon": 19.992576
+              },
+              "rad": 100
+            }
+          }
+        ]
+      },
+      {
+        "gameId": 1,
+        "key": "app.poi.id",
+        "value": "1011031",
+    "eventLoc": [
+          {
+            "location": {
+              "point": {
+                "lat": 50.081427,
+        "lon": 19.993984
+              },
+              "rad": 100
+            }
+          }
+        ]
+      },
+      {
+        "gameId": 1,
+        "key": "app.poi.id",
+        "value": "1011032",
+    "eventLoc": [
+          {
+            "location": {
+              "point": {
+                "lat": 50.079808,
+        "lon": 19.991977
+              },
+              "rad": 100
+            }
+          }
+        ]
+      },
+      {
+        "gameId": 1,
+        "key": "app.poi.id",
+        "value": "1011033",
+    "eventLoc": [
+          {
+            "location": {
+              "point": {
+                "lat": 50.079515,
+        "lon": 19.994436
+              },
+              "rad": 100
+            }
+          }
+        ]
+      },
+      {
+        "gameId": 1,
+        "key": "app.poi.id",
+        "value": "1011034",
+    "eventLoc": [
+          {
+            "location": {
+              "point": {
+                "lat": 50.079061,
+        "lon": 19.991306
+              },
+              "rad": 100
+            }
+          }
+        ]
+      },
+      {
+        "gameId": 1,
+        "key": "app.poi.id",
+        "value": "1011035",
+    "eventLoc": [
+          {
+            "location": {
+              "point": {
+                "lat": 50.079736,
+        "lon": 19.991010
+              },
+              "rad": 100
+            }
+          }
+        ]
+      },
+      {
+        "gameId": 1,
+        "key": "app.poi.id",
+        "value": "1011036",
+    "eventLoc": [
+          {
+            "location": {
+              "point": {
+                "lat": 50.079887,
+        "lon": 19.993419
+              },
+              "rad": 100
+            }
+          }
+        ]
+      },
+      {
+        "gameId": 1,
+        "key": "app.poi.id",
+        "value": "1011037",
+    "eventLoc": [
+          {
+            "location": {
+              "point": {
+                "lat": 50.080359,
+        "lon": 19.993859
+              },
+              "rad": 100
+            }
+          }
+        ]
+      },
+      {
+        "gameId": 1,
+        "key": "app.poi.id",
+        "value": "1011038",
+    "eventLoc": [
+          {
+            "location": {
+              "point": {
+                "lat": 50.081999,
+        "lon": 19.993904
+              },
+              "rad": 100
+            }
+          }
+        ]
+      },
+      {
+        "gameId": 1,
+        "key": "app.poi.id",
+        "value": "1011039",
+    "eventLoc": [
+          {
+            "location": {
+              "point": {
+                "lat": 50.078125,
+        "lon": 19.994570
+        },
+              "rad": 100
+            }
+          }
+        ]
+      },
+      {
+        "gameId": 2,
+        "key": "app.poi.id",
+        "value": "tag=SSE3",
+    "eventLoc": [
+          {
+            "location": {
+              "point": {
+                "lat": 50.080565,
+        "lon": 19.992576
+              },
+              "rad": 100
+            }
+          },
+          {
+            "location": {
+              "point": {
+                "lat": 50.081427,
+        "lon": 19.993984
+              },
+              "rad": 100
+            }
+          },
+          {
+            "location": {
+              "point": {
+                "lat": 50.079808,
+        "lon": 19.991977
+              },
+              "rad": 100
+            }
+          },
+          {
+            "location": {
+              "point": {
+                "lat": 50.079515,
+        "lon": 19.994436
+              },
+              "rad": 100
+            }
+          },
+          {
+            "location": {
+              "point": {
+                "lat": 50.079061,
+        "lon": 19.991306
+              },
+              "rad": 100
+            }
+          },
+          {
+            "location": {
+              "point": {
+                "lat": 50.079736,
+        "lon": 19.991010
+              },
+              "rad": 100
+            }
+          },
+          {
+            "location": {
+              "point": {
+                "lat": 50.079887,
+        "lon": 19.993419
+              },
+              "rad": 100
+            }
+          },
+          {
+            "location": {
+              "point": {
+                "lat": 50.080359,
+        "lon": 19.993859
+              },
+              "rad": 100
+            }
+          },
+          {
+            "location": {
+              "point": {
+                "lat": 50.081999,
+        "lon": 19.993904
+              },
+              "rad": 100
+            }
+          },
+          {
+            "location": {
+              "point": {
+                "lat": 50.078125,
+        "lon": 19.994570
+        },
+              "rad": 100
+            }
+          }
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "gameId": 1,
+        "completed": {
+          "badges": [
+            1
+          ],
+          "points": 1000
+        },
+        "progress": [
+    {
+          "result": 25,
+          "badges": [
+            2
+          ],
+          "points": 250
+        }, 
+    {
+          "result": 50,
+          "badges": [
+            2
+          ],
+          "points": 250
+        }, 
+    {
+          "result": 75,
+          "badges": [
+            2
+          ],
+          "points": 250
+        }, 
+    {
+          "result": 100,
+          "badges": [
+            2
+          ],
+          "points": 250
+        }
+    ]
+      },
+      {
+        "gameId": 2,
+        "completed": {
+          "badges": [
+            3, 4
+          ],
+          "points": 1000
+        }
+      }
+    ],
+    "badges": [
+      {
+        "id": 1,
+        "name": "Pracownik miesiąca",
+        "description": "Pracownik miesiąca",
+        "image": "http://media.istockphoto.com/vectors/male-employee-of-the-month-isolated-on-white-vector-id536874161",
+        "imageGained": "http://media.istockphoto.com/vectors/employee-of-the-month-burst-vector-id534603175"
+      },
+      {
+        "id": 2,
+        "name": "Pracownik tygodnia",
+        "description": "Pracownik miesiąca",
+        "image": "http://media.istockphoto.com/vectors/employee-of-the-week-vector-badge-vector-id642340554",
+        "imageGained": "http://media.istockphoto.com/vectors/employee-of-the-week-vector-badge-vector-id642340346"
+      },
+      {
+        "id": 3,
+        "name": "Gra zbiorcza",
+        "description": "Gra zbiorcza",
+        "image": "http://media.istockphoto.com/vectors/silver-coin-medal-vector-id468475689",
+        "imageGained": "http://media.istockphoto.com/vectors/gold-coin-medal-vector-id468475685"
+      },
+      {
+        "id": 4,
+        "name": "Gra zbiorcza",
+        "description": "Gra zbiorcza",
+        "image": "http://media.istockphoto.com/vectors/silver-coin-medal-vector-id468475689",
+        "imageGained": "http://media.istockphoto.com/vectors/gold-coin-medal-vector-id468475685"
+      }
+    ]
+  },
+  "del": {
+  }
+}

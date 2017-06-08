@@ -233,12 +233,12 @@
             "openHours": "08:00 - 20:00",
             "thumbnail": {
                 "id": 3,
-                "uri": "http://www.ceresit.pl/img/huge/284.jpg",
+                "uri": "http://www.trip-points.com/media/reviews/photos/thumbnail/128x128c/dd/8f/fa/267-main-market-square-rynek-19-1452454839.jpg",
                 "path": ""
             },
             "images": [{
                 "id": 1,
-                "uri": "http://www.krakow2016.com/media/cache/filemanager/rc/EXYufFl5/lp_baners/KRAKOW/RYNEK.jpg",
+                "uri": "http://www.krakowlife.pl/images/partydir/284.jpg",
                 "path": ""
             }],
 
@@ -246,7 +246,7 @@
 
             "localization": {
                 "description": "Rynek główny w Krakowie",
-                "image": "http://www.ceresit.pl/img/huge/284.jpg",
+                "image": "http://www.trip-points.com/media/reviews/photos/thumbnail/128x128c/dd/8f/fa/267-main-market-square-rynek-19-1452454839.jpg",
                 "coordinatesList": [{
                     "id": 0,
                     "lat": 50.0616285,
