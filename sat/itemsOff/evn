@@ -1,0 +1,272 @@
+{
+  "timestamp": "2017-06-07T08:18:06.456Z",
+  "put": [
+    {
+      "id": 0,
+      "type": "EVN",
+      "thumb": "https://cojestgrane.pl/l/3zhu.jpeg",
+      "title": "Zespół Mazowsze - koncert galowy",
+      "cat": "113113",
+      "mid": "01.06 12:00",
+      "desc": "TAURON Arena",
+      "fav": "false",
+      "con": "Państwowy Zespół Ludowy Pieśni i Tańca MAZOWSZE powraca do Krakowa z wielkim koncertem galowym! Wspaniałą atmosferę i niezapomniane wrażenia zapewni 120 tancerzy, śpiewaków i muzyków, ponad 1500 przepięknych kostiumów z 20 etnograficznych regionów Polski. W programie koncertu najpiękniejsze tańce: polonez, krakowiak, oberek, kujawiak i mazur oraz najpopularniejsze piosenki. Zespół Mazowsze noszący miano Ambasadora Kultury Polskiej – jest jednym z najbardziej znanych na świecie, polskich zespołów artystycznych, ściśle powiązanych z tradycją i kulturą ludową, narodowymi tańcami i piosenkami",
+      "imgs": [
+        "https://cojestgrane.pl/l/3zhu.jpeg",
+        "http://www.lawendowetarasy.pl/wp-content/uploads/2012/12/tyniec8323.jpg"
+      ],
+      "cats": [
+        "113113"
+      ],
+      "pubDate": "2017-05-21T08:18:06.456Z",
+      "startDate": "2017-06-01T12:00:00.456Z",
+      "endDate": "2017-06-02T12:00:00.456Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lat": 50.067635,
+            "lon": 19.990570,
+            "ele": 0
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "CNT",
+            "partValue": "Polska"
+          },          
+          {
+            "partType": "PRV",
+            "partValue": "Małopolskie"
+          },          
+          {
+            "partType": "DIS",
+            "partValue": "Krakowski"
+          },          
+          {
+            "partType": "COM",
+            "partValue": "Kraków"
+          },          
+          {
+            "partType": "CIT",
+            "partValue": "Kraków"
+          },          
+          {
+            "partType": "PCD",
+            "partValue": "31-571"
+          },          
+          {
+            "partType": "STR",
+            "partValue": "Stanisława Lema"
+          },          
+          {
+            "partType": "SNR",
+            "partValue": "7"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "123456789"
+          },
+          {
+            "conType": "WWW",
+            "conInfo": "example.com"
+          },
+          {
+            "conType": "EML",
+            "conInfo": "mail@mail.com"
+          },
+          {
+            "conType": "FAX",
+            "conInfo": "mail@mail.com"
+          }
+        ]
+      },
+      "www": "example.com",
+      "conContents": [
+        {
+          "type": "POI",
+          "id": 1011023,
+          "label": "Powiązane miejsce"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "type": "EVN",
+      "thumb": "http://allaboutmusic.pl/wp-content/uploads/2015/10/justyna-steczkowska-fot-michal-panszczyk.jpg",
+      "title": "Justyna Steczkowska akustycznie",
+      "cat": "113113",
+      "mid": "01.07 16:00",
+      "desc": "Teatr im. Juliusza Słowackiego",
+      "fav": "false",
+      "con": "Szamanka polskiej sceny muzycznej. Artystka nietuzinkowa, wszechstronnie uzdolniona, która do tej pory dała się poznać jako wokalistka, skrzypaczka, kompozytorka i autorka tekstów, aktorka oraz fotograf. Jest jedną z niewielu polskich wokalistek, która może pochwalić się 4-oktawową skalą głosu. Dzięki niesamowitemu talentowi zdobyła ogromne uznanie w branży muzycznej, a miliony Polaków pokochały ją za twórczość, charyzmę i niepowtarzalny styl.",
+      "imgs": [
+        "http://allaboutmusic.pl/wp-content/uploads/2015/10/justyna-steczkowska-fot-michal-panszczyk.jpg",
+        "http://cityfun24.pl/file/gig/217/516/dff2aeb4-9e0b-459a-b8e5-e4d2a1b1fe19.jpg"
+      ],
+      "cats": [
+        "113113"
+      ],
+      "pubDate": "2017-05-21T08:18:06.456Z",
+      "startDate": "2017-07-01T16:00:00.456Z",
+      "endDate": "2017-07-01T20:00:00.456Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lat": 50.063956,
+            "lon": 19.943096,
+            "ele": 0
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "CNT",
+            "partValue": "Polska"
+          },          
+          {
+            "partType": "PRV",
+            "partValue": "Małopolskie"
+          },
+          {
+            "partType": "DIS",
+            "partValue": "Krakowski"
+          },          
+          {
+            "partType": "COM",
+            "partValue": "Kraków"
+          },
+          {
+            "partType": "CIT",
+            "partValue": "Kraków"
+          },          
+          {
+            "partType": "PCD",
+            "partValue": "31-023"
+          },          
+          {
+            "partType": "STR",
+            "partValue": "plac Swietego Ducha"
+          },          
+          {
+            "partType": "SNR",
+            "partValue": "1"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "123456789"
+          },
+          {
+            "conType": "WWW",
+            "conInfo": "example.com"
+          },
+          {
+            "conType": "EML",
+            "conInfo": "mail@mail.com"
+          },
+          {
+            "conType": "FAX",
+            "conInfo": "mail@mail.com"
+          }
+        ]
+      },
+      "www": "example.com",
+      "conContents": [
+        {
+          "type": "POI",
+          "id": 101,
+          "label": "Powiązane miejsce"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "EVN",
+      "thumb": "http://images.popmatters.com/news_art/s/skunk-anansie-2012-500x250.jpg",
+      "title": "Skunk Anansie w Wadowicach",
+      "cat": "112112",
+      "mid": "09.07 20:00",
+      "desc": "Muzeum Dom Rodzinny Ojca Świętego Jana Pawła II w Wadowicach",
+      "fav": "false",
+      "con": "Ponad dwadzieścia niezwykłych lat, pełnych podróży po całym świecie i multiplatynowych wydawnictw. Jak mówi ikoniczna frontwomanka brytyjskiego Skunk Anansie, po takim czasie wciąż są outsiderami, ale dobrze się z tym czują: “To, co na początku twojej drogi świadczy o twojej inności, staje się tym, za co ludzie cię kochają.” – opowiada o historii zespołu.",
+      "imgs": [
+        "http://images.popmatters.com/news_art/s/skunk-anansie-2012-500x250.jpg"
+      ],
+      "cats": [
+        "112112",
+        "113113"
+      ],
+      "pubDate": "2017-05-21T08:18:06.456Z",
+      "startDate": "2017-07-09T20:00:00.456Z",
+      "endDate": "2017-07-09T22:00:00.456Z",
+      "dis": true,
+      "address": {
+        "location": {
+          "point": {
+            "lat": 49.883340, 
+            "lon": 19.493650,
+            "ele": 0
+          },
+          "rad": 100
+        },
+        "adrParts": [
+          {
+            "partType": "CNT",
+            "partValue": "Polska"
+          },          
+          {
+            "partType": "PRV",
+            "partValue": "Małopolskie"
+          },          
+          {
+            "partType": "DIS",
+            "partValue": "Wadowicki"
+          },          
+          {
+            "partType": "COM",
+            "partValue": "Wadowice"
+          },      
+          {
+            "partType": "CIT",
+            "partValue": "Wadowice"
+          },          
+          {
+            "partType": "PCD",
+            "partValue": "34-100"
+          },          
+          {
+            "partType": "STR",
+            "partValue": "Koscielna"
+          },          
+          {
+            "partType": "SNR",
+            "partValue": "7"
+          }
+        ]
+      },
+      "contact": {
+        "conItems": [
+          {
+            "conType": "TEL",
+            "conInfo": "123456789"
+          }
+        ]
+      },
+      "www": "example.com",
+      "conContents": [
+      ]
+    }
+  ],
+  "del": [
+  ]
+}
