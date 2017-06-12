@@ -178,78 +178,6 @@
          "name": "Wadowicki"
       }
    ],
-   "themeModules":    [
-            {
-         "code": "397210",
-         "name": "ACTIVE_SUMMER",
-         "desc": ""
-      },
-            {
-         "code": "397211",
-         "name": "ACTIVE_WINTER",
-         "desc": ""
-      },
-            {
-         "code": "458229",
-         "name": "Aktywnie jesienią",
-         "desc": ""
-      },
-            {
-         "code": "397213",
-         "name": "BICYCLE",
-         "desc": ""
-      },
-            {
-         "code": "368609",
-         "name": "For children",
-         "desc": ""
-      },
-            {
-         "code": "397214",
-         "name": "HEALTH_AND_BEATUY",
-         "desc": ""
-      },
-            {
-         "code": "454962",
-         "name": "MALOPOLSKA_FESTIVAL_OF_TASTE",
-         "desc": ""
-      },
-            {
-         "code": "397212",
-         "name": "MOUNTAINS",
-         "desc": ""
-      },
-            {
-         "code": "454961",
-         "name": "REGIONAL_DELIGHTS",
-         "desc": ""
-      },
-            {
-         "code": "454963",
-         "name": "REGIONAL_INNS",
-         "desc": ""
-      },
-            {
-         "code": "368610",
-         "name": "Sacrum",
-         "desc": ""
-      },
-            {
-         "code": "476309",
-         "name": "TRAILS",
-         "desc": ""
-      },
-            {
-         "code": "368608",
-         "name": "The First War Trail",
-         "desc": ""
-      },
-            {
-         "code": "368607",
-         "name": "VeloMalopolska",
-         "desc": ""
-      }
-   ],
    "defPostCards": [
     {
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Wieliczka-saltmine-kinga.jpg",
@@ -263,5 +191,117 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Krak%C3%B3w_widok_ze_statku_na_wi%C5%9Ble.jpg",
       "desc": "Wawel"
     }
-   ]
+   ],
+  "modules": [
+	{
+		"id": 1,
+		"name": "STR_MAIN",
+		"icon": "IC_MAIN",
+		"code": "MAIN",
+		"color": "#314f88"
+	}, {
+		"id": 2,
+		"name": "STR_NEWS",
+		"icon": "IC_NEWS",
+		"code": "NEWS",
+		"color": "#ec008c"
+	}, {
+		"id": 3,
+		"name": "STR_EVENTS",
+		"icon": "IC_EVENTS",
+		"code": "EVENTS",
+		"color": "#5c2d91"
+	}, {
+		"id": 4,
+		"name": "STR_POI",
+		"icon": "IC_POI",
+		"code": "POI",
+		"color": "#00b9f1"
+	}, {
+		"id": 5,
+		"name": "STR_FAV",
+		"icon": "IC_FAV",
+		"code": "FAV",
+		"color": "#F2D210"
+	}, {
+		"id": 6,
+		"name": "STR_MAP",
+		"icon": "IC_MAP",
+		"code": "MAP",
+		"color": "#8cc63f"
+	}, {
+		"id": 7,
+		"name": "STR_TRAVEL_PLAN",
+		"icon": "IC_TRAVEL_PLAN",
+		"code": "TRAVEL_PLAN",
+		"color": "#ffc20e"
+	}, {
+		"id": 8,
+		"name": "STR_THEMATIC_ROUTES",
+		"icon": "IC_THEMATIC_ROUTES",
+		"code": "THEMATIC_ROUTES",
+		"color": "#37474f"
+	}, {
+		"id": 9,
+		"name": "STR_ROUTES",
+		"icon": "IC_ROUTES",
+		"code": "ROUTES",
+		"color": "#00a94f"
+	},
+	{
+		"id": 10,
+		"name": "STR_BICYCLE_TOURING",
+		"icon": "IC_BICYCLE_TOURING",
+		"code": "BICYCLE_TOURING",
+		"color": "#00bfa5"
+	},{
+		"id": 11,
+		"name": "STR_TALKS",
+		"icon": "IC_TALKS",
+		"code": "TALKS",
+		"color": "#426ab3"
+	}, {
+		"id": 12,
+		"name": "STR_POSTCARD",
+		"icon": "IC_POSTCARD",
+		"code": "POSTCARD",
+		"color": "#ff9100"
+	}, {
+		"id": 13,
+		"name": "STR_GAMES",
+		"icon": "IC_GAMES",
+		"code": "GAMES",
+		"color": "#607d8b"
+	}, {
+		"id": 14,
+		"name": "STR_AR",
+		"icon": "IC_AR",
+		"code": "AR",
+		"color": "#ff7043"
+	}, {
+		"id": 15,
+		"name": "STR_NUMBERS",
+		"icon": "IC_NUMBERS",
+		"code": "NUMBERS",
+		"color": "#f44336"
+	}, {
+		"id": 16,
+		"name": "STR_ASIST",
+		"icon": "IC_ASIST",
+		"code": "ASIST",
+		"color": "#2196f3"
+	}, {
+		"id": 17,
+		"name": "STR_OPTIONS",
+		"icon": "IC_OPTIONS",
+		"code": "OPTIONS",
+		"color": "#003366"
+	}, {
+		"id": 18,
+		"name": "STR_CHAT",
+		"icon": "IC_CHAT",
+		"code": "CHAT",
+		"color": "#009e7b"
+	}  
+	]
 }
