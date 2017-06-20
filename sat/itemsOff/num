@@ -103,15 +103,7 @@
       "name": "112",
       "desc": "Numer alarmowy 112",
       "number": "303-256-723",
-      "areas": [
-        {
-          "point": {
-            "lon": 19.938573,
-            "lat": 50.062217
-          },
-          "rad": 10000
-        }
-      ]
+      "areas": []
     }
   ]
 }
