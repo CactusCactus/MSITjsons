@@ -3,63 +3,45 @@
   "put": [
     {
       "id": 397210,
-      "type": "THM",
       "thumb": "",
       "title": "ACTIVE_SUMMER",
-      "cat": "",
-      "mid": "",
-      "desc": "",
-      "fav": "false"
+      "modType: "OTHR",
+      "desc": ""
     },
     {
       "id": 397211,
-      "type": "THM",
       "thumb": "",
       "title": "ACTIVE_WINTER",
-      "cat": "",
-      "mid": "",
-      "desc": "",
-      "fav": "false"
+      "modType": "OTHR",
+      "desc": ""
     },
     {
       "id": 458229,
-      "type": "THM",
       "thumb": "",
       "title": "Aktywnie jesienią",
-      "cat": "",
-      "mid": "",
-      "desc": "",
-      "fav": "false"
+      "modType", "OTHR",
+      "desc": ""
     },
     {
       "id": 397213,
-      "type": "THM",
       "thumb": "",
       "title": "BICYCLE",
-      "cat": "",
-      "mid": "",
-      "desc": "",
-      "fav": "true"
+      "modType": "BIKE",
+      "desc": ""
     },
     {
       "id": 368609,
-      "type": "THM",
       "thumb": "",
       "title": "For children",
-      "cat": "",
-      "mid": "",
-      "desc": "",
-      "fav": "true"
+      "modType": "OTHR",
+      "desc": ""
     },
     {
       "id": 397214,
-      "type": "THM",
       "thumb": "",
       "title": "HEALTH_AND_BEATUY",
-      "cat": "",
-      "mid": "",
-      "desc": "",
-      "fav": "true"
+      "modType": "OTHR",
+      "desc": ""
     }
   ],
   "putItems": [
