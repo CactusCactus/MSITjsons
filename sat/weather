@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "name": "Kraków",
+    "location": {
+            "lon": 19.9355152,
+            "lat": 50.0544295,
+            "ele": 5
+    },
+    "poiId": 1011023,
+    "indicators": [
+      {
+        "key": "Temperatura",
+        "value": "11"
+      },
+      {
+        "key": "Opad",
+        "value": "11 mm"
+      },
+      {
+        "key": "Ciśnienie",
+        "value": "1020 hPa"
+      },
+      {
+        "key": "Wiatr",
+        "value": "11 m/s NNW"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Tyniec",
+    "location": {
+            "lon": 19.7999898,
+            "lat": 50.0188018,
+            "ele": 5
+    },
+    "poiId": 101,
+    "indicators": [
+      {
+        "key": "Temperatura",
+        "value": "22"
+      },
+      {
+        "key": "Opad",
+        "value": "22 mm"
+      },
+      {
+        "key": "Ciśnienie",
+        "value": "1020 hPa"
+      },
+      {
+        "key": "Wiatr",
+        "value": "22 m/s NNW"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Krynica",
+    "location": {
+            "lon": 20.956461,
+            "lat": 49.4243309,
+            "ele": 5
+    },
+    "poiId": 102,
+    "indicators": [
+      {
+        "key": "Temperatura",
+        "value": "33"
+      },
+      {
+        "key": "Opad",
+        "value": "33 mm"
+      },
+      {
+        "key": "Ciśnienie",
+        "value": "1020 hPa"
+      },
+      {
+        "key": "Wiatr",
+        "value": "33 m/s NNW"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mogiła",
+    "location": {
+            "lon": 20.052991,
+            "lat": 50.0645359,
+            "ele": 5
+    },
+    "poiId": 1011026,
+    "indicators": [
+      {
+        "key": "Temperatura",
+        "value": "44"
+      },
+      {
+        "key": "Opad",
+        "value": "44 mm"
+      },
+      {
+        "key": "Ciśnienie",
+        "value": "1020 hPa"
+      },
+      {
+        "key": "Wiatr",
+        "value": "44 m/s NNW"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Oświęcim",
+    "location": {
+            "lon": 19.2019891217433,
+            "lat": 50.0274002812057,
+            "ele": 5
+    },
+    "poiId": 1011027,
+    "indicators": [
+      {
+        "key": "Temperatura",
+        "value": "55"
+      },
+      {
+        "key": "Opad",
+        "value": "55 mm"
+      },
+      {
+        "key": "Ciśnienie",
+        "value": "1020 hPa"
+      },
+      {
+        "key": "Wiatr",
+        "value": "55 m/s NNW"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Wieliczka",
+    "location": {
+            "lon": 20.0647971,
+            "lat": 49.9870619,
+            "ele": 5
+    },
+    "poiId": 1011028,
+    "indicators": [
+      {
+        "key": "Temperatura",
+        "value": "66"
+      },
+      {
+        "key": "Opad",
+        "value": "66 mm"
+      },
+      {
+        "key": "Ciśnienie",
+        "value": "1020 hPa"
+      },
+      {
+        "key": "Wiatr",
+        "value": "66 m/s NNW"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Kalwaria",
+    "location": {
+            "lon": 19.6695502,
+            "lat": 49.8604865,
+            "ele": 5
+    },
+    "poiId": 1011029,
+    "indicators": [
+      {
+        "key": "Temperatura",
+        "value": "77"
+      },
+      {
+        "key": "Opad",
+        "value": "77 mm"
+      },
+      {
+        "key": "Ciśnienie",
+        "value": "1020 hPa"
+      },
+      {
+        "key": "Wiatr",
+        "value": "77 m/s NNW"
+      }
+    ]
+  }
+]
