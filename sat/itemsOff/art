@@ -1,6 +1,36 @@
 {
   "timestamp": "2017-06-07T06:52:00.765Z",
   "put": [
+  {
+      "id": 44,
+      "type": "ART",
+      "thumb": "http://archiwum.sadeczanin.info/media/gallery/2013/2015-06/Remek%20LIPIEC/slajder_KTHlogo1928gk-is-106.jpg",
+      "title": "KTH wraca do ekstraligi",
+      "cat": "368601",
+      "mid": "24 Czerwca 2017, 12:00",
+      "desc": "Zarząd KTH",
+      "fav": "true",
+      "con": "Po dwóch latach KTH wraca na mapę polskeigo hokeja! Po 15 latach znalazł się godny sponsor. COMARCH opuszcza Cracovię i inwestuje w mineralnych. "To miasto ma w duszy hokej" - tłumaczy Prezes.",
+      "imgs": [
+        "http://jastrzebieonline.pl/files/gallery/703/5276b9137534d.jpg",
+		"http://www.przegladsportowy.pl/m/Repozytorium.Podglad.aspx/-860/-512/przegladsportowy/635168662710067411.jpg",
+		"https://s.tvp.pl/images2/5/5/1/uid_55131b256542e0696a9898cfe05729171386121184147_width_267_play_0_pos_0_gs_0_height_150.jpg"
+      ],
+      "cats": [
+        "368601",
+        "368602"
+      ],
+      "pubDate": "2017-01-01T12:00:00.765Z",
+      "endDate": "2017-02-01T12:00:00.765Z",
+      "www": "example.com",
+      "conContents": [
+        {
+          "type": "POI",
+          "id": 1011038,
+          "label": "Powiązane miejsce"
+        }
+      ]
+    },
     {
       "id": 0,
       "type": "ART",
