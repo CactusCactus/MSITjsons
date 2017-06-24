@@ -1,6 +1,36 @@
 {
   "timestamp": "2017-06-07T06:52:00.765Z",
   "put": [
+   {
+      "id": 45,
+      "type": "ART",
+      "thumb": "http://www.hokej.net/pl/galeria,getZdjecieSlideShow,217441,patryk-wronka.jpg",
+      "title": "W KTH zagra Patryk Wronka",
+      "cat": "368601",
+      "mid": "24 Czerwca 2017, 13:00",
+      "desc": "Zarząd KTH",
+      "fav": "true",
+      "con": "Jak informuje hokejportal.cz, klub ze Znojma rozstanie się praktycznie ze wszystkimi obcokrajowcami. Wraz z Wronką z klubem pożegnają się Marek Biro, Sean McMonagle, André Lakos, Adam Huhhesman, Teddy Da Costa. Działacze nie oszczędzą także ikony klubu Petera Puchera, który spędził w ekipie spod znaku Orła 14 sezonów.",
+      "imgs": [
+        "http://www.przegladsportowy.pl/m/Repozytorium.Podglad.aspx/-860/-512/przegladsportowy/635980748255710323.jpg",
+		"http://www.przegladsportowy.pl/m/Repozytorium.Podglad.aspx/1200/0/przegladsportowy/635974678667598393.jpg",
+		"https://s.tvp.pl/images2/5/5/1/uid_55131b256542e0696a9898cfe05729171386121184147_width_267_play_0_pos_0_gs_0_height_150.jpg"
+      ],
+      "cats": [
+        "368601",
+        "368602"
+      ],
+      "pubDate": "2017-01-01T12:00:00.765Z",
+      "endDate": "2017-02-01T12:00:00.765Z",
+      "www": "example.com",
+      "conContents": [
+        {
+          "type": "POI",
+          "id": 1011038,
+          "label": "Powiązane miejsce"
+        }
+      ]
+    },
   {
       "id": 44,
       "type": "ART",
