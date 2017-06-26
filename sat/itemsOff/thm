@@ -4,14 +4,14 @@
     {
       "id": 397210,
       "thumb": "",
-      "title": "ACTIVE_SUMMER",
-      "modType: "OTHR",
+      "title": "Aktywnie latem",
+      "modType": "OTHR",
       "desc": ""
     },
     {
       "id": 397211,
       "thumb": "",
-      "title": "ACTIVE_WINTER",
+      "title": "Aktywnie zimą",
       "modType": "OTHR",
       "desc": ""
     },
@@ -19,7 +19,7 @@
       "id": 458229,
       "thumb": "",
       "title": "Aktywnie jesienią",
-      "modType", "OTHR",
+      "modType": "OTHR",
       "desc": ""
     },
     {
@@ -32,14 +32,14 @@
     {
       "id": 368609,
       "thumb": "",
-      "title": "For children",
+      "title": "Dla dzieci",
       "modType": "OTHR",
       "desc": ""
     },
     {
       "id": 397214,
       "thumb": "",
-      "title": "HEALTH_AND_BEATUY",
+      "title": "Zdrowie i piękno",
       "modType": "OTHR",
       "desc": ""
     }

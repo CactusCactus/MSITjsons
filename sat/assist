@@ -2,7 +2,7 @@
   {
     "id": 101,
     "type": "POI",
-    "thumb": "http://www.drodd.com/images15/c5.png",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Church_of_St.Peter_and_St.Paul_and_Benedictine_Monastery_%28Abbey_in_Tyniec%29%2C_37_Benedykty%C5%84ska_street%2C_Tyniec%2C_Krakow%2C_Poland.jpg/200px-Church_of_St.Peter_and_St.Paul_and_Benedictine_Monastery_%28Abbey_in_Tyniec%29%2C_37_Benedykty%C5%84ska_street%2C_Tyniec%2C_Krakow%2C_Poland.jpg",
     "title": "Opactwo Benedyktynów w Tyńcu",
     "cat": "2802",
     "mid": "Opactwo benedyktynów w Tyńcu wraz z kościołem św. Piotra i św. Pawła",
@@ -22,7 +22,7 @@
   {
     "id": 1011024,
     "type": "POI",
-    "thumb": "http://www.ceresit.pl/img/huge/284.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG/240px-Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG",
     "title": "Rynek Główny w Krakowie",
     "cat": "2802",
     "mid": "Rynek Główny to serce królewskiego miasta Krakowa.",
