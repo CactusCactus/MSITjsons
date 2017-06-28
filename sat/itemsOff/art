@@ -28,6 +28,11 @@
           "type": "POI",
           "id": 1011038,
           "label": "Powiązane miejsce"
+        },
+	{
+          "type": "MTM",
+          "id": 13227638,
+          "label": "Audioguide"
         }
       ]
     },
