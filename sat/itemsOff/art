@@ -231,6 +231,60 @@
           "label": "Powiązane miejsce"
         }
       ]
+    },
+    {
+      "id": 7,
+      "type": "ART",
+      "thumb": "http://mpi.krakow.pl/zalacznik/285457/4.jpg",
+      "title": "W Krakowie powstanie kolejna plaża nad Wisłą",
+      "cat": "368601",
+      "mid": "Mid text should be removed",
+      "desc": "Wydział Promocji i Turystyki UMK",
+      "fav": "false",
+      "con": "Nowa plaża nad Wisłą powstanie niedaleko ul. Księcia Józefa. Mieszkańcy będą mogli z niej korzystać w drugiej połowie lipca. Inwestycję koordynuje Zarząd Infrastruktury Sportowej.",
+      "imgs": [
+        "http://mpi.krakow.pl/zalacznik/285457/4.jpg"
+      ],
+      "cats": [
+        "368601"
+      ],
+      "pubDate": "2017-07-06T11:00:00.765Z",
+      "endDate": "2017-08-06T12:00:00.765Z",
+      "www": "http://krakow.pl/aktualnosci/211529,29,komunikat,w_krakowie_powstanie_kolejna_plaza_nad_wisla.html",
+      "conContents": [
+        {
+          "type": "POI",
+          "id": 1011024,
+          "label": "Powiązane miejsce"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "ART",
+      "thumb": "http://mpi.krakow.pl/zalacznik/285406/4.jpg",
+      "title": "Międzynarodowy Festiwal Teatrów Ulicznych rozpoczęty",
+      "cat": "368601",
+      "mid": "Mid text should be removed",
+      "desc": "Wydział Promocji i Turystyki UMK",
+      "fav": "false",
+      "con": "5 lipca o godz. 18.00 na Rynku Głównym parada grup teatralnych z Niemiec, Francji i Polski rozpoczęła jubileuszowy Międzynarodowy Festiwal Teatrów Ulicznych 30. ULICA. Twórcy przedstawień będą nawiązywać do powieści Raya Bradbury'ego „Fahrenheit 451”.",
+      "imgs": [
+        "http://mpi.krakow.pl/zalacznik/285406/4.jpg"
+      ],
+      "cats": [
+        "368601"
+      ],
+      "pubDate": "2017-07-06T13:00:00.765Z",
+      "endDate": "2017-07-08T12:00:00.765Z",
+      "www": "example.com",
+      "conContents": [
+        {
+          "type": "POI",
+          "id": 1011024,
+          "label": "Powiązane miejsce"
+        }
+      ]
     }
   ],
   "del": [

@@ -209,7 +209,7 @@
       "pubDate": "2017-05-21T08:18:06.456Z",
       "startDate": "2017-07-09T20:00:00.456Z",
       "endDate": "2017-07-09T22:00:00.456Z",
-      "dis": true,
+      "dis": false,
       "address": {
         "location": {
           "point": {
