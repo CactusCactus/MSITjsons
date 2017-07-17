@@ -16,7 +16,7 @@
         "description": "Punkty POI wokół CA 2",
         "activeFrom": "2017-06-01T09:04:15.411Z",
         "activeTo": "2017-06-30T23:59:59.411Z",
-        "showInApp": true
+        "showInApp": false
       }
     ],
     "conditions": [
