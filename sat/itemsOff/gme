@@ -1,364 +1,407 @@
 {
-  "timestamp": "2017-06-02T09:04:15.411Z",
-  "put": {
-    "games": [
-      {
-        "id": 1,
-        "name": "Wokół CA",
-        "description": "Punkty POI wokół CA",
-        "activeFrom": "2017-06-01T09:04:15.411Z",
-        "activeTo": "2017-06-30T23:59:59.411Z",
-        "showInApp": true
-      },
-      {
-        "id": 2,
-        "name": "Wokół CA 2",
-        "description": "Punkty POI wokół CA 2",
-        "activeFrom": "2017-06-01T09:04:15.411Z",
-        "activeTo": "2017-06-30T23:59:59.411Z",
-        "showInApp": false
-      }
-    ],
-    "conditions": [
-      {
-        "gameId": 1,
-        "key": "app.poi.id",
-        "value": "1011030",
-    "eventLoc": [
-          {
-            "location": {
-              "point": {
-                "lat": 50.080565,
-        "lon": 19.992576
-              },
-              "rad": 100
-            }
-          }
-        ]
-      },
-      {
-        "gameId": 1,
-        "key": "app.poi.id",
-        "value": "1011031",
-    "eventLoc": [
-          {
-            "location": {
-              "point": {
-                "lat": 50.081427,
-        "lon": 19.993984
-              },
-              "rad": 100
-            }
-          }
-        ]
-      },
-      {
-        "gameId": 1,
-        "key": "app.poi.id",
-        "value": "1011032",
-    "eventLoc": [
-          {
-            "location": {
-              "point": {
-                "lat": 50.079808,
-        "lon": 19.991977
-              },
-              "rad": 100
-            }
-          }
-        ]
-      },
-      {
-        "gameId": 1,
-        "key": "app.poi.id",
-        "value": "1011033",
-    "eventLoc": [
-          {
-            "location": {
-              "point": {
-                "lat": 50.079515,
-        "lon": 19.994436
-              },
-              "rad": 100
-            }
-          }
-        ]
-      },
-      {
-        "gameId": 1,
-        "key": "app.poi.id",
-        "value": "1011034",
-    "eventLoc": [
-          {
-            "location": {
-              "point": {
-                "lat": 50.079061,
-        "lon": 19.991306
-              },
-              "rad": 100
-            }
-          }
-        ]
-      },
-      {
-        "gameId": 1,
-        "key": "app.poi.id",
-        "value": "1011035",
-    "eventLoc": [
-          {
-            "location": {
-              "point": {
-                "lat": 50.079736,
-        "lon": 19.991010
-              },
-              "rad": 100
-            }
-          }
-        ]
-      },
-      {
-        "gameId": 1,
-        "key": "app.poi.id",
-        "value": "1011036",
-    "eventLoc": [
-          {
-            "location": {
-              "point": {
-                "lat": 50.079887,
-        "lon": 19.993419
-              },
-              "rad": 100
-            }
-          }
-        ]
-      },
-      {
-        "gameId": 1,
-        "key": "app.poi.id",
-        "value": "1011037",
-    "eventLoc": [
-          {
-            "location": {
-              "point": {
-                "lat": 50.080359,
-        "lon": 19.993859
-              },
-              "rad": 100
-            }
-          }
-        ]
-      },
-      {
-        "gameId": 1,
-        "key": "app.poi.id",
-        "value": "1011038",
-    "eventLoc": [
-          {
-            "location": {
-              "point": {
-                "lat": 50.081999,
-        "lon": 19.993904
-              },
-              "rad": 100
-            }
-          }
-        ]
-      },
-      {
-        "gameId": 1,
-        "key": "app.poi.id",
-        "value": "1011039",
-    "eventLoc": [
-          {
-            "location": {
-              "point": {
-                "lat": 50.078125,
-        "lon": 19.994570
-        },
-              "rad": 100
-            }
-          }
-        ]
-      },
-      {
-        "gameId": 2,
-        "key": "app.poi.id",
-        "value": "tag=SSE3",
-    "eventLoc": [
-          {
-            "location": {
-              "point": {
-                "lat": 50.080565,
-        "lon": 19.992576
-              },
-              "rad": 100
-            }
-          },
-          {
-            "location": {
-              "point": {
-                "lat": 50.081427,
-        "lon": 19.993984
-              },
-              "rad": 100
-            }
-          },
-          {
-            "location": {
-              "point": {
-                "lat": 50.079808,
-        "lon": 19.991977
-              },
-              "rad": 100
-            }
-          },
-          {
-            "location": {
-              "point": {
-                "lat": 50.079515,
-        "lon": 19.994436
-              },
-              "rad": 100
-            }
-          },
-          {
-            "location": {
-              "point": {
-                "lat": 50.079061,
-        "lon": 19.991306
-              },
-              "rad": 100
-            }
-          },
-          {
-            "location": {
-              "point": {
-                "lat": 50.079736,
-        "lon": 19.991010
-              },
-              "rad": 100
-            }
-          },
-          {
-            "location": {
-              "point": {
-                "lat": 50.079887,
-        "lon": 19.993419
-              },
-              "rad": 100
-            }
-          },
-          {
-            "location": {
-              "point": {
-                "lat": 50.080359,
-        "lon": 19.993859
-              },
-              "rad": 100
-            }
-          },
-          {
-            "location": {
-              "point": {
-                "lat": 50.081999,
-        "lon": 19.993904
-              },
-              "rad": 100
-            }
-          },
-          {
-            "location": {
-              "point": {
-                "lat": 50.078125,
-        "lon": 19.994570
-        },
-              "rad": 100
-            }
-          }
-        ]
-      }
-    ],
-    "awards": [
-      {
-        "gameId": 1,
-        "completed": {
-          "badges": [
-            1
-          ],
-          "points": 1000
-        },
-        "progress": [
-    {
-          "result": 25,
-          "badges": [
-            2
-          ],
-          "points": 250
-        }, 
-    {
-          "result": 50,
-          "badges": [
-            2
-          ],
-          "points": 250
-        }, 
-    {
-          "result": 75,
-          "badges": [
-            2
-          ],
-          "points": 250
-        }, 
-    {
-          "result": 100,
-          "badges": [
-            2
-          ],
-          "points": 250
-        }
-    ]
-      },
-      {
-        "gameId": 2,
-        "completed": {
-          "badges": [
-            3, 4
-          ],
-          "points": 1000
-        }
-      }
-    ],
-    "badges": [
-      {
-        "id": 1,
-        "name": "Pracownik miesiąca",
-        "description": "Pracownik miesiąca",
-        "image": "http://media.istockphoto.com/vectors/male-employee-of-the-month-isolated-on-white-vector-id536874161",
-        "imageGained": "http://media.istockphoto.com/vectors/employee-of-the-month-burst-vector-id534603175"
-      },
-      {
-        "id": 2,
-        "name": "Pracownik tygodnia",
-        "description": "Pracownik miesiąca",
-        "image": "http://media.istockphoto.com/vectors/employee-of-the-week-vector-badge-vector-id642340554",
-        "imageGained": "http://media.istockphoto.com/vectors/employee-of-the-week-vector-badge-vector-id642340346"
-      },
-      {
-        "id": 3,
-        "name": "Gra zbiorcza",
-        "description": "Gra zbiorcza",
-        "image": "http://media.istockphoto.com/vectors/silver-coin-medal-vector-id468475689",
-        "imageGained": "http://media.istockphoto.com/vectors/gold-coin-medal-vector-id468475685"
-      },
-      {
-        "id": 4,
-        "name": "Gra zbiorcza",
-        "description": "Gra zbiorcza",
-        "image": "http://media.istockphoto.com/vectors/silver-coin-medal-vector-id468475689",
-        "imageGained": "http://media.istockphoto.com/vectors/gold-coin-medal-vector-id468475685"
-      }
-    ]
-  },
-  "del": {
-  }
+   "timestamp": "2017-07-18 12:30:12",
+   "put":    {
+      "games":       [
+                  {
+            "id": 3,
+            "name": "Zabytkowe kościoły Krakowa",
+            "description": "Czy widziałeś wszystkie zabytkowe kościoły w Krakowie? Podejmij wyzwanie i odwiedź je!! Zobacz jak dawna architektura poruszała..",
+            "activeFrom": "2017-07-01 00:00:00",
+            "activeTo": "2017-12-31 23:55:00",
+            "showInApp": true
+         },
+                  {
+            "id": 6,
+            "name": "Ruch to zdrowie",
+            "description": "Odwiedź małopolskie atrakcje turystyczne",
+            "activeFrom": "2017-07-08 00:00:00",
+            "activeTo": "2018-01-01 00:00:00",
+            "showInApp": true
+         },
+                  {
+            "id": 16,
+            "name": "Wadowice oczami młodego Karola Wojtyły",
+            "description": "Odwiedź rodzinne miasto Karola Wojtyły",
+            "activeFrom": "2017-07-01 00:00:00",
+            "activeTo": "2017-12-01 00:00:00",
+            "showInApp": false
+         },
+                  {
+            "id": 17,
+            "name": "Wadowice oczami młodego Karola Wojtyły",
+            "description": "Odwiedź rodzinne miasto Karola Wojtyły \n",
+            "activeFrom": "2017-07-01 00:00:00",
+            "activeTo": "2017-12-01 00:00:00",
+            "showInApp": true
+         }
+      ],
+      "conditions":       [
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "101"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "102"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "1011023"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "1011024"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "1011025"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "1011026"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "1011027"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "1011028"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "1011029"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "1011030"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "1011031"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "1011032"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "1011033"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "1011035"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "1011036"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "1011037"
+         },
+                  {
+            "gameId": 6,
+            "key": "app.poi.id",
+            "value": "1011038"
+         },
+                  {
+            "gameId": 17,
+            "key": "app.poi.id",
+            "value": "101"
+         },
+                  {
+            "gameId": 17,
+            "key": "app.poi.id",
+            "value": "102"
+         },
+                  {
+            "gameId": 17,
+            "key": "app.poi.id",
+            "value": "1011023"
+         },
+                  {
+            "gameId": 17,
+            "key": "app.route.coordinate",
+            "value": "49.88557x19.49248"
+         },
+                  {
+            "gameId": 17,
+            "key": "app.route.coordinate",
+            "value": "49.88347x19.48967"
+         },
+                  {
+            "gameId": 17,
+            "key": "app.route.coordinate",
+            "value": "49.88367x19.4933"
+         },
+                  {
+            "gameId": 17,
+            "key": "app.route.coordinate",
+            "value": "49.87553x19.49785"
+         },
+                  {
+            "gameId": 17,
+            "key": "app.route.coordinate",
+            "value": "49.88269x19.49402"
+         },
+                  {
+            "gameId": 3,
+            "key": "app.poi.id",
+            "value": "1011023"
+         },
+                  {
+            "gameId": 3,
+            "key": "app.poi.id",
+            "value": "1011024"
+         },
+                  {
+            "gameId": 3,
+            "key": "app.poi.id",
+            "value": "1011025"
+         },
+                  {
+            "gameId": 3,
+            "key": "app.poi.id",
+            "value": "1011026"
+         },
+                  {
+            "gameId": 3,
+            "key": "app.poi.id",
+            "value": "1011027"
+         },
+                  {
+            "gameId": 3,
+            "key": "app.poi.id",
+            "value": "1011028"
+         },
+                  {
+            "gameId": 3,
+            "key": "app.poi.id",
+            "value": "1011029"
+         },
+                  {
+            "gameId": 3,
+            "key": "app.poi.id",
+            "value": "1011030"
+         },
+                  {
+            "gameId": 3,
+            "key": "app.poi.id",
+            "value": "1011031"
+         },
+                  {
+            "gameId": 3,
+            "key": "app.poi.id",
+            "value": "1011032"
+         },
+                  {
+            "gameId": 3,
+            "key": "app.poi.id",
+            "value": "1011033"
+         }
+      ],
+      "awards":       [
+                  {
+            "gameId": 6,
+            "completed":             {
+               "badges": [13],
+               "points": 1000
+            },
+            "progress":             [
+                              {
+                  "result": 10,
+                  "badges": [4],
+                  "points": 50
+               },
+                              {
+                  "result": 20,
+                  "badges": [5],
+                  "points": 100
+               },
+                              {
+                  "result": 30,
+                  "badges": [6],
+                  "points": 100
+               },
+                              {
+                  "result": 40,
+                  "badges": [7],
+                  "points": 100
+               },
+                              {
+                  "result": 50,
+                  "badges": [8],
+                  "points": 100
+               },
+                              {
+                  "result": 60,
+                  "badges": [9],
+                  "points": 100
+               },
+                              {
+                  "result": 70,
+                  "badges": [10],
+                  "points": 100
+               },
+                              {
+                  "result": 80,
+                  "badges": [11],
+                  "points": 100
+               },
+                              {
+                  "result": 90,
+                  "badges": [12],
+                  "points": 100
+               }
+            ]
+         },
+                  {
+            "gameId": 17,
+            "completed":             {
+               "badges": [13],
+               "points": 500
+            },
+            "progress": [            {
+               "result": 50,
+               "badges": [8],
+               "points": 200
+            }]
+         },
+                  {
+            "gameId": 3,
+            "completed":             {
+               "badges": [1],
+               "points": 500
+            },
+            "progress":             [
+                              {
+                  "result": 50,
+                  "badges": [3],
+                  "points": 200
+               },
+                              {
+                  "result": 80,
+                  "badges": [2],
+                  "points": 300
+               }
+            ]
+         }
+      ],
+      "badges":       [
+                  {
+            "id": 2,
+            "name": "Srebrna odznaka - Zabytki sakralne",
+            "description": "Odwiedzono 80% obiektów sakralnych powiązanych z grą",
+            "image": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/church_silver_empty_1.png",
+            "imageGained": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/church_silver_1.png"
+         },
+                  {
+            "id": 3,
+            "name": "Zielona odznaka - Zabytki sakralne",
+            "description": "Odwiedzono 50% obiektów sakralnych powiązanych z grą",
+            "image": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/church_green_empty_1.png",
+            "imageGained": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/church_green_1.png"
+         },
+                  {
+            "id": 4,
+            "name": "Odwiedziłeś 10% miejsc gry",
+            "description": "",
+            "image": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/10__1.png",
+            "imageGained": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/10_1.png"
+         },
+                  {
+            "id": 5,
+            "name": "Odwiedziłeś 20% miejsc gry",
+            "description": "",
+            "image": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/20__1.png",
+            "imageGained": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/20_1.png"
+         },
+                  {
+            "id": 6,
+            "name": "Odwiedziłeś 30% miejsc gry",
+            "description": "",
+            "image": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/30__1.png",
+            "imageGained": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/30_1.png"
+         },
+                  {
+            "id": 7,
+            "name": "Odwiedziłeś 40% miejsc gry",
+            "description": "",
+            "image": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/40__1.png",
+            "imageGained": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/40_1.png"
+         },
+                  {
+            "id": 8,
+            "name": "Odwiedziłeś 50% miejsc gry",
+            "description": "",
+            "image": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/50__1.png",
+            "imageGained": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/50_1.png"
+         },
+                  {
+            "id": 9,
+            "name": "Odwiedziłeś 60% miejsc gry",
+            "description": "",
+            "image": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/60__1.png",
+            "imageGained": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/60_1.png"
+         },
+                  {
+            "id": 10,
+            "name": "Odwiedziłeś 70% miejsc gry",
+            "description": "",
+            "image": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/70__1.png",
+            "imageGained": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/70_1.png"
+         },
+                  {
+            "id": 11,
+            "name": "Odwiedziłeś 80% miejsc gry",
+            "description": "",
+            "image": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/80__1.png",
+            "imageGained": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/80_1.png"
+         },
+                  {
+            "id": 12,
+            "name": "Odwiedziłeś 90% miejsc gry",
+            "description": "",
+            "image": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/90__1.png",
+            "imageGained": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/90_1.png"
+         },
+                  {
+            "id": 13,
+            "name": "Odwiedziłeś 100% miejsc gry",
+            "description": "",
+            "image": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/100__1.png",
+            "imageGained": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/100_1.png"
+         },
+                  {
+            "id": 1,
+            "name": "Złota odznaka - Zabytki sakralne",
+            "description": "Odwiedzono wszystkie obiekty sakralne powiązane z grą",
+            "image": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/church_gold_empty_1.png",
+            "imageGained": "https://gamifier.mmsit.comarch.pl/public/images/badge/new/church_gold_1.png"
+         }
+      ]
+   },
+   "del":    {
+      "games": [],
+      "conditions": [],
+      "awards": [],
+      "badges": []
+   }
 }
