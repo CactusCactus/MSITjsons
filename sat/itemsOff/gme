@@ -1,37 +1,37 @@
 {
-   "timestamp": "2017-07-18 12:30:12",
+   "timestamp": "2017-07-18T12:30:12.000Z",
    "put":    {
       "games":       [
                   {
             "id": 3,
             "name": "Zabytkowe kościoły Krakowa",
             "description": "Czy widziałeś wszystkie zabytkowe kościoły w Krakowie? Podejmij wyzwanie i odwiedź je!! Zobacz jak dawna architektura poruszała..",
-            "activeFrom": "2017-07-01 00:00:00",
-            "activeTo": "2017-12-31 23:55:00",
+            "activeFrom": "2017-07-01T00:00:00.000Z",
+            "activeTo": "2017-12-31T23:55:00.000Z",
             "showInApp": true
          },
                   {
             "id": 6,
             "name": "Ruch to zdrowie",
             "description": "Odwiedź małopolskie atrakcje turystyczne",
-            "activeFrom": "2017-07-08 00:00:00",
-            "activeTo": "2018-01-01 00:00:00",
+            "activeFrom": "2017-07-08T00:00:00.000Z",
+            "activeTo": "2018-01-01T00:00:00.000Z",
             "showInApp": true
          },
                   {
             "id": 16,
             "name": "Wadowice oczami młodego Karola Wojtyły",
             "description": "Odwiedź rodzinne miasto Karola Wojtyły",
-            "activeFrom": "2017-07-01 00:00:00",
-            "activeTo": "2017-12-01 00:00:00",
+            "activeFrom": "2017-07-01T00:00:00.000Z",
+            "activeTo": "2017-12-01T00:00:00.000Z",
             "showInApp": false
          },
                   {
             "id": 17,
             "name": "Wadowice oczami młodego Karola Wojtyły",
             "description": "Odwiedź rodzinne miasto Karola Wojtyły \n",
-            "activeFrom": "2017-07-01 00:00:00",
-            "activeTo": "2017-12-01 00:00:00",
+            "activeFrom": "2017-07-01T00:00:00.000Z",
+            "activeTo": "2017-12-01T00:00:00.000Z",
             "showInApp": true
          }
       ],
