@@ -2,13 +2,12 @@
   "timestamp": "2017-06-07T09:28:34.592Z",
   "put": [
     {
-      "id": 1,
+      "id": "1",
       "beaconId": {
         "uuid": "5dbf4259-189f-4597-9550-b4bb1c2b62e3",
         "major": "1000",
         "minor": "2436"
       },
-      "thingId": "",
       "location": {
             "lon": 19.992576,
             "lat": 50.080565
@@ -16,25 +15,36 @@
       "poiId": 1011030,
       "conContents": [
         {
-          "type": "POI",
-          "id": 101,
-          "label": "Opactwo Benedyktynów w Tyńcu"
+          "item": {
+            "type": "POI",
+            "id": 101,
+            "label": "Opactwo Benedyktynów w Tyńcu"
+            },
+          "schedule" : {
+            "sType" : "A"
+          }
         },
         {
-          "type": "ART",
-          "id": 0,
-          "label": "Akademia Kobiecego Futbolu"
+          "item": {
+            "type": "ART",
+            "id": 0,
+            "label": "Akademia Kobiecego Futbolu"
+          }, 
+          "schedule": {
+            "sType": "O",
+            "dFrom": "2017-07-18T11:34:41+02:00",
+            "dTo": "2017-08-18T12:34:41+02:00"
+          }
         }
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "beaconId": {
         "uuid": "5dbf4259-189f-4597-9550-b4bb1c2b62e3",
         "major": "1000",
         "minor": "4359"
       },
-      "thingId": "",
       "location": {
             "lon": 19.992576,
             "lat": 50.080565
@@ -42,25 +52,38 @@
       "poiId": 1011030,
       "conContents": [
         {
-          "type": "POI",
-          "id": 102,
-          "label": "Oberża Swojskie Jadło"
+          "item" : {
+            "type": "POI",
+            "id": 102,
+            "label": "Oberża Swojskie Jadło"
+          },
+          "schedule": {
+            "sType": "O",
+            "dFrom": "2017-07-18T11:34:41+02:00",
+            "dTo": "2017-08-18T12:34:41+02:00"
+          }
         },
         {
-          "type": "ART",
-          "id": 1,
-          "label": "Ziarnka Gorczycy"
+          "item": {
+            "type": "ART",
+            "id": 1,
+            "label": "Ziarnka Gorczycy"
+          },
+          "schedule": {
+            "sType": "D",
+            "dFrom": "2017-07-18T11:34:41+02:00",
+            "dTo": "2017-08-18T12:34:41+02:00"
+          }
         }
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "beaconId": {
         "uuid": "5dbf4259-189f-4597-9550-b4bb1c2b62e3",
         "major": "1000",
         "minor": "3555"
       },
-      "thingId": "",
       "location": {
             "lon": 19.992576,
             "lat": 50.080565
@@ -68,25 +91,38 @@
       "poiId": 1011030,
       "conContents": [
         {
-          "type": "POI",
-          "id": 1011023,
-          "label": "Zamek Królewski na Wawelu"
+          "item": {
+            "type": "POI",
+            "id": 1011023,
+            "label": "Zamek Królewski na Wawelu"
+          },
+          "schedule": {
+            "sType": "D",
+            "dFrom": "2017-07-18T11:34:41+02:00",
+            "dTo": "2017-08-18T12:34:41+02:00"
+          }
         },
         {
-          "type": "ART",
-          "id": 2,
-          "label": "O gospodarce ..."
+          "item": {
+            "type": "ART",
+            "id": 2,
+            "label": "O gospodarce ..."
+          },
+          "schedule": {
+            "sType": "W",
+            "dFrom": "2017-07-17T11:34:41+02:00",
+            "dTo": "2017-08-19T11:34:41+02:00"
+          }
         }
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "beaconId": {
         "uuid": "5dbf4259-189f-4597-9550-b4bb1c2b62e3",
         "major": "1000",
         "minor": "5968"
       },
-      "thingId": "",
       "location": {
             "lon": 19.992576,
             "lat": 50.080565
@@ -94,25 +130,38 @@
       "poiId": 1011030,
       "conContents": [
         {
-          "type": "POI",
-          "id": 1011024,
-          "label": "Rynek Główny"
+          "item": {
+            "type": "POI",
+            "id": 1011024,
+            "label": "Rynek Główny"
+          },
+          "schedule": {
+            "sType": "W",
+            "dFrom": "2017-07-17T11:34:41+02:00",
+            "dTo": "2017-07-19T11:34:41+02:00"
+          }
         },
         {
-          "type": "ART",
-          "id": 0,
-          "label": "Akademia Kobiecego Futbolu"
+          "item" : {
+            "type": "ART",
+            "id": 0,
+            "label": "Akademia Kobiecego Futbolu"
+          }, 
+          "schedule": {
+            "sType": "M",
+            "dFrom": "2017-07-18T11:34:41+02:00",
+            "dTo": "2017-07-25T11:34:41+02:00"
+          }
         }
       ]
     },
     {
-      "id": 5,
+      "id": "5",
       "beaconId": {
         "uuid": "5dbf4259-189f-4597-9550-b4bb1c2b62e3",
         "major": "1000",
         "minor": "5942"
       },
-      "thingId": "",
       "location": {
             "lon": 19.992576,
             "lat": 50.080565
@@ -120,14 +169,106 @@
       "poiId": 1011030,
       "conContents": [
         {
-          "type": "POI",
-          "id": 101,
-          "label": "Opactwo Benedyktynów w Tyńcu"
+          "item": {
+            "type": "POI",
+            "id": 101,
+            "label": "Opactwo Benedyktynów w Tyńcu"
+          },
+          "schedule": {
+            "sType": "M",
+            "dFrom": "2017-07-18T11:34:41+02:00",
+            "dTo": "2017-07-25T11:34:41+02:00"
+          }
         },
         {
-          "type": "ART",
-          "id": 0,
-          "label": "Akademia Kobiecego Futbolu"
+          "item": {
+            "type": "ART",
+            "id": 0,
+            "label": "Akademia Kobiecego Futbolu"
+          },
+          "schedule": {
+            "sType": "Y",
+            "dFrom": "2017-07-18T11:34:41+02:00",
+            "dTo": "2017-08-18T11:34:41+02:00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "beaconId": {
+        "uuid": "7201f48b-c488-492f-a888-22fe23a57cf8",
+        "major": "10000",
+        "minor": "592"
+      },
+      "location": {
+            "lon": 19.992576,
+            "lat": 50.080565
+      },
+      "poiId": 1011030,
+      "conContents": [
+        {
+          "item": {
+            "type": "POI",
+            "id": 101,
+            "label": "Opactwo Benedyktynów w Tyńcu"
+          },
+          "schedule": {
+            "sType": "W",
+            "dFrom": "2017-07-17T11:34:41+02:00",
+            "dTo": "2017-07-19T11:34:41+02:00"
+          }
+        },
+        {
+          "item": {
+            "type": "ART",
+            "id": 0,
+            "label": "Akademia Kobiecego Futbolu"
+          }, 
+          "schedule": {
+            "sType": "w",
+            "dFrom": "2017-07-19T11:34:41+02:00",
+            "dTo": "2017-07-22T11:34:41+02:00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "beaconId": {
+        "uuid": "7201f48b-c488-492f-a888-22fe23a57cf8",
+        "major": "10000",
+        "minor": "954"
+      },
+      "location": {
+            "lon": 19.992576,
+            "lat": 50.080565
+      },
+      "poiId": 1011030,
+      "conContents": [
+        {
+          "item": {
+            "type": "POI",
+            "id": 101,
+            "label": "Opactwo Benedyktynów w Tyńcu"
+          },
+          "schedule": {
+            "sType": "W",
+            "dFrom": "2017-07-17T11:34:41+02:00",
+            "dTo": "2017-07-19T11:34:41+02:00"
+          }
+        },
+        {
+          "item": {
+            "type": "ART",
+            "id": 0,
+            "label": "Akademia Kobiecego Futbolu"
+          },
+          "schedule": {
+            "sType": "W",
+            "dFrom": "2017-07-19T11:34:41+02:00",
+            "dTo": "2017-07-23T11:34:41+02:00"
+          }
         }
       ]
     }
