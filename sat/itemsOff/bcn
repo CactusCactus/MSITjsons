@@ -21,7 +21,17 @@
             "label": "Opactwo Benedyktynów w Tyńcu"
             },
           "schedule" : {
-            "sType" : "A"
+            "stype" : "A"
+          }
+        },
+        {
+          "item": {
+            "type": "URL",
+            "url": "http://www.onet.pl",
+            "label": "Strona startowa Onet"
+            },
+          "schedule" : {
+            "stype" : "A"
           }
         },
         {
@@ -31,9 +41,9 @@
             "label": "Akademia Kobiecego Futbolu"
           }, 
           "schedule": {
-            "sType": "O",
-            "dFrom": "2017-07-18T11:34:41+02:00",
-            "dTo": "2017-08-18T12:34:41+02:00"
+            "stype": "O",
+            "dfrom": "2017-07-18T11:34:41+02:00",
+            "dto": "2017-08-18T12:34:41+02:00"
           }
         }
       ]
@@ -58,9 +68,19 @@
             "label": "Oberża Swojskie Jadło"
           },
           "schedule": {
-            "sType": "O",
-            "dFrom": "2017-07-18T11:34:41+02:00",
-            "dTo": "2017-08-18T12:34:41+02:00"
+            "stype": "O",
+            "dfrom": "2017-07-18T11:34:41+02:00",
+            "dto": "2017-08-18T12:34:41+02:00"
+          }
+        },
+        {
+          "item": {
+            "type": "URL",
+            "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=5ae0c389-6f09-4488-95e7-d5554c34b16e&groupId=20194",
+            "label": "Treść portalu"
+            },
+          "schedule" : {
+            "stype" : "A"
           }
         },
         {
@@ -70,9 +90,9 @@
             "label": "Ziarnka Gorczycy"
           },
           "schedule": {
-            "sType": "D",
-            "dFrom": "2017-07-18T11:34:41+02:00",
-            "dTo": "2017-08-18T12:34:41+02:00"
+            "stype": "D",
+            "dfrom": "2017-07-18T11:34:41+02:00",
+            "dto": "2017-08-18T12:34:41+02:00"
           }
         }
       ]
@@ -97,9 +117,19 @@
             "label": "Zamek Królewski na Wawelu"
           },
           "schedule": {
-            "sType": "D",
-            "dFrom": "2017-07-18T11:34:41+02:00",
-            "dTo": "2017-08-18T12:34:41+02:00"
+            "stype": "D",
+            "dfrom": "2017-07-18T11:34:41+02:00",
+            "dto": "2017-08-18T12:34:41+02:00"
+          }
+        },
+        {
+          "item": {
+            "type": "URL",
+            "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=bfe3d4a1-f914-436f-a5d8-d37276db1d0a&groupId=20194",
+            "label": "Treść portalu"
+            },
+          "schedule" : {
+            "stype" : "A"
           }
         },
         {
@@ -109,9 +139,9 @@
             "label": "O gospodarce ..."
           },
           "schedule": {
-            "sType": "W",
-            "dFrom": "2017-07-17T11:34:41+02:00",
-            "dTo": "2017-08-19T11:34:41+02:00"
+            "stype": "W",
+            "dfrom": "2017-07-17T11:34:41+02:00",
+            "dto": "2017-08-19T11:34:41+02:00"
           }
         }
       ]
@@ -136,9 +166,19 @@
             "label": "Rynek Główny"
           },
           "schedule": {
-            "sType": "W",
-            "dFrom": "2017-07-17T11:34:41+02:00",
-            "dTo": "2017-07-19T11:34:41+02:00"
+            "stype": "W",
+            "dfrom": "2017-07-17T11:34:41+02:00",
+            "dto": "2017-07-19T11:34:41+02:00"
+          }
+        },
+        {
+          "item": {
+            "type": "URL",
+            "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=5ae0c389-6f09-4488-95e7-d5554c34b16e&groupId=20194",
+            "label": "Treść portalu"
+            },
+          "schedule" : {
+            "stype" : "A"
           }
         },
         {
@@ -148,9 +188,9 @@
             "label": "Akademia Kobiecego Futbolu"
           }, 
           "schedule": {
-            "sType": "M",
-            "dFrom": "2017-07-18T11:34:41+02:00",
-            "dTo": "2017-07-25T11:34:41+02:00"
+            "stype": "M",
+            "dfrom": "2017-07-18T11:34:41+02:00",
+            "dto": "2017-07-25T11:34:41+02:00"
           }
         }
       ]
@@ -175,9 +215,19 @@
             "label": "Opactwo Benedyktynów w Tyńcu"
           },
           "schedule": {
-            "sType": "M",
-            "dFrom": "2017-07-18T11:34:41+02:00",
-            "dTo": "2017-07-25T11:34:41+02:00"
+            "stype": "M",
+            "dfrom": "2017-07-18T11:34:41+02:00",
+            "dto": "2017-07-25T11:34:41+02:00"
+          }
+        },
+        {
+          "item": {
+            "type": "URL",
+            "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=bfe3d4a1-f914-436f-a5d8-d37276db1d0a&groupId=20194",
+            "label": "Treść portalu"
+            },
+          "schedule" : {
+            "stype" : "A"
           }
         },
         {
@@ -187,9 +237,9 @@
             "label": "Akademia Kobiecego Futbolu"
           },
           "schedule": {
-            "sType": "Y",
-            "dFrom": "2017-07-18T11:34:41+02:00",
-            "dTo": "2017-08-18T11:34:41+02:00"
+            "stype": "Y",
+            "dfrom": "2017-07-18T11:34:41+02:00",
+            "dto": "2017-08-18T11:34:41+02:00"
           }
         }
       ]
@@ -214,9 +264,19 @@
             "label": "Opactwo Benedyktynów w Tyńcu"
           },
           "schedule": {
-            "sType": "W",
-            "dFrom": "2017-07-17T11:34:41+02:00",
-            "dTo": "2017-07-19T11:34:41+02:00"
+            "stype": "W",
+            "dfrom": "2017-07-17T11:34:41+02:00",
+            "dto": "2017-07-19T11:34:41+02:00"
+          }
+        },
+        {
+          "item": {
+            "type": "URL",
+            "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=5ae0c389-6f09-4488-95e7-d5554c34b16e&groupId=20194",
+            "label": "Treść portalu"
+            },
+          "schedule" : {
+            "stype" : "A"
           }
         },
         {
@@ -226,9 +286,9 @@
             "label": "Akademia Kobiecego Futbolu"
           }, 
           "schedule": {
-            "sType": "w",
-            "dFrom": "2017-07-19T11:34:41+02:00",
-            "dTo": "2017-07-22T11:34:41+02:00"
+            "stype": "w",
+            "dfrom": "2017-07-19T11:34:41+02:00",
+            "dto": "2017-07-22T11:34:41+02:00"
           }
         }
       ]
@@ -253,9 +313,19 @@
             "label": "Opactwo Benedyktynów w Tyńcu"
           },
           "schedule": {
-            "sType": "W",
-            "dFrom": "2017-07-17T11:34:41+02:00",
-            "dTo": "2017-07-19T11:34:41+02:00"
+            "stype": "W",
+            "dfrom": "2017-07-17T11:34:41+02:00",
+            "dto": "2017-07-19T11:34:41+02:00"
+          }
+        },
+        {
+          "item": {
+            "type": "URL",
+            "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=bfe3d4a1-f914-436f-a5d8-d37276db1d0a&groupId=20194",
+            "label": "Treść portalu"
+            },
+          "schedule" : {
+            "stype" : "A"
           }
         },
         {
@@ -265,9 +335,9 @@
             "label": "Akademia Kobiecego Futbolu"
           },
           "schedule": {
-            "sType": "W",
-            "dFrom": "2017-07-19T11:34:41+02:00",
-            "dTo": "2017-07-23T11:34:41+02:00"
+            "stype": "W",
+            "dfrom": "2017-07-19T11:34:41+02:00",
+            "dto": "2017-07-23T11:34:41+02:00"
           }
         }
       ]
