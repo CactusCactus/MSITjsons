@@ -222,7 +222,7 @@
 		"name": "STR_FAV",
 		"icon": "IC_FAV",
 		"code": "FAV",
-		"color": "#F2D210"
+		"color": "#ffd600"
 	}, {
 		"id": 6,
 		"name": "STR_MAP",
