@@ -269,6 +269,19 @@
             "dTo": "2017-07-19T11:34:41+02:00"
           }
         },
+         {
+                    "item": {
+                        "type": "URL",
+                        "id": 385966,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=3f5b1a4a-5867-445b-a615-33d154142949&groupId=20194",
+                        "label": "tarn_w-0d672ac5-5ed1-4daf-aa24-3ea0376123ad.jpg"
+                    },
+                    "schedule": {
+                        "stype": "Y",
+                        "dfrom": "2017-01-01T01:00:00+01:00",
+                        "dto": "2017-03-31T02:00:00+01:00"
+                    }
+                },
         {
           "item": {
             "type": "ART",
