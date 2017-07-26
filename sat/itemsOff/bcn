@@ -25,6 +25,17 @@
           }
         },
         {
+                    "item": {
+                        "type": "URL",
+                        "id": 388174,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=5ae0c389-6f09-4488-95e7-d5554c34b16e&groupId=20194",
+                        "label": "Hymn Polski"
+                    },
+                    "schedule": {
+                        "stype": "A"
+                    }
+        },
+        {
           "item": {
             "type": "POI",
             "id": 102,
