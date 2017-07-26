@@ -26,9 +26,9 @@
         },
         {
           "item": {
-            "type": "ART",
-            "id": 0,
-            "label": "Akademia Kobiecego Futbolu"
+            "type": "POI",
+            "id": 102,
+            "label": "Jadło u Miszela"
           }, 
           "schedule": {
             "sType": "O",
