@@ -182,9 +182,9 @@
         },
         {
           "item": {
-            "type": "ART",
-            "id": 0,
-            "label": "Akademia Kobiecego Futbolu"
+            "type": "POI",
+            "id": 1011024,
+            "label": "Krakowski targ na Rynku"
           },
           "schedule": {
             "sType": "Y",
