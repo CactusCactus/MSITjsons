@@ -277,9 +277,7 @@
                         "label": "tarn_w-0d672ac5-5ed1-4daf-aa24-3ea0376123ad.jpg"
                     },
                     "schedule": {
-                        "stype": "Y",
-                        "dfrom": "2017-01-01T01:00:00+01:00",
-                        "dto": "2017-03-31T02:00:00+01:00"
+                        "stype": "A"
                     }
                 },
         {
