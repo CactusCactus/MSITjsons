@@ -12,7 +12,7 @@
             "lon": 19.992576,
             "lat": 50.080565
       },
-      "poiId": 1011030,
+      "poiId": 1011023,
       "conContents": [
         {
           "item": {
@@ -35,10 +35,21 @@
           }
         },
         {
+                    "item": {
+                        "type": "URL",
+                        "id": 388174,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=5ae0c389-6f09-4488-95e7-d5554c34b16e&groupId=20194",
+                        "label": "Hymn Polski"
+                    },
+                    "schedule": {
+                        "stype": "A"
+                    }
+        },
+        {
           "item": {
-            "type": "ART",
-            "id": 0,
-            "label": "Akademia Kobiecego Futbolu"
+            "type": "POI",
+            "id": 102,
+            "label": "Jadło u Miszela"
           }, 
           "schedule": {
             "stype": "O",
@@ -59,7 +70,7 @@
             "lon": 19.992576,
             "lat": 50.080565
       },
-      "poiId": 1011030,
+      "poiId": 1011024,
       "conContents": [
         {
           "item" : {
@@ -108,7 +119,7 @@
             "lon": 19.992576,
             "lat": 50.080565
       },
-      "poiId": 1011030,
+      "poiId": 1011025,
       "conContents": [
         {
           "item": {
@@ -157,7 +168,7 @@
             "lon": 19.992576,
             "lat": 50.080565
       },
-      "poiId": 1011030,
+      "poiId": 1011026,
       "conContents": [
         {
           "item": {
@@ -206,7 +217,7 @@
             "lon": 19.992576,
             "lat": 50.080565
       },
-      "poiId": 1011030,
+      "poiId": 1011028,
       "conContents": [
         {
           "item": {
@@ -232,9 +243,9 @@
         },
         {
           "item": {
-            "type": "ART",
-            "id": 0,
-            "label": "Akademia Kobiecego Futbolu"
+            "type": "POI",
+            "id": 1011024,
+            "label": "Krakowski targ na Rynku"
           },
           "schedule": {
             "stype": "Y",
@@ -255,7 +266,7 @@
             "lon": 19.992576,
             "lat": 50.080565
       },
-      "poiId": 1011030,
+      "poiId": 101,
       "conContents": [
         {
           "item": {
@@ -304,7 +315,7 @@
             "lon": 19.992576,
             "lat": 50.080565
       },
-      "poiId": 1011030,
+      "poiId": 102,
       "conContents": [
         {
           "item": {
@@ -328,6 +339,17 @@
             "stype" : "A"
           }
         },
+         {
+                    "item": {
+                        "type": "URL",
+                        "id": 385966,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=3f5b1a4a-5867-445b-a615-33d154142949&groupId=20194",
+                        "label": "Kiosk w Tarnowie"
+                    },
+                    "schedule": {
+                        "stype": "A"
+                    }
+                },
         {
           "item": {
             "type": "ART",

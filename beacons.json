@@ -1,94 +1,321 @@
 {
-	"beacons": [
-	{
-		"id": 3555,
-		"thingId": 0,
-		"location": 0,
-		"poiId": 0,
-		"connectedContentList": [
-			{
-			"id": 1011023,
-			"category": "AC_POI_OPEN",
-			"name": "Zamek królewski na Wawelu 3555"
-			},
-			{
-			"id": 13227638,
-			"category": "AC_AUDIO_OPEN",
-			"name": "Dywagacje na temat Brexitu 3555"
-			}
-		]
-	},
-	{
-		"id": 2436,
-		"thingId": 0,
-		"location": 0,
-		"poiId": 0,
-		"connectedContentList": [
-			{
-			"id": 1011023,
-			"category": "AC_POI_OPEN",
-			"name": "Zamek królewski na Wawelu 2436"
-			},
-			{
-			"id": 13227638,
-			"category": "AC_AUDIO_OPEN",
-			"name": "Dywagacje na temat Brexitu 2436" 
-			}
-		]
-	},
-	{
-		"id": 3228,
-		"thingId": 0,
-		"location": 0,
-		"poiId": 0,
-		"connectedContentList": [
-			{
-			"id": 1011023,
-			"category": "AC_POI_OPEN",
-			"name": "Zamek królewski na Wawelu 3228"
-			},
-			{
-			"id": 13227638,
-			"category": "AC_AUDIO_OPEN",
-			"name": "Dywagacje na temat Brexitu 3228"
-			}
-		]
-	},
-	{
-		"id": 2776,
-		"thingId": 0,
-		"location": 0,
-		"poiId": 0,
-		"connectedContentList": [
-			{
-			"id": 1011023,
-			"category": "AC_POI_OPEN",
-			"name": "Zamek królewski na Wawelu 2776"
-			},
-			{
-			"id": 13227638,
-			"category": "AC_AUDIO_OPEN",
-			"name": "Dywagacje na temat Brexitu 2776"
-			}
-		]
-	},
-	{
-		"id": 3556,
-		"thingId": 0,
-		"location": 0,
-		"poiId": 0,
-		"connectedContentList": [
-			{
-			"id": 1011023,
-			"category": "AC_POI_OPEN",
-			"name": "Zamek królewski na Wawelu 3556"
-			},
-			{
-			"id": 13227638,
-			"category": "AC_AUDIO_OPEN",
-			"name": "Dywagacje na temat Brexitu 3556"
-			}
-		]
-	}
-	]
+    "timestamp": "2017-07-27 10:15:14",
+    "put": [
+        {
+            "id": "1697",
+            "beaconId": {
+                "uuid": "7201f48b-c488-492f-a888-22fe23a57cf8",
+                "major": "10000",
+                "minor": "1508"
+            },
+            "location": {
+                "lon": 19.48945,
+                "lat": 49.88361,
+                "ele": 0
+            },
+            "poiId": 8129,
+            "conContents": [
+                {
+                    "item": {
+                        "type": "URL",
+                        "id": 384133,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=bfe3d4a1-f914-436f-a5d8-d37276db1d0a&groupId=20194",
+                        "label": "tarn_w-b30f10cf-9cc1-4052-a1e8-d0dc10ef68d5.jpg"
+                    },
+                    "schedule": {
+                        "stype": "A"
+                    }
+                },
+                {
+                    "item": {
+                        "type": "POI",
+                        "id": 8129,
+                        "label": "Dawne gimnazjum, Wadowice"
+                    },
+                    "schedule": {
+                        "stype": "A"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "1696",
+            "beaconId": {
+                "uuid": "7201f48b-c488-492f-a888-22fe23a57cf8",
+                "major": "10000",
+                "minor": "1341"
+            },
+            "location": {
+                "lon": 19.60168,
+                "lat": 49.74627,
+                "ele": 0
+            },
+            "poiId": 8608,
+            "conContents": [
+                {
+                    "item": {
+                        "type": "POI",
+                        "id": 8608,
+                        "label": "Zamek w Suchej Beskidzkiej"
+                    },
+                    "schedule": {
+                        "stype": "A"
+                    }
+                },
+                {
+                    "item": {
+                        "type": "URL",
+                        "id": 388174,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=5ae0c389-6f09-4488-95e7-d5554c34b16e&groupId=20194",
+                        "label": "Hymn Polski"
+                    },
+                    "schedule": {
+                        "stype": "A"
+                    }
+                },
+                {
+                    "item": {
+                        "type": "URL",
+                        "id": 385966,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=3f5b1a4a-5867-445b-a615-33d154142949&groupId=20194",
+                        "label": "tarn_w-0d672ac5-5ed1-4daf-aa24-3ea0376123ad.jpg"
+                    },
+                    "schedule": {
+                        "stype": "Y",
+                        "dfrom": "2017-01-01 01:00:00",
+                        "dto": "2017-03-31 02:00:00"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "1619",
+            "beaconId": {
+                "uuid": "7201f48b-c488-492f-a888-22fe23a57cf8",
+                "major": "10000",
+                "minor": "592"
+            },
+            "location": {
+                "lon": 19.94972,
+                "lat": 49.29506,
+                "ele": 0
+            },
+            "poiId": 8210,
+            "conContents": [
+                {
+                    "item": {
+                        "type": "POI",
+                        "id": 8210,
+                        "label": "Muzeum Tatrzańskie w Zakopanem"
+                    },
+                    "schedule": {
+                        "stype": "A",
+                        "dfrom": "2017-07-26 02:00:00",
+                        "dto": "2017-07-26 02:00:00"
+                    }
+                },
+                {
+                    "item": {
+                        "type": "URL",
+                        "id": 384147,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=4bc750de-b944-4582-abe0-e5ef76b554db&groupId=20194",
+                        "label": "Dąbrowa d5"
+                    },
+                    "schedule": {
+                        "stype": "M",
+                        "dfrom": "2017-07-16 11:00:00",
+                        "dto": "2017-07-29 16:00:00"
+                    }
+                },
+                {
+                    "item": {
+                        "type": "URL",
+                        "id": 388174,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=5ae0c389-6f09-4488-95e7-d5554c34b16e&groupId=20194",
+                        "label": "Hymn Polski"
+                    },
+                    "schedule": {
+                        "stype": "W",
+                        "dfrom": "2017-07-23 09:00:00",
+                        "dto": "2017-07-29 14:30:00"
+                    }
+                },
+                {
+                    "item": {
+                        "type": "URL",
+                        "id": 385966,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=3f5b1a4a-5867-445b-a615-33d154142949&groupId=20194",
+                        "label": "Tarnów 3ad"
+                    },
+                    "schedule": {
+                        "stype": "O",
+                        "dfrom": "2017-07-25 11:00:00",
+                        "dto": "2017-07-26 16:00:00"
+                    }
+                },
+                {
+                    "item": {
+                        "type": "ART",
+                        "id": 388224,
+                        "label": "testowy tytuł beacon"
+                    },
+                    "schedule": {
+                        "stype": "A"
+                    }
+                },
+                {
+                    "item": {
+                        "type": "URL",
+                        "id": 388296,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=78ba3a3a-74a4-453b-b998-674493636008&groupId=20194",
+                        "label": "Przykład filmu 01"
+                    },
+                    "schedule": {
+                        "stype": "A"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "3555",
+            "beaconId": {
+                "uuid": "7201f48b-c488-492f-a888-22fe23a57cf8",
+                "major": "10000",
+                "minor": "3555"
+            },
+            "location": {
+                "lon": 19.94972,
+                "lat": 49.29506,
+                "ele": 0
+            },
+            "poiId": 8210,
+            "conContents": [
+                {
+                    "item": {
+                        "type": "POI",
+                        "id": 8210,
+                        "label": "Muzeum Tatrzańskie w Zakopanem"
+                    },
+                    "schedule": {
+                        "stype": "A",
+                        "dfrom": "2017-07-26 02:00:00",
+                        "dto": "2017-07-26 02:00:00"
+                    }
+                },
+                {
+                    "item": {
+                        "type": "URL",
+                        "id": 384147,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=4bc750de-b944-4582-abe0-e5ef76b554db&groupId=20194",
+                        "label": "Dąbrowa d5"
+                    },
+                    "schedule": {
+                        "stype": "M",
+                        "dfrom": "2017-07-16 11:00:00",
+                        "dto": "2017-07-29 16:00:00"
+                    }
+                },
+                {
+                    "item": {
+                        "type": "URL",
+                        "id": 388174,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=5ae0c389-6f09-4488-95e7-d5554c34b16e&groupId=20194",
+                        "label": "Hymn Polski"
+                    },
+                    "schedule": {
+                        "stype": "W",
+                        "dfrom": "2017-07-23 09:00:00",
+                        "dto": "2017-07-29 14:30:00"
+                    }
+                },
+                {
+                    "item": {
+                        "type": "URL",
+                        "id": 385966,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=3f5b1a4a-5867-445b-a615-33d154142949&groupId=20194",
+                        "label": "Tarnów 3ad"
+                    },
+                    "schedule": {
+                        "stype": "O",
+                        "dfrom": "2017-07-25 11:00:00",
+                        "dto": "2017-07-26 16:00:00"
+                    }
+                },
+                {
+                    "item": {
+                        "type": "ART",
+                        "id": 388224,
+                        "label": "testowy tytuł beacon"
+                    },
+                    "schedule": {
+                        "stype": "A"
+                    }
+                },
+                {
+                    "item": {
+                        "type": "URL",
+                        "id": 388296,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=78ba3a3a-74a4-453b-b998-674493636008&groupId=20194",
+                        "label": "Przykład filmu 01"
+                    },
+                    "schedule": {
+                        "stype": "A"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "934",
+            "beaconId": {
+                "uuid": "7201f48b-c488-492f-a888-22fe23a57cf8",
+                "major": "10000",
+                "minor": "954"
+            },
+            "location": {
+                "lon": 19.93342,
+                "lat": 50.05367,
+                "ele": 0
+            },
+            "poiId": 4555,
+            "conContents": [
+                {
+                    "item": {
+                        "type": "URL",
+                        "id": 384147,
+                        "url": "https://mmsit.comarch.pl/c/document_library/get_file?uuid=4bc750de-b944-4582-abe0-e5ef76b554db&groupId=20194",
+                        "label": "Dąbrowa d5"
+                    },
+                    "schedule": {
+                        "stype": "W",
+                        "dfrom": "2017-07-27 08:00:00",
+                        "dto": "2017-07-27 16:15:00"
+                    }
+                },
+                {
+                    "item": {
+                        "type": "ART",
+                        "id": 388224,
+                        "label": "testowy tytuł beacon"
+                    },
+                    "schedule": {
+                        "stype": "A",
+                        "dfrom": "2017-07-26 02:00:00",
+                        "dto": "2017-07-26 02:00:00"
+                    }
+                },
+                {
+                    "item": {
+                        "type": "EVN",
+                        "id": 7315,
+                        "label": "Wiosna Jazzowa"
+                    },
+                    "schedule": {
+                        "stype": "Y",
+                        "dfrom": "2017-07-01 02:00:00",
+                        "dto": "2017-08-01 02:00:00"
+                    }
+                }
+            ]
+        }
+    ]
 }
