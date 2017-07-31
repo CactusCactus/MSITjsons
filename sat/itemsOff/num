@@ -6,7 +6,7 @@
       "cat": "E1",
       "name": "Pogotowie ratunkowe",
       "desc": "Pogotowie ratunkowe w Krakowie",
-      "number": "999",
+      "number": "123-999",
       "areas": [
         {
           "point": {
@@ -22,7 +22,7 @@
       "cat": "E2",
       "name": "Straż miejska",
       "desc": "Telefon Dyżurny Komendy Straży Miejskiej",
-      "number": "986",
+      "number": "123-986",
       "areas": [
         {
           "point": {
@@ -38,7 +38,7 @@
       "cat": "E3",
       "name": "Straż pożarna",
       "desc": "Straż pożarna w Krakowie",
-      "number": "998",
+      "number": "123-998",
       "areas": [
         {
           "point": {
@@ -54,7 +54,7 @@
       "cat": "E4",
       "name": "TOPR",
       "desc": "Tatrzańskie Ochotnicze Pogotowie Ratunkowe",
-      "number": "985",
+      "number": "123-985",
       "areas": [
         {
           "point": {
@@ -70,7 +70,7 @@
       "cat": "E5",
       "name": "GOPR",
       "desc": "Górskie Ochotnicze Pogotowie Ratunkowe",
-      "number": "601100300",
+      "number": "123-601100300",
       "areas": [
         {
           "point": {
@@ -86,7 +86,7 @@
       "cat": "E6",
       "name": "Policja",
       "desc": "Komenda miejska Policji w Krakowie",
-      "number": "997",
+      "number": "123-997",
       "areas": [
         {
           "point": {
@@ -102,7 +102,7 @@
       "cat": "E7",
       "name": "112",
       "desc": "Numer alarmowy 112",
-      "number": "112",
+      "number": "123-112",
       "areas": []
     }
   ]
